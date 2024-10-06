@@ -1,0 +1,5281 @@
+title: Technicolor River
+originalAuthor: danimalforlife
+description: Fixes Timeless River by adding color.
+dependencies: 
+assets:
+- name: remastered/map/wi00.map/-0.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-0.dds
+- name: remastered/map/wi00.map/-1.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-1.dds
+- name: remastered/map/wi00.map/-10.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-10.dds
+- name: remastered/map/wi00.map/-11.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-11.dds
+- name: remastered/map/wi00.map/-12.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-12.dds
+- name: remastered/map/wi00.map/-13.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-13.dds
+- name: remastered/map/wi00.map/-14.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-14.dds
+- name: remastered/map/wi00.map/-15.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-15.dds
+- name: remastered/map/wi00.map/-16.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-16.dds
+- name: remastered/map/wi00.map/-17.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-17.dds
+- name: remastered/map/wi00.map/-18.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-18.dds
+- name: remastered/map/wi00.map/-19.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-19.dds
+- name: remastered/map/wi00.map/-2.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-2.dds
+- name: remastered/map/wi00.map/-20.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-20.dds
+- name: remastered/map/wi00.map/-21.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-21.dds
+- name: remastered/map/wi00.map/-22.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-22.dds
+- name: remastered/map/wi00.map/-23.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-23.dds
+- name: remastered/map/wi00.map/-24.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-24.dds
+- name: remastered/map/wi00.map/-25.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-25.dds
+- name: remastered/map/wi00.map/-26.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-26.dds
+- name: remastered/map/wi00.map/-27.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-27.dds
+- name: remastered/map/wi00.map/-28.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-28.dds
+- name: remastered/map/wi00.map/-29.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-29.dds
+- name: remastered/map/wi00.map/-3.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-3.dds
+- name: remastered/map/wi00.map/-30.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-30.dds
+- name: remastered/map/wi00.map/-31.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-31.dds
+- name: remastered/map/wi00.map/-32.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-32.dds
+- name: remastered/map/wi00.map/-33.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-33.dds
+- name: remastered/map/wi00.map/-34.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-34.dds
+- name: remastered/map/wi00.map/-35.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-35.dds
+- name: remastered/map/wi00.map/-36.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-36.dds
+- name: remastered/map/wi00.map/-37.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-37.dds
+- name: remastered/map/wi00.map/-38.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-38.dds
+- name: remastered/map/wi00.map/-39.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-39.dds
+- name: remastered/map/wi00.map/-4.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-4.dds
+- name: remastered/map/wi00.map/-40.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-40.dds
+- name: remastered/map/wi00.map/-41.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-41.dds
+- name: remastered/map/wi00.map/-42.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-42.dds
+- name: remastered/map/wi00.map/-43.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-43.dds
+- name: remastered/map/wi00.map/-44.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-44.dds
+- name: remastered/map/wi00.map/-45.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-45.dds
+- name: remastered/map/wi00.map/-46.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-46.dds
+- name: remastered/map/wi00.map/-47.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-47.dds
+- name: remastered/map/wi00.map/-48.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-48.dds
+- name: remastered/map/wi00.map/-49.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-49.dds
+- name: remastered/map/wi00.map/-5.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-5.dds
+- name: remastered/map/wi00.map/-50.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-50.dds
+- name: remastered/map/wi00.map/-51.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-51.dds
+- name: remastered/map/wi00.map/-52.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-52.dds
+- name: remastered/map/wi00.map/-53.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-53.dds
+- name: remastered/map/wi00.map/-54.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-54.dds
+- name: remastered/map/wi00.map/-55.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-55.dds
+- name: remastered/map/wi00.map/-56.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-56.dds
+- name: remastered/map/wi00.map/-57.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-57.dds
+- name: remastered/map/wi00.map/-58.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-58.dds
+- name: remastered/map/wi00.map/-59.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-59.dds
+- name: remastered/map/wi00.map/-6.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-6.dds
+- name: remastered/map/wi00.map/-60.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-60.dds
+- name: remastered/map/wi00.map/-61.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-61.dds
+- name: remastered/map/wi00.map/-62.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-62.dds
+- name: remastered/map/wi00.map/-63.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-63.dds
+- name: remastered/map/wi00.map/-64.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-64.dds
+- name: remastered/map/wi00.map/-65.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-65.dds
+- name: remastered/map/wi00.map/-66.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-66.dds
+- name: remastered/map/wi00.map/-67.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-67.dds
+- name: remastered/map/wi00.map/-68.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-68.dds
+- name: remastered/map/wi00.map/-69.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-69.dds
+- name: remastered/map/wi00.map/-7.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-7.dds
+- name: remastered/map/wi00.map/-70.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-70.dds
+- name: remastered/map/wi00.map/-71.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-71.dds
+- name: remastered/map/wi00.map/-72.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-72.dds
+- name: remastered/map/wi00.map/-73.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-73.dds
+- name: remastered/map/wi00.map/-74.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-74.dds
+- name: remastered/map/wi00.map/-75.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-75.dds
+- name: remastered/map/wi00.map/-8.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-8.dds
+- name: remastered/map/wi00.map/-9.dds
+  method: copy
+  source:
+  - name: remastered/map/wi00.map/-9.dds
+- name: remastered/map/wi01.map/-0.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-0.dds
+- name: remastered/map/wi01.map/-1.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-1.dds
+- name: remastered/map/wi01.map/-10.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-10.dds
+- name: remastered/map/wi01.map/-11.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-11.dds
+- name: remastered/map/wi01.map/-12.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-12.dds
+- name: remastered/map/wi01.map/-13.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-13.dds
+- name: remastered/map/wi01.map/-14.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-14.dds
+- name: remastered/map/wi01.map/-15.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-15.dds
+- name: remastered/map/wi01.map/-16.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-16.dds
+- name: remastered/map/wi01.map/-17.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-17.dds
+- name: remastered/map/wi01.map/-18.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-18.dds
+- name: remastered/map/wi01.map/-19.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-19.dds
+- name: remastered/map/wi01.map/-2.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-2.dds
+- name: remastered/map/wi01.map/-20.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-20.dds
+- name: remastered/map/wi01.map/-21.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-21.dds
+- name: remastered/map/wi01.map/-22.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-22.dds
+- name: remastered/map/wi01.map/-23.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-23.dds
+- name: remastered/map/wi01.map/-24.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-24.dds
+- name: remastered/map/wi01.map/-25.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-25.dds
+- name: remastered/map/wi01.map/-26.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-26.dds
+- name: remastered/map/wi01.map/-27.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-27.dds
+- name: remastered/map/wi01.map/-28.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-28.dds
+- name: remastered/map/wi01.map/-29.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-29.dds
+- name: remastered/map/wi01.map/-3.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-3.dds
+- name: remastered/map/wi01.map/-30.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-30.dds
+- name: remastered/map/wi01.map/-31.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-31.dds
+- name: remastered/map/wi01.map/-32.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-32.dds
+- name: remastered/map/wi01.map/-33.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-33.dds
+- name: remastered/map/wi01.map/-34.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-34.dds
+- name: remastered/map/wi01.map/-35.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-35.dds
+- name: remastered/map/wi01.map/-36.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-36.dds
+- name: remastered/map/wi01.map/-37.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-37.dds
+- name: remastered/map/wi01.map/-38.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-38.dds
+- name: remastered/map/wi01.map/-39.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-39.dds
+- name: remastered/map/wi01.map/-4.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-4.dds
+- name: remastered/map/wi01.map/-40.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-40.dds
+- name: remastered/map/wi01.map/-41.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-41.dds
+- name: remastered/map/wi01.map/-42.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-42.dds
+- name: remastered/map/wi01.map/-43.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-43.dds
+- name: remastered/map/wi01.map/-44.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-44.dds
+- name: remastered/map/wi01.map/-45.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-45.dds
+- name: remastered/map/wi01.map/-46.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-46.dds
+- name: remastered/map/wi01.map/-47.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-47.dds
+- name: remastered/map/wi01.map/-48.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-48.dds
+- name: remastered/map/wi01.map/-49.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-49.dds
+- name: remastered/map/wi01.map/-5.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-5.dds
+- name: remastered/map/wi01.map/-50.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-50.dds
+- name: remastered/map/wi01.map/-51.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-51.dds
+- name: remastered/map/wi01.map/-52.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-52.dds
+- name: remastered/map/wi01.map/-53.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-53.dds
+- name: remastered/map/wi01.map/-54.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-54.dds
+- name: remastered/map/wi01.map/-55.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-55.dds
+- name: remastered/map/wi01.map/-56.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-56.dds
+- name: remastered/map/wi01.map/-57.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-57.dds
+- name: remastered/map/wi01.map/-58.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-58.dds
+- name: remastered/map/wi01.map/-59.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-59.dds
+- name: remastered/map/wi01.map/-6.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-6.dds
+- name: remastered/map/wi01.map/-60.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-60.dds
+- name: remastered/map/wi01.map/-61.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-61.dds
+- name: remastered/map/wi01.map/-62.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-62.dds
+- name: remastered/map/wi01.map/-63.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-63.dds
+- name: remastered/map/wi01.map/-64.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-64.dds
+- name: remastered/map/wi01.map/-65.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-65.dds
+- name: remastered/map/wi01.map/-66.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-66.dds
+- name: remastered/map/wi01.map/-67.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-67.dds
+- name: remastered/map/wi01.map/-7.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-7.dds
+- name: remastered/map/wi01.map/-8.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-8.dds
+- name: remastered/map/wi01.map/-9.dds
+  method: copy
+  source:
+  - name: remastered/map/wi01.map/-9.dds
+- name: remastered/map/wi02.map/-0.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-0.dds
+- name: remastered/map/wi02.map/-1.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-1.dds
+- name: remastered/map/wi02.map/-10.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-10.dds
+- name: remastered/map/wi02.map/-11.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-11.dds
+- name: remastered/map/wi02.map/-12.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-12.dds
+- name: remastered/map/wi02.map/-13.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-13.dds
+- name: remastered/map/wi02.map/-14.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-14.dds
+- name: remastered/map/wi02.map/-15.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-15.dds
+- name: remastered/map/wi02.map/-16.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-16.dds
+- name: remastered/map/wi02.map/-17.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-17.dds
+- name: remastered/map/wi02.map/-18.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-18.dds
+- name: remastered/map/wi02.map/-19.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-19.dds
+- name: remastered/map/wi02.map/-2.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-2.dds
+- name: remastered/map/wi02.map/-20.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-20.dds
+- name: remastered/map/wi02.map/-21.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-21.dds
+- name: remastered/map/wi02.map/-22.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-22.dds
+- name: remastered/map/wi02.map/-23.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-23.dds
+- name: remastered/map/wi02.map/-24.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-24.dds
+- name: remastered/map/wi02.map/-25.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-25.dds
+- name: remastered/map/wi02.map/-26.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-26.dds
+- name: remastered/map/wi02.map/-27.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-27.dds
+- name: remastered/map/wi02.map/-28.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-28.dds
+- name: remastered/map/wi02.map/-29.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-29.dds
+- name: remastered/map/wi02.map/-3.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-3.dds
+- name: remastered/map/wi02.map/-30.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-30.dds
+- name: remastered/map/wi02.map/-31.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-31.dds
+- name: remastered/map/wi02.map/-32.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-32.dds
+- name: remastered/map/wi02.map/-33.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-33.dds
+- name: remastered/map/wi02.map/-34.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-34.dds
+- name: remastered/map/wi02.map/-35.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-35.dds
+- name: remastered/map/wi02.map/-36.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-36.dds
+- name: remastered/map/wi02.map/-37.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-37.dds
+- name: remastered/map/wi02.map/-38.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-38.dds
+- name: remastered/map/wi02.map/-39.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-39.dds
+- name: remastered/map/wi02.map/-4.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-4.dds
+- name: remastered/map/wi02.map/-40.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-40.dds
+- name: remastered/map/wi02.map/-41.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-41.dds
+- name: remastered/map/wi02.map/-42.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-42.dds
+- name: remastered/map/wi02.map/-43.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-43.dds
+- name: remastered/map/wi02.map/-44.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-44.dds
+- name: remastered/map/wi02.map/-45.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-45.dds
+- name: remastered/map/wi02.map/-46.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-46.dds
+- name: remastered/map/wi02.map/-47.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-47.dds
+- name: remastered/map/wi02.map/-48.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-48.dds
+- name: remastered/map/wi02.map/-49.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-49.dds
+- name: remastered/map/wi02.map/-5.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-5.dds
+- name: remastered/map/wi02.map/-50.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-50.dds
+- name: remastered/map/wi02.map/-51.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-51.dds
+- name: remastered/map/wi02.map/-52.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-52.dds
+- name: remastered/map/wi02.map/-53.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-53.dds
+- name: remastered/map/wi02.map/-54.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-54.dds
+- name: remastered/map/wi02.map/-55.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-55.dds
+- name: remastered/map/wi02.map/-56.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-56.dds
+- name: remastered/map/wi02.map/-57.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-57.dds
+- name: remastered/map/wi02.map/-58.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-58.dds
+- name: remastered/map/wi02.map/-59.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-59.dds
+- name: remastered/map/wi02.map/-6.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-6.dds
+- name: remastered/map/wi02.map/-60.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-60.dds
+- name: remastered/map/wi02.map/-61.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-61.dds
+- name: remastered/map/wi02.map/-62.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-62.dds
+- name: remastered/map/wi02.map/-63.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-63.dds
+- name: remastered/map/wi02.map/-64.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-64.dds
+- name: remastered/map/wi02.map/-65.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-65.dds
+- name: remastered/map/wi02.map/-66.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-66.dds
+- name: remastered/map/wi02.map/-7.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-7.dds
+- name: remastered/map/wi02.map/-8.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-8.dds
+- name: remastered/map/wi02.map/-9.dds
+  method: copy
+  source:
+  - name: remastered/map/wi02.map/-9.dds
+- name: remastered/map/wi03.map/-0.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-0.dds
+- name: remastered/map/wi03.map/-1.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-1.dds
+- name: remastered/map/wi03.map/-10.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-10.dds
+- name: remastered/map/wi03.map/-100.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-100.dds
+- name: remastered/map/wi03.map/-101.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-101.dds
+- name: remastered/map/wi03.map/-102.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-102.dds
+- name: remastered/map/wi03.map/-103.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-103.dds
+- name: remastered/map/wi03.map/-104.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-104.dds
+- name: remastered/map/wi03.map/-105.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-105.dds
+- name: remastered/map/wi03.map/-106.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-106.dds
+- name: remastered/map/wi03.map/-107.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-107.dds
+- name: remastered/map/wi03.map/-108.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-108.dds
+- name: remastered/map/wi03.map/-109.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-109.dds
+- name: remastered/map/wi03.map/-11.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-11.dds
+- name: remastered/map/wi03.map/-110.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-110.dds
+- name: remastered/map/wi03.map/-111.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-111.dds
+- name: remastered/map/wi03.map/-112.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-112.dds
+- name: remastered/map/wi03.map/-12.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-12.dds
+- name: remastered/map/wi03.map/-13.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-13.dds
+- name: remastered/map/wi03.map/-14.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-14.dds
+- name: remastered/map/wi03.map/-15.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-15.dds
+- name: remastered/map/wi03.map/-16.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-16.dds
+- name: remastered/map/wi03.map/-17.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-17.dds
+- name: remastered/map/wi03.map/-18.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-18.dds
+- name: remastered/map/wi03.map/-19.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-19.dds
+- name: remastered/map/wi03.map/-2.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-2.dds
+- name: remastered/map/wi03.map/-20.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-20.dds
+- name: remastered/map/wi03.map/-21.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-21.dds
+- name: remastered/map/wi03.map/-22.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-22.dds
+- name: remastered/map/wi03.map/-23.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-23.dds
+- name: remastered/map/wi03.map/-24.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-24.dds
+- name: remastered/map/wi03.map/-25.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-25.dds
+- name: remastered/map/wi03.map/-26.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-26.dds
+- name: remastered/map/wi03.map/-27.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-27.dds
+- name: remastered/map/wi03.map/-28.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-28.dds
+- name: remastered/map/wi03.map/-29.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-29.dds
+- name: remastered/map/wi03.map/-3.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-3.dds
+- name: remastered/map/wi03.map/-30.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-30.dds
+- name: remastered/map/wi03.map/-31.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-31.dds
+- name: remastered/map/wi03.map/-32.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-32.dds
+- name: remastered/map/wi03.map/-33.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-33.dds
+- name: remastered/map/wi03.map/-34.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-34.dds
+- name: remastered/map/wi03.map/-35.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-35.dds
+- name: remastered/map/wi03.map/-36.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-36.dds
+- name: remastered/map/wi03.map/-37.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-37.dds
+- name: remastered/map/wi03.map/-38.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-38.dds
+- name: remastered/map/wi03.map/-39.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-39.dds
+- name: remastered/map/wi03.map/-4.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-4.dds
+- name: remastered/map/wi03.map/-40.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-40.dds
+- name: remastered/map/wi03.map/-41.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-41.dds
+- name: remastered/map/wi03.map/-42.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-42.dds
+- name: remastered/map/wi03.map/-43.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-43.dds
+- name: remastered/map/wi03.map/-44.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-44.dds
+- name: remastered/map/wi03.map/-45.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-45.dds
+- name: remastered/map/wi03.map/-46.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-46.dds
+- name: remastered/map/wi03.map/-47.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-47.dds
+- name: remastered/map/wi03.map/-48.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-48.dds
+- name: remastered/map/wi03.map/-49.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-49.dds
+- name: remastered/map/wi03.map/-5.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-5.dds
+- name: remastered/map/wi03.map/-50.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-50.dds
+- name: remastered/map/wi03.map/-51.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-51.dds
+- name: remastered/map/wi03.map/-52.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-52.dds
+- name: remastered/map/wi03.map/-53.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-53.dds
+- name: remastered/map/wi03.map/-54.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-54.dds
+- name: remastered/map/wi03.map/-55.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-55.dds
+- name: remastered/map/wi03.map/-56.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-56.dds
+- name: remastered/map/wi03.map/-57.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-57.dds
+- name: remastered/map/wi03.map/-58.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-58.dds
+- name: remastered/map/wi03.map/-59.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-59.dds
+- name: remastered/map/wi03.map/-6.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-6.dds
+- name: remastered/map/wi03.map/-60.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-60.dds
+- name: remastered/map/wi03.map/-61.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-61.dds
+- name: remastered/map/wi03.map/-62.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-62.dds
+- name: remastered/map/wi03.map/-63.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-63.dds
+- name: remastered/map/wi03.map/-64.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-64.dds
+- name: remastered/map/wi03.map/-65.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-65.dds
+- name: remastered/map/wi03.map/-66.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-66.dds
+- name: remastered/map/wi03.map/-67.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-67.dds
+- name: remastered/map/wi03.map/-68.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-68.dds
+- name: remastered/map/wi03.map/-69.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-69.dds
+- name: remastered/map/wi03.map/-7.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-7.dds
+- name: remastered/map/wi03.map/-70.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-70.dds
+- name: remastered/map/wi03.map/-71.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-71.dds
+- name: remastered/map/wi03.map/-72.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-72.dds
+- name: remastered/map/wi03.map/-73.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-73.dds
+- name: remastered/map/wi03.map/-74.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-74.dds
+- name: remastered/map/wi03.map/-75.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-75.dds
+- name: remastered/map/wi03.map/-76.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-76.dds
+- name: remastered/map/wi03.map/-77.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-77.dds
+- name: remastered/map/wi03.map/-78.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-78.dds
+- name: remastered/map/wi03.map/-79.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-79.dds
+- name: remastered/map/wi03.map/-8.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-8.dds
+- name: remastered/map/wi03.map/-80.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-80.dds
+- name: remastered/map/wi03.map/-81.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-81.dds
+- name: remastered/map/wi03.map/-82.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-82.dds
+- name: remastered/map/wi03.map/-83.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-83.dds
+- name: remastered/map/wi03.map/-84.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-84.dds
+- name: remastered/map/wi03.map/-85.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-85.dds
+- name: remastered/map/wi03.map/-86.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-86.dds
+- name: remastered/map/wi03.map/-87.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-87.dds
+- name: remastered/map/wi03.map/-88.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-88.dds
+- name: remastered/map/wi03.map/-89.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-89.dds
+- name: remastered/map/wi03.map/-9.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-9.dds
+- name: remastered/map/wi03.map/-90.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-90.dds
+- name: remastered/map/wi03.map/-91.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-91.dds
+- name: remastered/map/wi03.map/-92.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-92.dds
+- name: remastered/map/wi03.map/-93.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-93.dds
+- name: remastered/map/wi03.map/-94.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-94.dds
+- name: remastered/map/wi03.map/-95.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-95.dds
+- name: remastered/map/wi03.map/-96.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-96.dds
+- name: remastered/map/wi03.map/-97.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-97.dds
+- name: remastered/map/wi03.map/-98.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-98.dds
+- name: remastered/map/wi03.map/-99.dds
+  method: copy
+  source:
+  - name: remastered/map/wi03.map/-99.dds
+- name: remastered/map/wi04.map/-0.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-0.dds
+- name: remastered/map/wi04.map/-1.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-1.dds
+- name: remastered/map/wi04.map/-10.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-10.dds
+- name: remastered/map/wi04.map/-11.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-11.dds
+- name: remastered/map/wi04.map/-12.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-12.dds
+- name: remastered/map/wi04.map/-13.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-13.dds
+- name: remastered/map/wi04.map/-14.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-14.dds
+- name: remastered/map/wi04.map/-15.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-15.dds
+- name: remastered/map/wi04.map/-16.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-16.dds
+- name: remastered/map/wi04.map/-17.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-17.dds
+- name: remastered/map/wi04.map/-18.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-18.dds
+- name: remastered/map/wi04.map/-19.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-19.dds
+- name: remastered/map/wi04.map/-2.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-2.dds
+- name: remastered/map/wi04.map/-20.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-20.dds
+- name: remastered/map/wi04.map/-21.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-21.dds
+- name: remastered/map/wi04.map/-22.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-22.dds
+- name: remastered/map/wi04.map/-23.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-23.dds
+- name: remastered/map/wi04.map/-24.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-24.dds
+- name: remastered/map/wi04.map/-25.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-25.dds
+- name: remastered/map/wi04.map/-26.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-26.dds
+- name: remastered/map/wi04.map/-27.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-27.dds
+- name: remastered/map/wi04.map/-28.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-28.dds
+- name: remastered/map/wi04.map/-29.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-29.dds
+- name: remastered/map/wi04.map/-3.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-3.dds
+- name: remastered/map/wi04.map/-30.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-30.dds
+- name: remastered/map/wi04.map/-31.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-31.dds
+- name: remastered/map/wi04.map/-32.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-32.dds
+- name: remastered/map/wi04.map/-33.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-33.dds
+- name: remastered/map/wi04.map/-34.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-34.dds
+- name: remastered/map/wi04.map/-35.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-35.dds
+- name: remastered/map/wi04.map/-36.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-36.dds
+- name: remastered/map/wi04.map/-37.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-37.dds
+- name: remastered/map/wi04.map/-38.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-38.dds
+- name: remastered/map/wi04.map/-39.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-39.dds
+- name: remastered/map/wi04.map/-4.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-4.dds
+- name: remastered/map/wi04.map/-40.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-40.dds
+- name: remastered/map/wi04.map/-41.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-41.dds
+- name: remastered/map/wi04.map/-42.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-42.dds
+- name: remastered/map/wi04.map/-43.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-43.dds
+- name: remastered/map/wi04.map/-44.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-44.dds
+- name: remastered/map/wi04.map/-45.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-45.dds
+- name: remastered/map/wi04.map/-46.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-46.dds
+- name: remastered/map/wi04.map/-47.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-47.dds
+- name: remastered/map/wi04.map/-48.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-48.dds
+- name: remastered/map/wi04.map/-49.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-49.dds
+- name: remastered/map/wi04.map/-5.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-5.dds
+- name: remastered/map/wi04.map/-50.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-50.dds
+- name: remastered/map/wi04.map/-51.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-51.dds
+- name: remastered/map/wi04.map/-52.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-52.dds
+- name: remastered/map/wi04.map/-53.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-53.dds
+- name: remastered/map/wi04.map/-54.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-54.dds
+- name: remastered/map/wi04.map/-55.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-55.dds
+- name: remastered/map/wi04.map/-56.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-56.dds
+- name: remastered/map/wi04.map/-57.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-57.dds
+- name: remastered/map/wi04.map/-58.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-58.dds
+- name: remastered/map/wi04.map/-59.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-59.dds
+- name: remastered/map/wi04.map/-6.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-6.dds
+- name: remastered/map/wi04.map/-60.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-60.dds
+- name: remastered/map/wi04.map/-61.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-61.dds
+- name: remastered/map/wi04.map/-62.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-62.dds
+- name: remastered/map/wi04.map/-63.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-63.dds
+- name: remastered/map/wi04.map/-64.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-64.dds
+- name: remastered/map/wi04.map/-65.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-65.dds
+- name: remastered/map/wi04.map/-66.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-66.dds
+- name: remastered/map/wi04.map/-67.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-67.dds
+- name: remastered/map/wi04.map/-68.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-68.dds
+- name: remastered/map/wi04.map/-69.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-69.dds
+- name: remastered/map/wi04.map/-7.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-7.dds
+- name: remastered/map/wi04.map/-70.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-70.dds
+- name: remastered/map/wi04.map/-71.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-71.dds
+- name: remastered/map/wi04.map/-72.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-72.dds
+- name: remastered/map/wi04.map/-8.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-8.dds
+- name: remastered/map/wi04.map/-9.dds
+  method: copy
+  source:
+  - name: remastered/map/wi04.map/-9.dds
+- name: remastered/map/wi05.map/-0.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-0.dds
+- name: remastered/map/wi05.map/-1.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-1.dds
+- name: remastered/map/wi05.map/-10.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-10.dds
+- name: remastered/map/wi05.map/-11.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-11.dds
+- name: remastered/map/wi05.map/-12.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-12.dds
+- name: remastered/map/wi05.map/-13.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-13.dds
+- name: remastered/map/wi05.map/-14.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-14.dds
+- name: remastered/map/wi05.map/-15.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-15.dds
+- name: remastered/map/wi05.map/-16.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-16.dds
+- name: remastered/map/wi05.map/-17.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-17.dds
+- name: remastered/map/wi05.map/-18.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-18.dds
+- name: remastered/map/wi05.map/-19.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-19.dds
+- name: remastered/map/wi05.map/-2.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-2.dds
+- name: remastered/map/wi05.map/-20.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-20.dds
+- name: remastered/map/wi05.map/-21.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-21.dds
+- name: remastered/map/wi05.map/-22.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-22.dds
+- name: remastered/map/wi05.map/-23.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-23.dds
+- name: remastered/map/wi05.map/-24.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-24.dds
+- name: remastered/map/wi05.map/-25.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-25.dds
+- name: remastered/map/wi05.map/-26.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-26.dds
+- name: remastered/map/wi05.map/-27.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-27.dds
+- name: remastered/map/wi05.map/-28.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-28.dds
+- name: remastered/map/wi05.map/-29.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-29.dds
+- name: remastered/map/wi05.map/-3.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-3.dds
+- name: remastered/map/wi05.map/-30.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-30.dds
+- name: remastered/map/wi05.map/-31.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-31.dds
+- name: remastered/map/wi05.map/-32.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-32.dds
+- name: remastered/map/wi05.map/-33.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-33.dds
+- name: remastered/map/wi05.map/-34.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-34.dds
+- name: remastered/map/wi05.map/-35.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-35.dds
+- name: remastered/map/wi05.map/-36.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-36.dds
+- name: remastered/map/wi05.map/-37.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-37.dds
+- name: remastered/map/wi05.map/-38.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-38.dds
+- name: remastered/map/wi05.map/-39.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-39.dds
+- name: remastered/map/wi05.map/-4.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-4.dds
+- name: remastered/map/wi05.map/-40.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-40.dds
+- name: remastered/map/wi05.map/-41.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-41.dds
+- name: remastered/map/wi05.map/-42.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-42.dds
+- name: remastered/map/wi05.map/-43.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-43.dds
+- name: remastered/map/wi05.map/-44.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-44.dds
+- name: remastered/map/wi05.map/-45.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-45.dds
+- name: remastered/map/wi05.map/-46.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-46.dds
+- name: remastered/map/wi05.map/-47.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-47.dds
+- name: remastered/map/wi05.map/-48.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-48.dds
+- name: remastered/map/wi05.map/-49.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-49.dds
+- name: remastered/map/wi05.map/-5.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-5.dds
+- name: remastered/map/wi05.map/-50.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-50.dds
+- name: remastered/map/wi05.map/-51.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-51.dds
+- name: remastered/map/wi05.map/-52.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-52.dds
+- name: remastered/map/wi05.map/-53.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-53.dds
+- name: remastered/map/wi05.map/-54.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-54.dds
+- name: remastered/map/wi05.map/-55.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-55.dds
+- name: remastered/map/wi05.map/-56.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-56.dds
+- name: remastered/map/wi05.map/-57.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-57.dds
+- name: remastered/map/wi05.map/-58.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-58.dds
+- name: remastered/map/wi05.map/-59.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-59.dds
+- name: remastered/map/wi05.map/-6.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-6.dds
+- name: remastered/map/wi05.map/-60.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-60.dds
+- name: remastered/map/wi05.map/-61.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-61.dds
+- name: remastered/map/wi05.map/-62.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-62.dds
+- name: remastered/map/wi05.map/-63.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-63.dds
+- name: remastered/map/wi05.map/-64.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-64.dds
+- name: remastered/map/wi05.map/-65.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-65.dds
+- name: remastered/map/wi05.map/-66.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-66.dds
+- name: remastered/map/wi05.map/-67.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-67.dds
+- name: remastered/map/wi05.map/-68.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-68.dds
+- name: remastered/map/wi05.map/-69.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-69.dds
+- name: remastered/map/wi05.map/-7.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-7.dds
+- name: remastered/map/wi05.map/-70.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-70.dds
+- name: remastered/map/wi05.map/-71.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-71.dds
+- name: remastered/map/wi05.map/-8.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-8.dds
+- name: remastered/map/wi05.map/-9.dds
+  method: copy
+  source:
+  - name: remastered/map/wi05.map/-9.dds
+- name: remastered/map/wi06.map/-0.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-0.dds
+- name: remastered/map/wi06.map/-1.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-1.dds
+- name: remastered/map/wi06.map/-10.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-10.dds
+- name: remastered/map/wi06.map/-100.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-100.dds
+- name: remastered/map/wi06.map/-101.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-101.dds
+- name: remastered/map/wi06.map/-102.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-102.dds
+- name: remastered/map/wi06.map/-103.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-103.dds
+- name: remastered/map/wi06.map/-11.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-11.dds
+- name: remastered/map/wi06.map/-12.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-12.dds
+- name: remastered/map/wi06.map/-13.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-13.dds
+- name: remastered/map/wi06.map/-14.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-14.dds
+- name: remastered/map/wi06.map/-15.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-15.dds
+- name: remastered/map/wi06.map/-16.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-16.dds
+- name: remastered/map/wi06.map/-17.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-17.dds
+- name: remastered/map/wi06.map/-18.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-18.dds
+- name: remastered/map/wi06.map/-19.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-19.dds
+- name: remastered/map/wi06.map/-2.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-2.dds
+- name: remastered/map/wi06.map/-20.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-20.dds
+- name: remastered/map/wi06.map/-21.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-21.dds
+- name: remastered/map/wi06.map/-22.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-22.dds
+- name: remastered/map/wi06.map/-23.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-23.dds
+- name: remastered/map/wi06.map/-24.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-24.dds
+- name: remastered/map/wi06.map/-25.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-25.dds
+- name: remastered/map/wi06.map/-26.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-26.dds
+- name: remastered/map/wi06.map/-27.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-27.dds
+- name: remastered/map/wi06.map/-28.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-28.dds
+- name: remastered/map/wi06.map/-29.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-29.dds
+- name: remastered/map/wi06.map/-3.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-3.dds
+- name: remastered/map/wi06.map/-30.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-30.dds
+- name: remastered/map/wi06.map/-31.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-31.dds
+- name: remastered/map/wi06.map/-32.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-32.dds
+- name: remastered/map/wi06.map/-33.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-33.dds
+- name: remastered/map/wi06.map/-34.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-34.dds
+- name: remastered/map/wi06.map/-35.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-35.dds
+- name: remastered/map/wi06.map/-36.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-36.dds
+- name: remastered/map/wi06.map/-37.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-37.dds
+- name: remastered/map/wi06.map/-38.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-38.dds
+- name: remastered/map/wi06.map/-39.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-39.dds
+- name: remastered/map/wi06.map/-4.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-4.dds
+- name: remastered/map/wi06.map/-40.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-40.dds
+- name: remastered/map/wi06.map/-41.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-41.dds
+- name: remastered/map/wi06.map/-42.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-42.dds
+- name: remastered/map/wi06.map/-43.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-43.dds
+- name: remastered/map/wi06.map/-44.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-44.dds
+- name: remastered/map/wi06.map/-45.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-45.dds
+- name: remastered/map/wi06.map/-46.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-46.dds
+- name: remastered/map/wi06.map/-47.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-47.dds
+- name: remastered/map/wi06.map/-48.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-48.dds
+- name: remastered/map/wi06.map/-49.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-49.dds
+- name: remastered/map/wi06.map/-5.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-5.dds
+- name: remastered/map/wi06.map/-50.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-50.dds
+- name: remastered/map/wi06.map/-51.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-51.dds
+- name: remastered/map/wi06.map/-52.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-52.dds
+- name: remastered/map/wi06.map/-53.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-53.dds
+- name: remastered/map/wi06.map/-54.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-54.dds
+- name: remastered/map/wi06.map/-55.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-55.dds
+- name: remastered/map/wi06.map/-56.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-56.dds
+- name: remastered/map/wi06.map/-57.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-57.dds
+- name: remastered/map/wi06.map/-58.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-58.dds
+- name: remastered/map/wi06.map/-59.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-59.dds
+- name: remastered/map/wi06.map/-6.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-6.dds
+- name: remastered/map/wi06.map/-60.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-60.dds
+- name: remastered/map/wi06.map/-61.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-61.dds
+- name: remastered/map/wi06.map/-62.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-62.dds
+- name: remastered/map/wi06.map/-63.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-63.dds
+- name: remastered/map/wi06.map/-64.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-64.dds
+- name: remastered/map/wi06.map/-65.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-65.dds
+- name: remastered/map/wi06.map/-66.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-66.dds
+- name: remastered/map/wi06.map/-67.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-67.dds
+- name: remastered/map/wi06.map/-68.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-68.dds
+- name: remastered/map/wi06.map/-69.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-69.dds
+- name: remastered/map/wi06.map/-7.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-7.dds
+- name: remastered/map/wi06.map/-70.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-70.dds
+- name: remastered/map/wi06.map/-71.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-71.dds
+- name: remastered/map/wi06.map/-72.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-72.dds
+- name: remastered/map/wi06.map/-73.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-73.dds
+- name: remastered/map/wi06.map/-74.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-74.dds
+- name: remastered/map/wi06.map/-75.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-75.dds
+- name: remastered/map/wi06.map/-76.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-76.dds
+- name: remastered/map/wi06.map/-77.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-77.dds
+- name: remastered/map/wi06.map/-78.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-78.dds
+- name: remastered/map/wi06.map/-79.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-79.dds
+- name: remastered/map/wi06.map/-8.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-8.dds
+- name: remastered/map/wi06.map/-80.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-80.dds
+- name: remastered/map/wi06.map/-81.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-81.dds
+- name: remastered/map/wi06.map/-82.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-82.dds
+- name: remastered/map/wi06.map/-83.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-83.dds
+- name: remastered/map/wi06.map/-84.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-84.dds
+- name: remastered/map/wi06.map/-85.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-85.dds
+- name: remastered/map/wi06.map/-86.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-86.dds
+- name: remastered/map/wi06.map/-87.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-87.dds
+- name: remastered/map/wi06.map/-88.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-88.dds
+- name: remastered/map/wi06.map/-89.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-89.dds
+- name: remastered/map/wi06.map/-9.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-9.dds
+- name: remastered/map/wi06.map/-90.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-90.dds
+- name: remastered/map/wi06.map/-91.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-91.dds
+- name: remastered/map/wi06.map/-92.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-92.dds
+- name: remastered/map/wi06.map/-93.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-93.dds
+- name: remastered/map/wi06.map/-94.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-94.dds
+- name: remastered/map/wi06.map/-95.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-95.dds
+- name: remastered/map/wi06.map/-96.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-96.dds
+- name: remastered/map/wi06.map/-97.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-97.dds
+- name: remastered/map/wi06.map/-98.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-98.dds
+- name: remastered/map/wi06.map/-99.dds
+  method: copy
+  source:
+  - name: remastered/map/wi06.map/-99.dds
+- name: remastered/map/wi07.map/-0.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-0.dds
+- name: remastered/map/wi07.map/-1.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-1.dds
+- name: remastered/map/wi07.map/-10.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-10.dds
+- name: remastered/map/wi07.map/-11.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-11.dds
+- name: remastered/map/wi07.map/-12.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-12.dds
+- name: remastered/map/wi07.map/-13.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-13.dds
+- name: remastered/map/wi07.map/-14.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-14.dds
+- name: remastered/map/wi07.map/-15.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-15.dds
+- name: remastered/map/wi07.map/-16.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-16.dds
+- name: remastered/map/wi07.map/-17.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-17.dds
+- name: remastered/map/wi07.map/-18.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-18.dds
+- name: remastered/map/wi07.map/-19.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-19.dds
+- name: remastered/map/wi07.map/-2.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-2.dds
+- name: remastered/map/wi07.map/-20.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-20.dds
+- name: remastered/map/wi07.map/-21.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-21.dds
+- name: remastered/map/wi07.map/-22.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-22.dds
+- name: remastered/map/wi07.map/-23.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-23.dds
+- name: remastered/map/wi07.map/-24.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-24.dds
+- name: remastered/map/wi07.map/-25.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-25.dds
+- name: remastered/map/wi07.map/-26.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-26.dds
+- name: remastered/map/wi07.map/-27.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-27.dds
+- name: remastered/map/wi07.map/-28.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-28.dds
+- name: remastered/map/wi07.map/-29.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-29.dds
+- name: remastered/map/wi07.map/-3.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-3.dds
+- name: remastered/map/wi07.map/-30.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-30.dds
+- name: remastered/map/wi07.map/-31.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-31.dds
+- name: remastered/map/wi07.map/-32.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-32.dds
+- name: remastered/map/wi07.map/-33.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-33.dds
+- name: remastered/map/wi07.map/-34.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-34.dds
+- name: remastered/map/wi07.map/-35.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-35.dds
+- name: remastered/map/wi07.map/-36.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-36.dds
+- name: remastered/map/wi07.map/-37.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-37.dds
+- name: remastered/map/wi07.map/-38.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-38.dds
+- name: remastered/map/wi07.map/-39.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-39.dds
+- name: remastered/map/wi07.map/-4.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-4.dds
+- name: remastered/map/wi07.map/-40.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-40.dds
+- name: remastered/map/wi07.map/-41.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-41.dds
+- name: remastered/map/wi07.map/-42.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-42.dds
+- name: remastered/map/wi07.map/-43.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-43.dds
+- name: remastered/map/wi07.map/-44.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-44.dds
+- name: remastered/map/wi07.map/-45.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-45.dds
+- name: remastered/map/wi07.map/-46.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-46.dds
+- name: remastered/map/wi07.map/-47.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-47.dds
+- name: remastered/map/wi07.map/-48.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-48.dds
+- name: remastered/map/wi07.map/-49.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-49.dds
+- name: remastered/map/wi07.map/-5.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-5.dds
+- name: remastered/map/wi07.map/-50.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-50.dds
+- name: remastered/map/wi07.map/-51.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-51.dds
+- name: remastered/map/wi07.map/-52.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-52.dds
+- name: remastered/map/wi07.map/-53.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-53.dds
+- name: remastered/map/wi07.map/-54.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-54.dds
+- name: remastered/map/wi07.map/-55.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-55.dds
+- name: remastered/map/wi07.map/-56.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-56.dds
+- name: remastered/map/wi07.map/-57.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-57.dds
+- name: remastered/map/wi07.map/-58.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-58.dds
+- name: remastered/map/wi07.map/-59.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-59.dds
+- name: remastered/map/wi07.map/-6.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-6.dds
+- name: remastered/map/wi07.map/-60.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-60.dds
+- name: remastered/map/wi07.map/-61.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-61.dds
+- name: remastered/map/wi07.map/-62.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-62.dds
+- name: remastered/map/wi07.map/-63.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-63.dds
+- name: remastered/map/wi07.map/-64.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-64.dds
+- name: remastered/map/wi07.map/-65.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-65.dds
+- name: remastered/map/wi07.map/-66.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-66.dds
+- name: remastered/map/wi07.map/-67.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-67.dds
+- name: remastered/map/wi07.map/-68.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-68.dds
+- name: remastered/map/wi07.map/-69.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-69.dds
+- name: remastered/map/wi07.map/-7.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-7.dds
+- name: remastered/map/wi07.map/-70.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-70.dds
+- name: remastered/map/wi07.map/-71.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-71.dds
+- name: remastered/map/wi07.map/-72.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-72.dds
+- name: remastered/map/wi07.map/-73.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-73.dds
+- name: remastered/map/wi07.map/-74.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-74.dds
+- name: remastered/map/wi07.map/-75.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-75.dds
+- name: remastered/map/wi07.map/-76.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-76.dds
+- name: remastered/map/wi07.map/-77.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-77.dds
+- name: remastered/map/wi07.map/-78.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-78.dds
+- name: remastered/map/wi07.map/-79.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-79.dds
+- name: remastered/map/wi07.map/-8.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-8.dds
+- name: remastered/map/wi07.map/-80.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-80.dds
+- name: remastered/map/wi07.map/-81.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-81.dds
+- name: remastered/map/wi07.map/-82.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-82.dds
+- name: remastered/map/wi07.map/-9.dds
+  method: copy
+  source:
+  - name: remastered/map/wi07.map/-9.dds
+- name: remastered/map/wi08.map/-0.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-0.dds
+- name: remastered/map/wi08.map/-1.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-1.dds
+- name: remastered/map/wi08.map/-10.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-10.dds
+- name: remastered/map/wi08.map/-11.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-11.dds
+- name: remastered/map/wi08.map/-12.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-12.dds
+- name: remastered/map/wi08.map/-13.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-13.dds
+- name: remastered/map/wi08.map/-14.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-14.dds
+- name: remastered/map/wi08.map/-15.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-15.dds
+- name: remastered/map/wi08.map/-16.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-16.dds
+- name: remastered/map/wi08.map/-17.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-17.dds
+- name: remastered/map/wi08.map/-18.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-18.dds
+- name: remastered/map/wi08.map/-19.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-19.dds
+- name: remastered/map/wi08.map/-2.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-2.dds
+- name: remastered/map/wi08.map/-20.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-20.dds
+- name: remastered/map/wi08.map/-21.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-21.dds
+- name: remastered/map/wi08.map/-22.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-22.dds
+- name: remastered/map/wi08.map/-23.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-23.dds
+- name: remastered/map/wi08.map/-24.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-24.dds
+- name: remastered/map/wi08.map/-25.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-25.dds
+- name: remastered/map/wi08.map/-26.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-26.dds
+- name: remastered/map/wi08.map/-27.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-27.dds
+- name: remastered/map/wi08.map/-28.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-28.dds
+- name: remastered/map/wi08.map/-29.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-29.dds
+- name: remastered/map/wi08.map/-3.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-3.dds
+- name: remastered/map/wi08.map/-30.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-30.dds
+- name: remastered/map/wi08.map/-31.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-31.dds
+- name: remastered/map/wi08.map/-32.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-32.dds
+- name: remastered/map/wi08.map/-33.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-33.dds
+- name: remastered/map/wi08.map/-34.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-34.dds
+- name: remastered/map/wi08.map/-35.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-35.dds
+- name: remastered/map/wi08.map/-4.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-4.dds
+- name: remastered/map/wi08.map/-5.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-5.dds
+- name: remastered/map/wi08.map/-6.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-6.dds
+- name: remastered/map/wi08.map/-7.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-7.dds
+- name: remastered/map/wi08.map/-8.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-8.dds
+- name: remastered/map/wi08.map/-9.dds
+  method: copy
+  source:
+  - name: remastered/map/wi08.map/-9.dds
+- name: remastered/obj/F_EX030_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_EX030_WI.mdlx/-0.dds
+- name: remastered/obj/F_EX040_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_EX040_WI.mdlx/-0.dds
+- name: remastered/obj/F_TT010_WI.a.fr/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/F_TT010_WI.a.fr/-0.png
+- name: remastered/obj/F_TT010_WI.a.fr/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/F_TT010_WI.a.fr/-1.png
+- name: remastered/obj/F_TT010_WI.a.fr/-2.png
+  method: copy
+  source:
+  - name: remastered/obj/F_TT010_WI.a.fr/-2.png
+- name: remastered/obj/F_TT010_WI.a.gr/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/F_TT010_WI.a.gr/-0.png
+- name: remastered/obj/F_TT010_WI.a.gr/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/F_TT010_WI.a.gr/-1.png
+- name: remastered/obj/F_TT010_WI.a.gr/-2.png
+  method: copy
+  source:
+  - name: remastered/obj/F_TT010_WI.a.gr/-2.png
+- name: remastered/obj/F_TT010_WI.a.it/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/F_TT010_WI.a.it/-0.png
+- name: remastered/obj/F_TT010_WI.a.it/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/F_TT010_WI.a.it/-1.png
+- name: remastered/obj/F_TT010_WI.a.it/-2.png
+  method: copy
+  source:
+  - name: remastered/obj/F_TT010_WI.a.it/-2.png
+- name: remastered/obj/F_TT010_WI.a.sp/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/F_TT010_WI.a.sp/-0.png
+- name: remastered/obj/F_TT010_WI.a.sp/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/F_TT010_WI.a.sp/-1.png
+- name: remastered/obj/F_TT010_WI.a.sp/-2.png
+  method: copy
+  source:
+  - name: remastered/obj/F_TT010_WI.a.sp/-2.png
+- name: remastered/obj/F_TT010_WI.a.us/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/F_TT010_WI.a.us/-0.png
+- name: remastered/obj/F_TT010_WI.a.us/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/F_TT010_WI.a.us/-1.png
+- name: remastered/obj/F_TT010_WI.a.us/-2.png
+  method: copy
+  source:
+  - name: remastered/obj/F_TT010_WI.a.us/-2.png
+- name: remastered/obj/F_TT010_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_TT010_WI.mdlx/-0.dds
+- name: remastered/obj/F_WI000.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI000.a.us/-0.dds
+- name: remastered/obj/F_WI010.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI010.a.us/-0.dds
+- name: remastered/obj/F_WI010_BOSS.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI010_BOSS.a.us/-0.dds
+- name: remastered/obj/F_WI020.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020.a.us/-0.dds
+- name: remastered/obj/F_WI020.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020.mdlx/-0.dds
+- name: remastered/obj/F_WI020.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020.mdlx/-1.dds
+- name: remastered/obj/F_WI020.mdlx/-10.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020.mdlx/-10.dds
+- name: remastered/obj/F_WI020.mdlx/-11.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020.mdlx/-11.dds
+- name: remastered/obj/F_WI020.mdlx/-12.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020.mdlx/-12.dds
+- name: remastered/obj/F_WI020.mdlx/-13.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020.mdlx/-13.dds
+- name: remastered/obj/F_WI020.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020.mdlx/-2.dds
+- name: remastered/obj/F_WI020.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020.mdlx/-3.dds
+- name: remastered/obj/F_WI020.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020.mdlx/-4.dds
+- name: remastered/obj/F_WI020.mdlx/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020.mdlx/-5.dds
+- name: remastered/obj/F_WI020.mdlx/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020.mdlx/-6.dds
+- name: remastered/obj/F_WI020.mdlx/-7.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020.mdlx/-7.dds
+- name: remastered/obj/F_WI020.mdlx/-8.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020.mdlx/-8.dds
+- name: remastered/obj/F_WI020.mdlx/-9.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020.mdlx/-9.dds
+- name: remastered/obj/F_WI020_BOSS.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020_BOSS.a.us/-0.dds
+- name: remastered/obj/F_WI020_BOSS.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020_BOSS.mdlx/-0.dds
+- name: remastered/obj/F_WI020_BOSS.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020_BOSS.mdlx/-1.dds
+- name: remastered/obj/F_WI020_BOSS.mdlx/-10.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020_BOSS.mdlx/-10.dds
+- name: remastered/obj/F_WI020_BOSS.mdlx/-11.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020_BOSS.mdlx/-11.dds
+- name: remastered/obj/F_WI020_BOSS.mdlx/-12.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020_BOSS.mdlx/-12.dds
+- name: remastered/obj/F_WI020_BOSS.mdlx/-13.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020_BOSS.mdlx/-13.dds
+- name: remastered/obj/F_WI020_BOSS.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020_BOSS.mdlx/-2.dds
+- name: remastered/obj/F_WI020_BOSS.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020_BOSS.mdlx/-3.dds
+- name: remastered/obj/F_WI020_BOSS.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020_BOSS.mdlx/-4.dds
+- name: remastered/obj/F_WI020_BOSS.mdlx/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020_BOSS.mdlx/-5.dds
+- name: remastered/obj/F_WI020_BOSS.mdlx/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020_BOSS.mdlx/-6.dds
+- name: remastered/obj/F_WI020_BOSS.mdlx/-7.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020_BOSS.mdlx/-7.dds
+- name: remastered/obj/F_WI020_BOSS.mdlx/-8.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020_BOSS.mdlx/-8.dds
+- name: remastered/obj/F_WI020_BOSS.mdlx/-9.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020_BOSS.mdlx/-9.dds
+- name: remastered/obj/F_WI020_BTL.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020_BTL.mdlx/-0.dds
+- name: remastered/obj/F_WI020_BTL.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020_BTL.mdlx/-1.dds
+- name: remastered/obj/F_WI020_BTL.mdlx/-10.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020_BTL.mdlx/-10.dds
+- name: remastered/obj/F_WI020_BTL.mdlx/-11.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020_BTL.mdlx/-11.dds
+- name: remastered/obj/F_WI020_BTL.mdlx/-12.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020_BTL.mdlx/-12.dds
+- name: remastered/obj/F_WI020_BTL.mdlx/-13.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020_BTL.mdlx/-13.dds
+- name: remastered/obj/F_WI020_BTL.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020_BTL.mdlx/-2.dds
+- name: remastered/obj/F_WI020_BTL.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020_BTL.mdlx/-3.dds
+- name: remastered/obj/F_WI020_BTL.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020_BTL.mdlx/-4.dds
+- name: remastered/obj/F_WI020_BTL.mdlx/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020_BTL.mdlx/-5.dds
+- name: remastered/obj/F_WI020_BTL.mdlx/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020_BTL.mdlx/-6.dds
+- name: remastered/obj/F_WI020_BTL.mdlx/-7.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020_BTL.mdlx/-7.dds
+- name: remastered/obj/F_WI020_BTL.mdlx/-8.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020_BTL.mdlx/-8.dds
+- name: remastered/obj/F_WI020_BTL.mdlx/-9.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI020_BTL.mdlx/-9.dds
+- name: remastered/obj/F_WI060.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI060.a.us/-0.dds
+- name: remastered/obj/F_WI060.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI060.a.us/-1.dds
+- name: remastered/obj/F_WI060.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI060.a.us/-2.dds
+- name: remastered/obj/F_WI060.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI060.mdlx/-0.dds
+- name: remastered/obj/F_WI060.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI060.mdlx/-1.dds
+- name: remastered/obj/F_WI060_PETE.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI060_PETE.a.us/-0.dds
+- name: remastered/obj/F_WI060_PETE.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI060_PETE.a.us/-1.dds
+- name: remastered/obj/F_WI060_PETE.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI060_PETE.a.us/-2.dds
+- name: remastered/obj/F_WI060_PETE.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI060_PETE.mdlx/-0.dds
+- name: remastered/obj/F_WI060_PETE.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI060_PETE.mdlx/-1.dds
+- name: remastered/obj/F_WI070.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI070.mdlx/-0.dds
+- name: remastered/obj/F_WI080.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI080.mdlx/-0.dds
+- name: remastered/obj/F_WI090.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI090.mdlx/-0.dds
+- name: remastered/obj/F_WI090.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI090.mdlx/-1.dds
+- name: remastered/obj/F_WI100.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI100.mdlx/-0.dds
+- name: remastered/obj/F_WI110.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI110.mdlx/-0.dds
+- name: remastered/obj/F_WI120.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI120.mdlx/-0.dds
+- name: remastered/obj/F_WI130.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI130.mdlx/-0.dds
+- name: remastered/obj/F_WI130.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI130.mdlx/-1.dds
+- name: remastered/obj/F_WI140.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI140.mdlx/-0.dds
+- name: remastered/obj/F_WI140.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI140.mdlx/-1.dds
+- name: remastered/obj/F_WI150.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI150.mdlx/-0.dds
+- name: remastered/obj/F_WI160.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI160.mdlx/-0.dds
+- name: remastered/obj/F_WI170.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI170.mdlx/-0.dds
+- name: remastered/obj/F_WI170.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI170.mdlx/-1.dds
+- name: remastered/obj/F_WI180.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI180.mdlx/-0.dds
+- name: remastered/obj/F_WI180.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI180.mdlx/-1.dds
+- name: remastered/obj/F_WI190.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI190.mdlx/-0.dds
+- name: remastered/obj/F_WI200.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI200.mdlx/-0.dds
+- name: remastered/obj/F_WI210.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI210.mdlx/-0.dds
+- name: remastered/obj/F_WI210.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI210.mdlx/-1.dds
+- name: remastered/obj/F_WI210.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI210.mdlx/-2.dds
+- name: remastered/obj/F_WI220.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI220.mdlx/-0.dds
+- name: remastered/obj/F_WI220.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI220.mdlx/-1.dds
+- name: remastered/obj/F_WI220.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI220.mdlx/-2.dds
+- name: remastered/obj/F_WI230.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI230.mdlx/-0.dds
+- name: remastered/obj/F_WI230.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI230.mdlx/-1.dds
+- name: remastered/obj/F_WI240.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI240.mdlx/-0.dds
+- name: remastered/obj/F_WI250.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI250.mdlx/-0.dds
+- name: remastered/obj/F_WI250.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI250.mdlx/-1.dds
+- name: remastered/obj/F_WI260.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI260.mdlx/-0.dds
+- name: remastered/obj/F_WI260.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI260.mdlx/-1.dds
+- name: remastered/obj/F_WI270.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI270.mdlx/-0.dds
+- name: remastered/obj/F_WI270.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI270.mdlx/-1.dds
+- name: remastered/obj/F_WI280.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI280.mdlx/-0.dds
+- name: remastered/obj/F_WI290.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI290.mdlx/-0.dds
+- name: remastered/obj/F_WI300.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI300.mdlx/-0.dds
+- name: remastered/obj/F_WI310.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI310.a.us/-0.dds
+- name: remastered/obj/F_WI310.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI310.a.us/-1.dds
+- name: remastered/obj/F_WI310.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI310.a.us/-2.dds
+- name: remastered/obj/F_WI310.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI310.a.us/-3.dds
+- name: remastered/obj/F_WI310.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI310.a.us/-4.dds
+- name: remastered/obj/F_WI320.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI320.a.us/-0.dds
+- name: remastered/obj/F_WI320.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI320.a.us/-1.dds
+- name: remastered/obj/F_WI320.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI320.a.us/-2.dds
+- name: remastered/obj/F_WI320.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI320.mdlx/-0.dds
+- name: remastered/obj/F_WI330.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI330.a.us/-0.dds
+- name: remastered/obj/F_WI330.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI330.a.us/-1.dds
+- name: remastered/obj/F_WI330.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI330.a.us/-2.dds
+- name: remastered/obj/F_WI330.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI330.mdlx/-0.dds
+- name: remastered/obj/F_WI340.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI340.a.us/-0.dds
+- name: remastered/obj/F_WI340.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI340.a.us/-1.dds
+- name: remastered/obj/F_WI340.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI340.a.us/-2.dds
+- name: remastered/obj/F_WI340.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI340.mdlx/-0.dds
+- name: remastered/obj/F_WI350.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI350.a.us/-0.dds
+- name: remastered/obj/F_WI350.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI350.a.us/-1.dds
+- name: remastered/obj/F_WI350.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI350.a.us/-2.dds
+- name: remastered/obj/F_WI350.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI350.mdlx/-0.dds
+- name: remastered/obj/F_WI360.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI360.a.us/-0.dds
+- name: remastered/obj/F_WI360.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI360.a.us/-1.dds
+- name: remastered/obj/F_WI360.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI360.mdlx/-0.dds
+- name: remastered/obj/F_WI360.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI360.mdlx/-1.dds
+- name: remastered/obj/F_WI360.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI360.mdlx/-2.dds
+- name: remastered/obj/F_WI360.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI360.mdlx/-3.dds
+- name: remastered/obj/F_WI360.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI360.mdlx/-4.dds
+- name: remastered/obj/F_WI360_PETE.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI360_PETE.a.us/-0.dds
+- name: remastered/obj/F_WI360_PETE.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI360_PETE.a.us/-1.dds
+- name: remastered/obj/F_WI360_PETE.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI360_PETE.mdlx/-0.dds
+- name: remastered/obj/F_WI360_PETE.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI360_PETE.mdlx/-1.dds
+- name: remastered/obj/F_WI360_PETE.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI360_PETE.mdlx/-2.dds
+- name: remastered/obj/F_WI360_PETE.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI360_PETE.mdlx/-3.dds
+- name: remastered/obj/F_WI360_PETE.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI360_PETE.mdlx/-4.dds
+- name: remastered/obj/F_WI380.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380.a.us/-0.dds
+- name: remastered/obj/F_WI380.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380.a.us/-1.dds
+- name: remastered/obj/F_WI380.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380.a.us/-2.dds
+- name: remastered/obj/F_WI380.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380.a.us/-3.dds
+- name: remastered/obj/F_WI380.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380.a.us/-4.dds
+- name: remastered/obj/F_WI380.a.us/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380.a.us/-5.dds
+- name: remastered/obj/F_WI380.a.us/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380.a.us/-6.dds
+- name: remastered/obj/F_WI380.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380.mdlx/-0.dds
+- name: remastered/obj/F_WI380.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380.mdlx/-1.dds
+- name: remastered/obj/F_WI380.mdlx/-10.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380.mdlx/-10.dds
+- name: remastered/obj/F_WI380.mdlx/-11.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380.mdlx/-11.dds
+- name: remastered/obj/F_WI380.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380.mdlx/-2.dds
+- name: remastered/obj/F_WI380.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380.mdlx/-3.dds
+- name: remastered/obj/F_WI380.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380.mdlx/-4.dds
+- name: remastered/obj/F_WI380.mdlx/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380.mdlx/-5.dds
+- name: remastered/obj/F_WI380.mdlx/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380.mdlx/-6.dds
+- name: remastered/obj/F_WI380.mdlx/-7.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380.mdlx/-7.dds
+- name: remastered/obj/F_WI380.mdlx/-8.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380.mdlx/-8.dds
+- name: remastered/obj/F_WI380.mdlx/-9.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380.mdlx/-9.dds
+- name: remastered/obj/F_WI380_RTN.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380_RTN.a.us/-0.dds
+- name: remastered/obj/F_WI380_RTN.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380_RTN.a.us/-1.dds
+- name: remastered/obj/F_WI380_RTN.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380_RTN.a.us/-2.dds
+- name: remastered/obj/F_WI380_RTN.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380_RTN.a.us/-3.dds
+- name: remastered/obj/F_WI380_RTN.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380_RTN.a.us/-4.dds
+- name: remastered/obj/F_WI380_RTN.a.us/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380_RTN.a.us/-5.dds
+- name: remastered/obj/F_WI380_RTN.a.us/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380_RTN.a.us/-6.dds
+- name: remastered/obj/F_WI380_RTN.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380_RTN.mdlx/-0.dds
+- name: remastered/obj/F_WI380_RTN.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380_RTN.mdlx/-1.dds
+- name: remastered/obj/F_WI380_RTN.mdlx/-10.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380_RTN.mdlx/-10.dds
+- name: remastered/obj/F_WI380_RTN.mdlx/-11.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380_RTN.mdlx/-11.dds
+- name: remastered/obj/F_WI380_RTN.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380_RTN.mdlx/-2.dds
+- name: remastered/obj/F_WI380_RTN.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380_RTN.mdlx/-3.dds
+- name: remastered/obj/F_WI380_RTN.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380_RTN.mdlx/-4.dds
+- name: remastered/obj/F_WI380_RTN.mdlx/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380_RTN.mdlx/-5.dds
+- name: remastered/obj/F_WI380_RTN.mdlx/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380_RTN.mdlx/-6.dds
+- name: remastered/obj/F_WI380_RTN.mdlx/-7.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380_RTN.mdlx/-7.dds
+- name: remastered/obj/F_WI380_RTN.mdlx/-8.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380_RTN.mdlx/-8.dds
+- name: remastered/obj/F_WI380_RTN.mdlx/-9.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI380_RTN.mdlx/-9.dds
+- name: remastered/obj/F_WI390.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI390.mdlx/-0.dds
+- name: remastered/obj/F_WI390.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI390.mdlx/-1.dds
+- name: remastered/obj/F_WI390_RTN.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI390_RTN.mdlx/-0.dds
+- name: remastered/obj/F_WI390_RTN.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI390_RTN.mdlx/-1.dds
+- name: remastered/obj/F_WI400.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI400.a.us/-0.dds
+- name: remastered/obj/F_WI400.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI400.a.us/-1.dds
+- name: remastered/obj/F_WI400.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI400.a.us/-2.dds
+- name: remastered/obj/F_WI400.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI400.a.us/-3.dds
+- name: remastered/obj/F_WI400.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI400.mdlx/-0.dds
+- name: remastered/obj/F_WI410.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI410.a.us/-0.dds
+- name: remastered/obj/F_WI410.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI410.a.us/-1.dds
+- name: remastered/obj/F_WI410.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI410.a.us/-2.dds
+- name: remastered/obj/F_WI410.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI410.a.us/-3.dds
+- name: remastered/obj/F_WI410.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI410.mdlx/-0.dds
+- name: remastered/obj/F_WI420.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI420.a.us/-0.dds
+- name: remastered/obj/F_WI420.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI420.a.us/-1.dds
+- name: remastered/obj/F_WI420.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI420.a.us/-2.dds
+- name: remastered/obj/F_WI420.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI420.a.us/-3.dds
+- name: remastered/obj/F_WI420.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI420.mdlx/-0.dds
+- name: remastered/obj/F_WI500.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI500.mdlx/-0.dds
+- name: remastered/obj/F_WI500.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI500.mdlx/-1.dds
+- name: remastered/obj/F_WI510.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI510.mdlx/-0.dds
+- name: remastered/obj/F_WI510.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI510.mdlx/-1.dds
+- name: remastered/obj/F_WI510.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI510.mdlx/-2.dds
+- name: remastered/obj/F_WI510.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI510.mdlx/-3.dds
+- name: remastered/obj/F_WI510.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI510.mdlx/-4.dds
+- name: remastered/obj/F_WI510.mdlx/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI510.mdlx/-5.dds
+- name: remastered/obj/F_WI510.mdlx/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI510.mdlx/-6.dds
+- name: remastered/obj/F_WI511.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI511.mdlx/-0.dds
+- name: remastered/obj/F_WI511.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI511.mdlx/-1.dds
+- name: remastered/obj/F_WI511.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI511.mdlx/-2.dds
+- name: remastered/obj/F_WI511.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI511.mdlx/-3.dds
+- name: remastered/obj/F_WI511.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI511.mdlx/-4.dds
+- name: remastered/obj/F_WI511.mdlx/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI511.mdlx/-5.dds
+- name: remastered/obj/F_WI511.mdlx/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI511.mdlx/-6.dds
+- name: remastered/obj/F_WI512.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI512.mdlx/-0.dds
+- name: remastered/obj/F_WI512.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI512.mdlx/-1.dds
+- name: remastered/obj/F_WI512.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI512.mdlx/-2.dds
+- name: remastered/obj/F_WI512.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI512.mdlx/-3.dds
+- name: remastered/obj/F_WI512.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI512.mdlx/-4.dds
+- name: remastered/obj/F_WI512.mdlx/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI512.mdlx/-5.dds
+- name: remastered/obj/F_WI512.mdlx/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI512.mdlx/-6.dds
+- name: remastered/obj/F_WI513.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI513.mdlx/-0.dds
+- name: remastered/obj/F_WI513.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI513.mdlx/-1.dds
+- name: remastered/obj/F_WI513.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI513.mdlx/-2.dds
+- name: remastered/obj/F_WI513.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI513.mdlx/-3.dds
+- name: remastered/obj/F_WI513.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI513.mdlx/-4.dds
+- name: remastered/obj/F_WI513.mdlx/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI513.mdlx/-5.dds
+- name: remastered/obj/F_WI513.mdlx/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI513.mdlx/-6.dds
+- name: remastered/obj/F_WI520.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI520.mdlx/-0.dds
+- name: remastered/obj/F_WI520.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI520.mdlx/-1.dds
+- name: remastered/obj/F_WI520.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI520.mdlx/-2.dds
+- name: remastered/obj/F_WI530.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI530.mdlx/-0.dds
+- name: remastered/obj/F_WI530.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI530.mdlx/-1.dds
+- name: remastered/obj/F_WI530.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI530.mdlx/-2.dds
+- name: remastered/obj/F_WI530.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI530.mdlx/-3.dds
+- name: remastered/obj/F_WI530.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI530.mdlx/-4.dds
+- name: remastered/obj/F_WI550.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI550.mdlx/-0.dds
+- name: remastered/obj/F_WI550.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI550.mdlx/-1.dds
+- name: remastered/obj/F_WI550.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI550.mdlx/-2.dds
+- name: remastered/obj/F_WI560.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI560.mdlx/-0.dds
+- name: remastered/obj/F_WI560.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI560.mdlx/-1.dds
+- name: remastered/obj/F_WI560.mdlx/-10.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI560.mdlx/-10.dds
+- name: remastered/obj/F_WI560.mdlx/-11.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI560.mdlx/-11.dds
+- name: remastered/obj/F_WI560.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI560.mdlx/-2.dds
+- name: remastered/obj/F_WI560.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI560.mdlx/-3.dds
+- name: remastered/obj/F_WI560.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI560.mdlx/-4.dds
+- name: remastered/obj/F_WI560.mdlx/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI560.mdlx/-5.dds
+- name: remastered/obj/F_WI560.mdlx/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI560.mdlx/-6.dds
+- name: remastered/obj/F_WI560.mdlx/-7.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI560.mdlx/-7.dds
+- name: remastered/obj/F_WI560.mdlx/-8.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI560.mdlx/-8.dds
+- name: remastered/obj/F_WI560.mdlx/-9.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI560.mdlx/-9.dds
+- name: remastered/obj/F_WI570.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI570.mdlx/-0.dds
+- name: remastered/obj/F_WI580.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI580.mdlx/-0.dds
+- name: remastered/obj/F_WI580.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI580.mdlx/-1.dds
+- name: remastered/obj/F_WI580.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI580.mdlx/-2.dds
+- name: remastered/obj/F_WI580.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_WI580.mdlx/-3.dds
+- name: remastered/obj/M_EX010_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX010_WI.a.us/-0.dds
+- name: remastered/obj/M_EX010_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX010_WI.mdlx/-0.dds
+- name: remastered/obj/M_EX010_WI.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX010_WI.mdlx/-1.dds
+- name: remastered/obj/M_EX010_WI.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX010_WI.mdlx/-2.dds
+- name: remastered/obj/M_EX010_WI.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX010_WI.mdlx/-3.dds
+- name: remastered/obj/M_EX020_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX020_WI.a.us/-0.dds
+- name: remastered/obj/M_EX020_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX020_WI.mdlx/-0.dds
+- name: remastered/obj/M_EX020_WI_RAW.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX020_WI_RAW.a.us/-0.dds
+- name: remastered/obj/M_EX020_WI_RAW.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX020_WI_RAW.mdlx/-0.dds
+- name: remastered/obj/M_EX050_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX050_WI.a.us/-0.dds
+- name: remastered/obj/M_EX050_WI.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX050_WI.a.us/-1.dds
+- name: remastered/obj/M_EX050_WI.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX050_WI.a.us/-2.dds
+- name: remastered/obj/M_EX050_WI.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX050_WI.a.us/-3.dds
+- name: remastered/obj/M_EX050_WI.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX050_WI.a.us/-4.dds
+- name: remastered/obj/M_EX050_WI.a.us/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX050_WI.a.us/-5.dds
+- name: remastered/obj/M_EX050_WI.a.us/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX050_WI.a.us/-6.dds
+- name: remastered/obj/M_EX050_WI.a.us/-7.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX050_WI.a.us/-7.dds
+- name: remastered/obj/M_EX050_WI.a.us/-8.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX050_WI.a.us/-8.dds
+- name: remastered/obj/M_EX050_WI.a.us/-9.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX050_WI.a.us/-9.dds
+- name: remastered/obj/M_EX050_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX050_WI.mdlx/-0.dds
+- name: remastered/obj/M_EX050_WI.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX050_WI.mdlx/-1.dds
+- name: remastered/obj/M_EX050_WI.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX050_WI.mdlx/-2.dds
+- name: remastered/obj/M_EX540_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX540_WI.a.us/-0.dds
+- name: remastered/obj/M_EX540_WI.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX540_WI.a.us/-1.dds
+- name: remastered/obj/M_EX540_WI.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX540_WI.a.us/-2.dds
+- name: remastered/obj/M_EX540_WI.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX540_WI.a.us/-3.dds
+- name: remastered/obj/M_EX540_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX540_WI.mdlx/-0.dds
+- name: remastered/obj/M_EX540_WI.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX540_WI.mdlx/-1.dds
+- name: remastered/obj/M_EX540_WI.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX540_WI.mdlx/-2.dds
+- name: remastered/obj/M_EX540_WI.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX540_WI.mdlx/-3.dds
+- name: remastered/obj/M_EX550_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX550_WI.a.us/-0.dds
+- name: remastered/obj/M_EX550_WI.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX550_WI.a.us/-1.dds
+- name: remastered/obj/M_EX550_WI.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX550_WI.a.us/-2.dds
+- name: remastered/obj/M_EX550_WI.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX550_WI.a.us/-3.dds
+- name: remastered/obj/M_EX550_WI.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX550_WI.a.us/-4.dds
+- name: remastered/obj/M_EX550_WI.a.us/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX550_WI.a.us/-5.dds
+- name: remastered/obj/M_EX550_WI.a.us/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX550_WI.a.us/-6.dds
+- name: remastered/obj/M_EX550_WI.a.us/-7.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX550_WI.a.us/-7.dds
+- name: remastered/obj/M_EX550_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX550_WI.mdlx/-0.dds
+- name: remastered/obj/M_EX560_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX560_WI.a.us/-0.dds
+- name: remastered/obj/M_EX560_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX560_WI.mdlx/-0.dds
+- name: remastered/obj/M_EX560_WI.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX560_WI.mdlx/-1.dds
+- name: remastered/obj/M_EX560_WI.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX560_WI.mdlx/-2.dds
+- name: remastered/obj/M_EX560_WI.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX560_WI.mdlx/-3.dds
+- name: remastered/obj/M_EX640_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX640_WI.a.us/-0.dds
+- name: remastered/obj/M_EX640_WI.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX640_WI.a.us/-1.dds
+- name: remastered/obj/M_EX640_WI.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX640_WI.a.us/-2.dds
+- name: remastered/obj/M_EX640_WI.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX640_WI.a.us/-3.dds
+- name: remastered/obj/M_EX640_WI.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX640_WI.a.us/-4.dds
+- name: remastered/obj/M_EX640_WI.a.us/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX640_WI.a.us/-5.dds
+- name: remastered/obj/M_EX640_WI.a.us/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX640_WI.a.us/-6.dds
+- name: remastered/obj/M_EX640_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX640_WI.mdlx/-0.dds
+- name: remastered/obj/M_EX640_WI.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX640_WI.mdlx/-1.dds
+- name: remastered/obj/M_EX640_WI.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX640_WI.mdlx/-2.dds
+- name: remastered/obj/M_EX660_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX660_WI.a.us/-0.dds
+- name: remastered/obj/M_EX660_WI.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX660_WI.a.us/-1.dds
+- name: remastered/obj/M_EX660_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX660_WI.mdlx/-0.dds
+- name: remastered/obj/M_EX660_WI.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX660_WI.mdlx/-1.dds
+- name: remastered/obj/M_EX660_WI_RAW.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX660_WI_RAW.mdlx/-0.dds
+- name: remastered/obj/M_EX660_WI_RAW.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX660_WI_RAW.mdlx/-1.dds
+- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-0.dds
+- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-1.dds
+- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-10.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-10.dds
+- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-11.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-11.dds
+- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-12.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-12.dds
+- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-13.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-13.dds
+- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-14.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-14.dds
+- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-15.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-15.dds
+- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-16.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-16.dds
+- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-2.dds
+- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-3.dds
+- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-4.dds
+- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-5.dds
+- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-6.dds
+- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-7.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-7.dds
+- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-8.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-8.dds
+- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-9.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-9.dds
+- name: remastered/obj/N_EX760_BTL_WILLY.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_EX760_BTL_WILLY.mdlx/-0.dds
+- name: remastered/obj/N_EX760_BTL_WILLY.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_EX760_BTL_WILLY.mdlx/-1.dds
+- name: remastered/obj/N_EX760_BTL_WILLY.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_EX760_BTL_WILLY.mdlx/-2.dds
+- name: remastered/obj/N_EX760_BTL_WILLY.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_EX760_BTL_WILLY.mdlx/-3.dds
+- name: remastered/obj/N_EX760_BTL_WILLY.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_EX760_BTL_WILLY.mdlx/-4.dds
+- name: remastered/obj/N_WI010_BTL.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_BTL.a.us/-0.dds
+- name: remastered/obj/N_WI010_BTL.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_BTL.a.us/-1.dds
+- name: remastered/obj/N_WI010_BTL.a.us/-10.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_BTL.a.us/-10.dds
+- name: remastered/obj/N_WI010_BTL.a.us/-11.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_BTL.a.us/-11.dds
+- name: remastered/obj/N_WI010_BTL.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_BTL.a.us/-2.dds
+- name: remastered/obj/N_WI010_BTL.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_BTL.a.us/-3.dds
+- name: remastered/obj/N_WI010_BTL.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_BTL.a.us/-4.dds
+- name: remastered/obj/N_WI010_BTL.a.us/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_BTL.a.us/-5.dds
+- name: remastered/obj/N_WI010_BTL.a.us/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_BTL.a.us/-6.dds
+- name: remastered/obj/N_WI010_BTL.a.us/-7.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_BTL.a.us/-7.dds
+- name: remastered/obj/N_WI010_BTL.a.us/-8.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_BTL.a.us/-8.dds
+- name: remastered/obj/N_WI010_BTL.a.us/-9.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_BTL.a.us/-9.dds
+- name: remastered/obj/N_WI010_BTL.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_BTL.mdlx/-0.dds
+- name: remastered/obj/N_WI010_BTL.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_BTL.mdlx/-1.dds
+- name: remastered/obj/N_WI010_BTL.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_BTL.mdlx/-2.dds
+- name: remastered/obj/N_WI010_BTL_VS.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_BTL_VS.a.us/-0.dds
+- name: remastered/obj/N_WI010_BTL_VS.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_BTL_VS.a.us/-1.dds
+- name: remastered/obj/N_WI010_BTL_VS.a.us/-10.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_BTL_VS.a.us/-10.dds
+- name: remastered/obj/N_WI010_BTL_VS.a.us/-11.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_BTL_VS.a.us/-11.dds
+- name: remastered/obj/N_WI010_BTL_VS.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_BTL_VS.a.us/-2.dds
+- name: remastered/obj/N_WI010_BTL_VS.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_BTL_VS.a.us/-3.dds
+- name: remastered/obj/N_WI010_BTL_VS.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_BTL_VS.a.us/-4.dds
+- name: remastered/obj/N_WI010_BTL_VS.a.us/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_BTL_VS.a.us/-5.dds
+- name: remastered/obj/N_WI010_BTL_VS.a.us/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_BTL_VS.a.us/-6.dds
+- name: remastered/obj/N_WI010_BTL_VS.a.us/-7.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_BTL_VS.a.us/-7.dds
+- name: remastered/obj/N_WI010_BTL_VS.a.us/-8.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_BTL_VS.a.us/-8.dds
+- name: remastered/obj/N_WI010_BTL_VS.a.us/-9.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_BTL_VS.a.us/-9.dds
+- name: remastered/obj/N_WI010_BTL_VS.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_BTL_VS.mdlx/-0.dds
+- name: remastered/obj/N_WI010_BTL_VS.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_BTL_VS.mdlx/-1.dds
+- name: remastered/obj/N_WI010_BTL_VS.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_BTL_VS.mdlx/-2.dds
+- name: remastered/obj/N_WI010_RTN.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_RTN.mdlx/-0.dds
+- name: remastered/obj/N_WI010_RTN.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_RTN.mdlx/-1.dds
+- name: remastered/obj/N_WI010_RTN.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI010_RTN.mdlx/-2.dds
+- name: remastered/obj/N_WI020_RTN.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI020_RTN.mdlx/-0.dds
+- name: remastered/obj/N_WI020_RTN.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI020_RTN.mdlx/-1.dds
+- name: remastered/obj/N_WI020_RTN.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI020_RTN.mdlx/-2.dds
+- name: remastered/obj/N_WI030_RTN.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI030_RTN.mdlx/-0.dds
+- name: remastered/obj/N_WI030_RTN.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI030_RTN.mdlx/-1.dds
+- name: remastered/obj/N_WI030_RTN.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI030_RTN.mdlx/-2.dds
+- name: remastered/obj/N_WI040_RTN.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI040_RTN.mdlx/-0.dds
+- name: remastered/obj/N_WI040_RTN.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI040_RTN.mdlx/-1.dds
+- name: remastered/obj/N_WI050_ISHI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI050_ISHI.mdlx/-0.dds
+- name: remastered/obj/N_WI050_ISHI.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_WI050_ISHI.mdlx/-1.dds
+- name: remastered/obj/P_EX100_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI.a.us/-0.dds
+- name: remastered/obj/P_EX100_WI.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI.a.us/-1.dds
+- name: remastered/obj/P_EX100_WI.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI.a.us/-2.dds
+- name: remastered/obj/P_EX100_WI.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI.a.us/-3.dds
+- name: remastered/obj/P_EX100_WI.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI.a.us/-4.dds
+- name: remastered/obj/P_EX100_WI.a.us/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI.a.us/-5.dds
+- name: remastered/obj/P_EX100_WI.a.us/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI.a.us/-6.dds
+- name: remastered/obj/P_EX100_WI.a.us/-7.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI.a.us/-7.dds
+- name: remastered/obj/P_EX100_WI.a.us/-8.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI.a.us/-8.dds
+- name: remastered/obj/P_EX100_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI.mdlx/-0.dds
+- name: remastered/obj/P_EX100_WI.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI.mdlx/-1.dds
+- name: remastered/obj/P_EX100_WI.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI.mdlx/-2.dds
+- name: remastered/obj/P_EX100_WI_BTLF.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_BTLF.a.us/-0.dds
+- name: remastered/obj/P_EX100_WI_BTLF.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_BTLF.a.us/-1.dds
+- name: remastered/obj/P_EX100_WI_BTLF.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_BTLF.a.us/-2.dds
+- name: remastered/obj/P_EX100_WI_BTLF.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_BTLF.a.us/-3.dds
+- name: remastered/obj/P_EX100_WI_BTLF.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_BTLF.a.us/-4.dds
+- name: remastered/obj/P_EX100_WI_BTLF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_BTLF.mdlx/-0.dds
+- name: remastered/obj/P_EX100_WI_BTLF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_BTLF.mdlx/-1.dds
+- name: remastered/obj/P_EX100_WI_BTLF.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_BTLF.mdlx/-2.dds
+- name: remastered/obj/P_EX100_WI_HTLF.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_HTLF.a.us/-0.dds
+- name: remastered/obj/P_EX100_WI_HTLF.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_HTLF.a.us/-1.dds
+- name: remastered/obj/P_EX100_WI_HTLF.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_HTLF.a.us/-2.dds
+- name: remastered/obj/P_EX100_WI_HTLF.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_HTLF.a.us/-3.dds
+- name: remastered/obj/P_EX100_WI_HTLF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_HTLF.mdlx/-0.dds
+- name: remastered/obj/P_EX100_WI_KH1F.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_KH1F.a.us/-0.dds
+- name: remastered/obj/P_EX100_WI_KH1F.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_KH1F.a.us/-1.dds
+- name: remastered/obj/P_EX100_WI_KH1F.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_KH1F.a.us/-2.dds
+- name: remastered/obj/P_EX100_WI_KH1F.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_KH1F.a.us/-3.dds
+- name: remastered/obj/P_EX100_WI_KH1F.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_KH1F.a.us/-4.dds
+- name: remastered/obj/P_EX100_WI_KH1F.a.us/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_KH1F.a.us/-5.dds
+- name: remastered/obj/P_EX100_WI_KH1F.a.us/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_KH1F.a.us/-6.dds
+- name: remastered/obj/P_EX100_WI_KH1F.a.us/-7.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_KH1F.a.us/-7.dds
+- name: remastered/obj/P_EX100_WI_KH1F.a.us/-8.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_KH1F.a.us/-8.dds
+- name: remastered/obj/P_EX100_WI_KH1F.a.us/-9.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_KH1F.a.us/-9.dds
+- name: remastered/obj/P_EX100_WI_KH1F.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_KH1F.mdlx/-0.dds
+- name: remastered/obj/P_EX100_WI_KH1F.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_KH1F.mdlx/-1.dds
+- name: remastered/obj/P_EX100_WI_KH1F.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_KH1F.mdlx/-2.dds
+- name: remastered/obj/P_EX100_WI_MAGF.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_MAGF.a.us/-0.dds
+- name: remastered/obj/P_EX100_WI_MAGF.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_MAGF.a.us/-1.dds
+- name: remastered/obj/P_EX100_WI_MAGF.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_MAGF.a.us/-2.dds
+- name: remastered/obj/P_EX100_WI_MAGF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_MAGF.mdlx/-0.dds
+- name: remastered/obj/P_EX100_WI_MAGF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_MAGF.mdlx/-1.dds
+- name: remastered/obj/P_EX100_WI_MAGF.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_MAGF.mdlx/-2.dds
+- name: remastered/obj/P_EX100_WI_TRIF.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_TRIF.a.us/-0.dds
+- name: remastered/obj/P_EX100_WI_TRIF.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_TRIF.a.us/-1.dds
+- name: remastered/obj/P_EX100_WI_TRIF.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_TRIF.a.us/-2.dds
+- name: remastered/obj/P_EX100_WI_TRIF.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_TRIF.a.us/-3.dds
+- name: remastered/obj/P_EX100_WI_TRIF.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_TRIF.a.us/-4.dds
+- name: remastered/obj/P_EX100_WI_TRIF.a.us/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_TRIF.a.us/-5.dds
+- name: remastered/obj/P_EX100_WI_TRIF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_TRIF.mdlx/-0.dds
+- name: remastered/obj/P_EX100_WI_TRIF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_TRIF.mdlx/-1.dds
+- name: remastered/obj/P_EX100_WI_TRIF.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_TRIF.mdlx/-2.dds
+- name: remastered/obj/P_EX100_WI_ULTF.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_ULTF.a.us/-0.dds
+- name: remastered/obj/P_EX100_WI_ULTF.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_ULTF.a.us/-1.dds
+- name: remastered/obj/P_EX100_WI_ULTF.a.us/-10.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_ULTF.a.us/-10.dds
+- name: remastered/obj/P_EX100_WI_ULTF.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_ULTF.a.us/-2.dds
+- name: remastered/obj/P_EX100_WI_ULTF.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_ULTF.a.us/-3.dds
+- name: remastered/obj/P_EX100_WI_ULTF.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_ULTF.a.us/-4.dds
+- name: remastered/obj/P_EX100_WI_ULTF.a.us/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_ULTF.a.us/-5.dds
+- name: remastered/obj/P_EX100_WI_ULTF.a.us/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_ULTF.a.us/-6.dds
+- name: remastered/obj/P_EX100_WI_ULTF.a.us/-7.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_ULTF.a.us/-7.dds
+- name: remastered/obj/P_EX100_WI_ULTF.a.us/-8.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_ULTF.a.us/-8.dds
+- name: remastered/obj/P_EX100_WI_ULTF.a.us/-9.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_ULTF.a.us/-9.dds
+- name: remastered/obj/P_EX100_WI_ULTF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_ULTF.mdlx/-0.dds
+- name: remastered/obj/P_EX100_WI_ULTF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_ULTF.mdlx/-1.dds
+- name: remastered/obj/P_EX100_WI_ULTF.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_ULTF.mdlx/-2.dds
+- name: remastered/obj/P_WI020.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_WI020.a.us/-0.dds
+- name: remastered/obj/P_WI020.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_WI020.a.us/-1.dds
+- name: remastered/obj/P_WI020.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_WI020.a.us/-2.dds
+- name: remastered/obj/P_WI020.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_WI020.a.us/-3.dds
+- name: remastered/obj/P_WI020.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_WI020.a.us/-4.dds
+- name: remastered/obj/P_WI020.a.us/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_WI020.a.us/-5.dds
+- name: remastered/obj/P_WI020.a.us/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_WI020.a.us/-6.dds
+- name: remastered/obj/P_WI020.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_WI020.mdlx/-0.dds
+- name: remastered/obj/P_WI020.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_WI020.mdlx/-1.dds
+- name: remastered/obj/P_WI020_RTN.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_WI020_RTN.mdlx/-0.dds
+- name: remastered/obj/P_WI020_RTN.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_WI020_RTN.mdlx/-1.dds
+- name: remastered/obj/P_WI030.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_WI030.a.us/-0.dds
+- name: remastered/obj/P_WI030.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_WI030.a.us/-1.dds
+- name: remastered/obj/P_WI030.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_WI030.a.us/-2.dds
+- name: remastered/obj/P_WI030.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_WI030.mdlx/-0.dds
+- name: remastered/obj/P_WI030.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_WI030.mdlx/-1.dds
+- name: remastered/obj/P_WI030_RTN.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_WI030_RTN.mdlx/-0.dds
+- name: remastered/obj/P_WI030_RTN.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_WI030_RTN.mdlx/-1.dds
+- name: remastered/obj/W_EX010_10_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_10_WI.a.us/-0.dds
+- name: remastered/obj/W_EX010_10_WI.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_10_WI.a.us/-1.dds
+- name: remastered/obj/W_EX010_10_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_10_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX010_20_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_20_WI.a.us/-0.dds
+- name: remastered/obj/W_EX010_20_WI.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_20_WI.a.us/-1.dds
+- name: remastered/obj/W_EX010_20_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_20_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX010_30_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_30_WI.a.us/-0.dds
+- name: remastered/obj/W_EX010_30_WI.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_30_WI.a.us/-1.dds
+- name: remastered/obj/W_EX010_30_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_30_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX010_40_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_40_WI.a.us/-0.dds
+- name: remastered/obj/W_EX010_40_WI.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_40_WI.a.us/-1.dds
+- name: remastered/obj/W_EX010_40_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_40_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX010_50_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_50_WI.a.us/-0.dds
+- name: remastered/obj/W_EX010_50_WI.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_50_WI.a.us/-1.dds
+- name: remastered/obj/W_EX010_50_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_50_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX010_60_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_60_WI.a.us/-0.dds
+- name: remastered/obj/W_EX010_60_WI.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_60_WI.a.us/-1.dds
+- name: remastered/obj/W_EX010_60_WI.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_60_WI.a.us/-2.dds
+- name: remastered/obj/W_EX010_60_WI.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_60_WI.a.us/-3.dds
+- name: remastered/obj/W_EX010_60_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_60_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX010_70_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_70_WI.a.us/-0.dds
+- name: remastered/obj/W_EX010_70_WI.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_70_WI.a.us/-1.dds
+- name: remastered/obj/W_EX010_70_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_70_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX010_80_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_80_WI.a.us/-0.dds
+- name: remastered/obj/W_EX010_80_WI.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_80_WI.a.us/-1.dds
+- name: remastered/obj/W_EX010_80_WI.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_80_WI.a.us/-2.dds
+- name: remastered/obj/W_EX010_80_WI.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_80_WI.a.us/-3.dds
+- name: remastered/obj/W_EX010_80_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_80_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX010_90_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_90_WI.a.us/-0.dds
+- name: remastered/obj/W_EX010_90_WI.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_90_WI.a.us/-1.dds
+- name: remastered/obj/W_EX010_90_WI.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_90_WI.a.us/-2.dds
+- name: remastered/obj/W_EX010_90_WI.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_90_WI.a.us/-3.dds
+- name: remastered/obj/W_EX010_90_WI.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_90_WI.a.us/-4.dds
+- name: remastered/obj/W_EX010_90_WI.a.us/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_90_WI.a.us/-5.dds
+- name: remastered/obj/W_EX010_90_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_90_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX010_A0_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_A0_WI.a.us/-0.dds
+- name: remastered/obj/W_EX010_A0_WI.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_A0_WI.a.us/-1.dds
+- name: remastered/obj/W_EX010_A0_WI.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_A0_WI.a.us/-2.dds
+- name: remastered/obj/W_EX010_A0_WI.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_A0_WI.a.us/-3.dds
+- name: remastered/obj/W_EX010_A0_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_A0_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX010_B0_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_B0_WI.a.us/-0.dds
+- name: remastered/obj/W_EX010_B0_WI.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_B0_WI.a.us/-1.dds
+- name: remastered/obj/W_EX010_B0_WI.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_B0_WI.a.us/-2.dds
+- name: remastered/obj/W_EX010_B0_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_B0_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX010_C0_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_C0_WI.a.us/-0.dds
+- name: remastered/obj/W_EX010_C0_WI.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_C0_WI.a.us/-1.dds
+- name: remastered/obj/W_EX010_C0_WI.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_C0_WI.a.us/-2.dds
+- name: remastered/obj/W_EX010_C0_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_C0_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX010_D0_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_D0_WI.a.us/-0.dds
+- name: remastered/obj/W_EX010_D0_WI.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_D0_WI.a.us/-1.dds
+- name: remastered/obj/W_EX010_D0_WI.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_D0_WI.a.us/-2.dds
+- name: remastered/obj/W_EX010_D0_WI.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_D0_WI.a.us/-3.dds
+- name: remastered/obj/W_EX010_D0_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_D0_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX010_E0_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_E0_WI.a.us/-0.dds
+- name: remastered/obj/W_EX010_E0_WI.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_E0_WI.a.us/-1.dds
+- name: remastered/obj/W_EX010_E0_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_E0_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX010_F0_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_F0_WI.a.us/-0.dds
+- name: remastered/obj/W_EX010_F0_WI.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_F0_WI.a.us/-1.dds
+- name: remastered/obj/W_EX010_F0_WI.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_F0_WI.a.us/-2.dds
+- name: remastered/obj/W_EX010_F0_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_F0_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX010_G0_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_G0_WI.a.us/-0.dds
+- name: remastered/obj/W_EX010_G0_WI.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_G0_WI.a.us/-1.dds
+- name: remastered/obj/W_EX010_G0_WI.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_G0_WI.a.us/-2.dds
+- name: remastered/obj/W_EX010_G0_WI.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_G0_WI.a.us/-3.dds
+- name: remastered/obj/W_EX010_G0_WI.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_G0_WI.a.us/-4.dds
+- name: remastered/obj/W_EX010_G0_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_G0_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX010_H0_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_H0_WI.a.us/-0.dds
+- name: remastered/obj/W_EX010_H0_WI.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_H0_WI.a.us/-1.dds
+- name: remastered/obj/W_EX010_H0_WI.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_H0_WI.a.us/-2.dds
+- name: remastered/obj/W_EX010_H0_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_H0_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX010_J0_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_J0_WI.a.us/-0.dds
+- name: remastered/obj/W_EX010_J0_WI.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_J0_WI.a.us/-1.dds
+- name: remastered/obj/W_EX010_J0_WI.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_J0_WI.a.us/-2.dds
+- name: remastered/obj/W_EX010_J0_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_J0_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX010_K0_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_K0_WI.a.us/-0.dds
+- name: remastered/obj/W_EX010_K0_WI.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_K0_WI.a.us/-1.dds
+- name: remastered/obj/W_EX010_K0_WI.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_K0_WI.a.us/-2.dds
+- name: remastered/obj/W_EX010_K0_WI.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_K0_WI.a.us/-3.dds
+- name: remastered/obj/W_EX010_K0_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_K0_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX010_M0_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_M0_WI.a.us/-0.dds
+- name: remastered/obj/W_EX010_M0_WI.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_M0_WI.a.us/-1.dds
+- name: remastered/obj/W_EX010_M0_WI.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_M0_WI.a.us/-2.dds
+- name: remastered/obj/W_EX010_M0_WI.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_M0_WI.a.us/-3.dds
+- name: remastered/obj/W_EX010_M0_WI.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_M0_WI.a.us/-4.dds
+- name: remastered/obj/W_EX010_M0_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_M0_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX010_N0_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_N0_WI.a.us/-0.dds
+- name: remastered/obj/W_EX010_N0_WI.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_N0_WI.a.us/-1.dds
+- name: remastered/obj/W_EX010_N0_WI.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_N0_WI.a.us/-2.dds
+- name: remastered/obj/W_EX010_N0_WI.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_N0_WI.a.us/-3.dds
+- name: remastered/obj/W_EX010_N0_WI.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_N0_WI.a.us/-4.dds
+- name: remastered/obj/W_EX010_N0_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_N0_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX010_P0_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_P0_WI.a.us/-0.dds
+- name: remastered/obj/W_EX010_P0_WI.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_P0_WI.a.us/-1.dds
+- name: remastered/obj/W_EX010_P0_WI.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_P0_WI.a.us/-2.dds
+- name: remastered/obj/W_EX010_P0_WI.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_P0_WI.a.us/-3.dds
+- name: remastered/obj/W_EX010_P0_WI.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_P0_WI.a.us/-4.dds
+- name: remastered/obj/W_EX010_P0_WI.a.us/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_P0_WI.a.us/-5.dds
+- name: remastered/obj/W_EX010_P0_WI.a.us/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_P0_WI.a.us/-6.dds
+- name: remastered/obj/W_EX010_P0_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_P0_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX010_R0_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_R0_WI.a.us/-0.dds
+- name: remastered/obj/W_EX010_R0_WI.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_R0_WI.a.us/-1.dds
+- name: remastered/obj/W_EX010_R0_WI.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_R0_WI.a.us/-2.dds
+- name: remastered/obj/W_EX010_R0_WI.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_R0_WI.a.us/-3.dds
+- name: remastered/obj/W_EX010_R0_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_R0_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX010_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_WI.a.us/-0.dds
+- name: remastered/obj/W_EX010_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX020_10_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX020_10_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX020_20_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX020_20_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX020_30_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX020_30_WI.a.us/-0.dds
+- name: remastered/obj/W_EX020_30_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX020_30_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX020_40_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX020_40_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX020_50_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX020_50_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX020_60_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX020_60_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX020_70_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX020_70_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX020_80_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX020_80_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX020_90_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX020_90_WI.a.us/-0.dds
+- name: remastered/obj/W_EX020_90_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX020_90_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX020_94_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX020_94_WI.a.us/-0.dds
+- name: remastered/obj/W_EX020_94_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX020_94_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX020_A0_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX020_A0_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX020_A4_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX020_A4_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX020_B0_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX020_B0_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX020_B4_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX020_B4_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX020_C0_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX020_C0_WI.a.us/-0.dds
+- name: remastered/obj/W_EX020_C0_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX020_C0_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX020_C4_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX020_C4_WI.a.us/-0.dds
+- name: remastered/obj/W_EX020_C4_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX020_C4_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX020_C8_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX020_C8_WI.a.us/-0.dds
+- name: remastered/obj/W_EX020_C8_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX020_C8_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX020_CC_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX020_CC_WI.a.us/-0.dds
+- name: remastered/obj/W_EX020_CC_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX020_CC_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX020_CG_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX020_CG_WI.a.us/-0.dds
+- name: remastered/obj/W_EX020_CG_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX020_CG_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX020_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX020_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX030_10_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX030_10_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX030_20_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX030_20_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX030_30_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX030_30_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX030_40_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX030_40_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX030_50_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX030_50_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX030_60_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX030_60_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX030_70_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX030_70_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX030_70_WI.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX030_70_WI.mdlx/-1.dds
+- name: remastered/obj/W_EX030_80_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX030_80_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX030_84_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX030_84_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX030_90_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX030_90_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX030_A0_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX030_A0_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX030_A4_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX030_A4_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX030_B0_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX030_B0_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX030_B4_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX030_B4_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX030_C0_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX030_C0_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX030_C4_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX030_C4_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX030_C8_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX030_C8_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX030_CC_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX030_CC_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX030_CG_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX030_CG_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX030_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX030_WI.mdlx/-0.dds
