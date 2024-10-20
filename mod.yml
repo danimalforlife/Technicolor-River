@@ -3,6 +3,10 @@ originalAuthor: danimalforlife
 description: Fixes Timeless River by adding color.
 dependencies: 
 assets:
+
+###Maps###
+
+###Conerstone Hill###
 - name: remastered/map/wi00.map/-0.dds
   method: copy
   source:
@@ -307,6 +311,8 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi00.map/-9.dds
+
+###Pier###
 - name: remastered/map/wi01.map/-0.dds
   method: copy
   source:
@@ -579,6 +585,9 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi01.map/-9.dds
+
+
+###Waterway###
 - name: remastered/map/wi02.map/-0.dds
   method: copy
   source:
@@ -847,6 +856,8 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi02.map/-9.dds
+
+###Wharf###
 - name: remastered/map/wi03.map/-0.dds
   method: copy
   source:
@@ -1299,6 +1310,9 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi03.map/-99.dds
+
+
+###Lilliput###
 - name: remastered/map/wi04.map/-0.dds
   method: copy
   source:
@@ -1591,6 +1605,9 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi04.map/-9.dds
+
+
+###Building Site###
 - name: remastered/map/wi05.map/-0.dds
   method: copy
   source:
@@ -1879,6 +1896,9 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi05.map/-9.dds
+
+
+###Scene of Fire###
 - name: remastered/map/wi06.map/-0.dds
   method: copy
   source:
@@ -2295,6 +2315,9 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi06.map/-99.dds
+
+
+###Mickey's House###
 - name: remastered/map/wi07.map/-0.dds
   method: copy
   source:
@@ -2627,6 +2650,9 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi07.map/-9.dds
+
+
+###Villain's Vale###
 - name: remastered/map/wi08.map/-0.dds
   method: copy
   source:
@@ -2771,6 +2797,10 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi08.map/-9.dds
+
+
+###Objects###
+
 - name: remastered/obj/F_EX030_WI.mdlx/-0.dds
   method: copy
   source:
