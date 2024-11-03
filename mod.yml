@@ -4,6 +4,18 @@ description: Fixes Timeless River by adding color.
 dependencies: 
 assets:
 
+
+###Lifts B&W Filter from Timeless River###
+- name: 03system.bin
+  method: binarc
+  source:
+  - name: arif
+    method: copy
+    source:
+    - name: arif_0.list
+    type: List
+
+
 ###Maps###
 
 ###Conerstone Hill###
