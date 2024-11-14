@@ -4763,11 +4763,13 @@ assets:
   source:
   - name: remastered/obj/M_EX350_11.mdlx/-2.dds
 
+
+
 ###Pete's Window Transition###
-- name: remastered\obj\N_EX760_BTL.a.us\-17.dds
+- name: remastered/obj/N_EX760_BTL.a.us/-17.dds
   method: copy
   source:
-  - name: remastered\obj\N_EX760_BTL.a.us\-17.dds
+  - name: remastered/obj/N_EX760_BTL.a.us/-17.dds
 
 
 ###Sora's Weapons###
@@ -5729,3 +5731,32 @@ assets:
   method: copy
   source:
   - name: remastered/menu/us/jm_photo/wi11.bin/US_wi14_bin0.dds
+
+
+###Other Theater Photos###
+- name: remastered/event/layout/wi_104s_1.2ld/-0.dds
+  method: copy
+  source:
+  - name: remastered/event/layout/wi_104s_1.2ld/-0.dds
+- name: remastered/event/layout/wi_104s_1.2ld/JP_wi_104s_1_2ld0.dds
+  method: copy
+  source:
+  - name: remastered/event/layout/wi_104s_1.2ld/JP_wi_104s_1_2ld0.dds
+
+- name: remastered/event/layout/wi_104s_2.2ld/-0.dds
+  method: copy
+  source:
+  - name: remastered/event/layout/wi_104s_2.2ld/-0.dds
+- name: remastered/event/layout/wi_104s_2.2ld/JP_wi_104s_2_2ld0.dds
+  method: copy
+  source:
+  - name: remastered/event/layout/wi_104s_2.2ld/JP_wi_104s_2_2ld0.dds
+
+- name: remastered/event/layout/wi_113s_1.2ld/-0.dds
+  method: copy
+  source:
+  - name: remastered/event/layout/wi_113s_1.2ld/-0.dds
+- name: remastered/event/layout/wi_113s_1.2ld/JP_wi_113s_1_2ld0.dds
+  method: copy
+  source:
+  - name: remastered/event/layout/wi_113s_1.2ld/JP_wi_113s_1_2ld0.dds
