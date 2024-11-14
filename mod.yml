@@ -5471,14 +5471,14 @@ assets:
 
 
 ###Title and World Icon###
-- name: remastered/menu/jm_top_wi.2ld/-0.png
+- name: remastered/menu/jm_top_wi.2ld/-0.dds
   method: copy
   source:
-  - name: remastered/menu/jm_top_wi.2ld/-0.png
-- name: remastered/menu/jm_top_wi.2ld/-1.png
+  - name: remastered/menu/jm_top_wi.2ld/-0.dds
+- name: remastered/menu/jm_top_wi.2ld/-1.dds
   method: copy
   source:
-  - name: remastered/menu/jm_top_wi.2ld/-1.png
+  - name: remastered/menu/jm_top_wi.2ld/-1.dds
 
 
 
