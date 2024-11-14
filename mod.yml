@@ -5480,6 +5480,13 @@ assets:
   source:
   - name: remastered/menu/jm_top_wi.2ld/-1.dds
 
+- name: remastered/menu/jm_world.2ld/-10.dds
+  method: copy
+  source:
+  - name: remastered/menu/jm_world.2ld/-10.dds
+
+
+
 
 
 ###Shop Huds###
@@ -5503,21 +5510,66 @@ assets:
 
 
 
-###End Credits Picture(?)###
+
+
+###End or Theater Picture(?)###
+###Main folder###
 - name: remastered/menu/eventviewer.2ld/-11.png
   method: copy
   source:
   - name: remastered/menu/eventviewer.2ld/-11.png
 
+###US-only folder###
+- name: remastered/menu/us/titlejf.2ld/US_titlejf_2ld21.png
+  method: copy
+  source:
+  - name: remastered/menu/us/titlejf.2ld/US_titlejf_2ld21.png
+
+
+
+
 
 ###Save Icon###
+###US sub-folder###
 - name: remastered/menu/us/save.2ld/US_save_2ld2.png
   method: copy
   source:
   - name: remastered/menu/us/save.2ld/US_save_2ld2.png
 
+###fm sub-folder###
+- name: remastered/menu/fm/save.2ld/-2.png
+  method: copy
+  source:
+  - name: remastered/menu/fm/save.2ld/-2.png
+- name: remastered/menu/fm/save.2ld/US_save_2ld2.png
+  method: copy
+  source:
+  - name: remastered/menu/fm/save.2ld/US_save_2ld2.png
+- name: remastered/menu/fm/save.2ld/FR_save_2ld2.png
+  method: copy
+  source:
+  - name: remastered/menu/fm/save.2ld/FR_save_2ld2.png
+- name: remastered/menu/fm/save.2ld/GR_save_2ld2.png
+  method: copy
+  source:
+  - name: remastered/menu/fm/save.2ld/GR_save_2ld2.png
+- name: remastered/menu/fm/save.2ld/IT_save_2ld2.png
+  method: copy
+  source:
+  - name: remastered/menu/fm/save.2ld/IT_save_2ld2.png
+- name: remastered/menu/fm/save.2ld/SP_save_2ld2.png
+  method: copy
+  source:
+  - name: remastered/menu/fm/save.2ld/SP_save_2ld2.png
+
+
+
 
 ###Title Popup(?)###
+- name: remastered/event/effect/wi_event_103.pax/-2.dds
+  method: copy
+  source:
+  - name: remastered/event/effect/wi_event_103.pax/-2.dds
 - name: remastered/event/effect/wi_event_103.pax/-3.dds
   method: copy
   source:
@@ -5533,6 +5585,8 @@ assets:
 
 
 
+
+
 ###Command Menu###
 - name: remastered/field2d/us/wi0command.2dd/US_wi0command_2dd0.png
   method: copy
@@ -5540,7 +5594,11 @@ assets:
   - name: remastered/field2d/us/wi0command.2dd/US_wi0command_2dd0.png
 
 
+
+
+
 ###Photos###
+###fm folder###
 - name: remastered/menu/fm/jm_photo/wi11.bin/-0.dds
   method: copy
   source:
@@ -5654,5 +5712,20 @@ assets:
   source:
   - name: remastered/menu/fm/jm_photo/wi14.bin/US_wi14_bin0.dds
 
-
-
+###US Only Photos###
+- name: remastered/menu/us/jm_photo/wi11.bin/US_wi11_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/wi11.bin/US_wi11_bin0.dds
+- name: remastered/menu/us/jm_photo/wi12.bin/US_wi12_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/wi12.bin/US_wi12_bin0.dds
+- name: remastered/menu/us/jm_photo/wi13.bin/US_wi13_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/wi13.bin/US_wi13_bin0.dds
+- name: remastered/menu/us/jm_photo/wi11.bin/US_wi14_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/wi11.bin/US_wi14_bin0.dds
