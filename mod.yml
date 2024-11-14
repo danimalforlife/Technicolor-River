@@ -5434,14 +5434,7 @@ assets:
   method: copy
   source:
   - name: remastered/menu/jmface_wi.2ld/-7.dds
-- name: remastered/menu/jmface_wi.2ld/-8.dds
-  method: copy
-  source:
-  - name: remastered/menu/jmface_wi.2ld/-8.dds
-- name: remastered/menu/jmface_wi.2ld/-9.dds
-  method: copy
-  source:
-  - name: remastered/menu/jmface_wi.2ld/-9.dds
+
 - name: remastered/menu/jmface_wi0.imd/-0.dds
   method: copy
   source:
