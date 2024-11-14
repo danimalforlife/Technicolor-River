@@ -4101,6 +4101,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/M_EX660_WI_RAW.mdlx/-1.dds
+
+
+###Pete (Present Day)###
 - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-0.dds
   method: copy
   source:
@@ -4189,6 +4192,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/N_EX760_BTL_WILLY.mdlx/-4.dds
+
+
+###Captain Pete###
 - name: remastered/obj/N_WI010_BTL.a.us/-0.dds
   method: copy
   source:
@@ -4321,6 +4327,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/N_WI010_RTN.mdlx/-2.dds
+
+
+###Horace Horsecollar###
 - name: remastered/obj/N_WI020_RTN.mdlx/-0.dds
   method: copy
   source:
@@ -4333,6 +4342,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/N_WI020_RTN.mdlx/-2.dds
+
+
+###Clarabelle Cow###
 - name: remastered/obj/N_WI030_RTN.mdlx/-0.dds
   method: copy
   source:
@@ -4345,6 +4357,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/N_WI030_RTN.mdlx/-2.dds
+
+
+###Clara Cluck###
 - name: remastered/obj/N_WI040_RTN.mdlx/-0.dds
   method: copy
   source:
@@ -4353,6 +4368,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/N_WI040_RTN.mdlx/-1.dds
+
+
+###Past Mickey###
 - name: remastered/obj/N_WI050_ISHI.mdlx/-0.dds
   method: copy
   source:
@@ -4361,6 +4379,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/N_WI050_ISHI.mdlx/-1.dds
+
+
+###Sora###
 - name: remastered/obj/P_EX100_WI.a.us/-0.dds
   method: copy
   source:
@@ -4409,6 +4430,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI.mdlx/-2.dds
+
+
+###Sora (Valor Form)###
 - name: remastered/obj/P_EX100_WI_BTLF.a.us/-0.dds
   method: copy
   source:
@@ -4441,6 +4465,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_BTLF.mdlx/-2.dds
+
+
+###Sora (Anti Form)###
 - name: remastered/obj/P_EX100_WI_HTLF.a.us/-0.dds
   method: copy
   source:
@@ -4461,6 +4488,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_HTLF.mdlx/-0.dds
+
+
+###Sora Limit Form)###
 - name: remastered/obj/P_EX100_WI_KH1F.a.us/-0.dds
   method: copy
   source:
@@ -4513,6 +4543,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_KH1F.mdlx/-2.dds
+
+
+###Sora (Wisdom Form)###
 - name: remastered/obj/P_EX100_WI_MAGF.a.us/-0.dds
   method: copy
   source:
@@ -4537,6 +4570,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_MAGF.mdlx/-2.dds
+
+
+###Sora (Master Form)###
 - name: remastered/obj/P_EX100_WI_TRIF.a.us/-0.dds
   method: copy
   source:
@@ -4573,6 +4609,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_TRIF.mdlx/-2.dds
+
+
+###Sora Final Form)###
 - name: remastered/obj/P_EX100_WI_ULTF.a.us/-0.dds
   method: copy
   source:
@@ -4629,6 +4668,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_ULTF.mdlx/-2.dds
+
+
+###Donald Duck###
 - name: remastered/obj/P_WI020.a.us/-0.dds
   method: copy
   source:
@@ -4673,6 +4715,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_WI020_RTN.mdlx/-1.dds
+
+
+###Goofy###
 - name: remastered/obj/P_WI030.a.us/-0.dds
   method: copy
   source:
@@ -4701,6 +4746,31 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_WI030_RTN.mdlx/-1.dds
+
+
+
+###Mushroom 11###
+- name: remastered/obj/M_EX350_11.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX350_11.mdlx/-0.dds
+- name: remastered/obj/M_EX350_11.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX350_11.mdlx/-1.dds
+- name: remastered/obj/M_EX350_11.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX350_11.mdlx/-2.dds
+
+###Pete's Window Transition###
+- name: remastered\obj\N_EX760_BTL.a.us\-17.dds
+  method: copy
+  source:
+  - name: remastered\obj\N_EX760_BTL.a.us\-17.dds
+
+
+###Sora's Weapons###
 - name: remastered/obj/W_EX010_10_WI.a.us/-0.dds
   method: copy
   source:
@@ -5125,6 +5195,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/W_EX010_WI.mdlx/-0.dds
+
+
+###Donald's Weapons###
 - name: remastered/obj/W_EX020_10_WI.mdlx/-0.dds
   method: copy
   source:
@@ -5237,6 +5310,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/W_EX020_WI.mdlx/-0.dds
+
+
+###Goofy's Weapons###
 - name: remastered/obj/W_EX030_10_WI.mdlx/-0.dds
   method: copy
   source:
@@ -5321,3 +5397,269 @@ assets:
   method: copy
   source:
   - name: remastered/obj/W_EX030_WI.mdlx/-0.dds
+
+
+
+###Menu Pictures###
+
+- name: remastered/menu/jmface_wi.2ld/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/jmface_wi.2ld/-0.dds
+- name: remastered/menu/jmface_wi.2ld/-1.dds
+  method: copy
+  source:
+  - name: remastered/menu/jmface_wi.2ld/-1.dds
+- name: remastered/menu/jmface_wi.2ld/-2.dds
+  method: copy
+  source:
+  - name: remastered/menu/jmface_wi.2ld/-2.dds
+- name: remastered/menu/jmface_wi.2ld/-3.dds
+  method: copy
+  source:
+  - name: remastered/menu/jmface_wi.2ld/-3.dds
+- name: remastered/menu/jmface_wi.2ld/-4.dds
+  method: copy
+  source:
+  - name: remastered/menu/jmface_wi.2ld/-4.dds
+- name: remastered/menu/jmface_wi.2ld/-5.dds
+  method: copy
+  source:
+  - name: remastered/menu/jmface_wi.2ld/-5.dds
+- name: remastered/menu/jmface_wi.2ld/-6.dds
+  method: copy
+  source:
+  - name: remastered/menu/jmface_wi.2ld/-6.dds
+- name: remastered/menu/jmface_wi.2ld/-7.dds
+  method: copy
+  source:
+  - name: remastered/menu/jmface_wi.2ld/-7.dds
+- name: remastered/menu/jmface_wi.2ld/-8.dds
+  method: copy
+  source:
+  - name: remastered/menu/jmface_wi.2ld/-8.dds
+- name: remastered/menu/jmface_wi.2ld/-9.dds
+  method: copy
+  source:
+  - name: remastered/menu/jmface_wi.2ld/-9.dds
+- name: remastered/menu/jmface_wi0.imd/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/jmface_wi0.imd/-0.dds
+- name: remastered/menu/jmface_wi1.imd/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/jmface_wi1.imd/-0.dds
+- name: remastered/menu/jmface_wi2.imd/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/jmface_wi2.imd/-0.dds
+- name: remastered/menu/jmface_wi3.imd/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/jmface_wi3.imd/-0.dds
+- name: remastered/menu/jmface_wi4.imd/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/jmface_wi4.imd/-0.dds
+- name: remastered/menu/jmface_wi5.imd/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/jmface_wi5.imd/-0.dds
+- name: remastered/menu/jmface_wi6.imd/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/jmface_wi6.imd/-0.dds
+- name: remastered/menu/jmface_wi7.imd/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/jmface_wi7.imd/-0.dds
+
+
+
+###Title and World Icon###
+- name: remastered/menu/jm_top_wi.2ld/-0.png
+  method: copy
+  source:
+  - name: remastered/menu/jm_top_wi.2ld/-0.png
+- name: remastered/menu/jm_top_wi.2ld/-1.png
+  method: copy
+  source:
+  - name: remastered/menu/jm_top_wi.2ld/-1.png
+
+
+
+###Shop Huds###
+###Sora Shop Hud###
+- name: remastered/menu/shopface/p_ex100_30.bin/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/shopface/p_ex100_30.bin/-0.dds
+
+###Donald Shop Hud###
+- name: remastered/menu/shopface/p_wi020.bin/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/shopface/p_wi020.bin/-0.dds
+
+###Goofy Shop Hud###
+- name: remastered/menu/shopface/p_wi030.bin/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/shopface/p_wi030.bin/-0.dds
+
+
+
+###End Credits Picture(?)###
+- name: remastered/menu/eventviewer.2ld/-11.png
+  method: copy
+  source:
+  - name: remastered/menu/eventviewer.2ld/-11.png
+
+
+###Save Icon###
+- name: remastered/menu/us/save.2ld/US_save_2ld2.png
+  method: copy
+  source:
+  - name: remastered/menu/us/save.2ld/US_save_2ld2.png
+
+
+###Title Popup(?)###
+- name: remastered/event/effect/wi_event_103.pax/-3.dds
+  method: copy
+  source:
+  - name: remastered/event/effect/wi_event_103.pax/-3.dds
+- name: remastered/event/effect/wi_event_103.pax/-4.dds
+  method: copy
+  source:
+  - name: remastered/event/effect/wi_event_103.pax/-4.dds
+- name: remastered/event/effect/wi_event_103.pax/-5.dds
+  method: copy
+  source:
+  - name: remastered/event/effect/wi_event_103.pax/-5.dds
+
+
+
+###Command Menu###
+- name: remastered/field2d/us/wi0command.2dd/US_wi0command_2dd0.png
+  method: copy
+  source:
+  - name: remastered/field2d/us/wi0command.2dd/US_wi0command_2dd0.png
+
+
+###Photos###
+- name: remastered/menu/fm/jm_photo/wi11.bin/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/fm/jm_photo/wi11.bin/-0.dds
+- name: remastered/menu/fm/jm_photo/wi11.bin/FR_wi11_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/fm/jm_photo/wi11.bin/FR_wi11_bin0.dds
+- name: remastered/menu/fm/jm_photo/wi11.bin/GR_wi11_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/fm/jm_photo/wi11.bin/GR_wi11_bin0.dds
+- name: remastered/menu/fm/jm_photo/wi11.bin/IT_wi11_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/fm/jm_photo/wi11.bin/IT_wi11_bin0.dds
+- name: remastered/menu/fm/jm_photo/wi11.bin/SP_wi11_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/fm/jm_photo/wi11.bin/SP_wi11_bin0.dds
+- name: remastered/menu/fm/jm_photo/wi11.bin/UK_wi11_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/fm/jm_photo/wi11.bin/UK_wi11_bin0.dds
+- name: remastered/menu/fm/jm_photo/wi11.bin/US_wi11_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/fm/jm_photo/wi11.bin/US_wi11_bin0.dds
+- name: remastered/menu/fm/jm_photo/wi12.bin/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/fm/jm_photo/wi12.bin/-0.dds
+- name: remastered/menu/fm/jm_photo/wi12.bin/FR_wi12_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/fm/jm_photo/wi12.bin/FR_wi12_bin0.dds
+- name: remastered/menu/fm/jm_photo/wi12.bin/GR_wi12_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/fm/jm_photo/wi12.bin/GR_wi12_bin0.dds
+- name: remastered/menu/fm/jm_photo/wi12.bin/IT_wi12_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/fm/jm_photo/wi12.bin/IT_wi12_bin0.dds
+- name: remastered/menu/fm/jm_photo/wi12.bin/SP_wi12_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/fm/jm_photo/wi12.bin/SP_wi12_bin0.dds
+- name: remastered/menu/fm/jm_photo/wi12.bin/UK_wi12_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/fm/jm_photo/wi12.bin/UK_wi12_bin0.dds
+- name: remastered/menu/fm/jm_photo/wi12.bin/US_wi12_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/fm/jm_photo/wi12.bin/US_wi12_bin0.dds
+- name: remastered/menu/fm/jm_photo/wi13.bin/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/fm/jm_photo/wi13.bin/-0.dds
+- name: remastered/menu/fm/jm_photo/wi13.bin/FR_wi13_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/fm/jm_photo/wi13.bin/FR_wi13_bin0.dds
+- name: remastered/menu/fm/jm_photo/wi13.bin/GR_wi13_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/fm/jm_photo/wi13.bin/GR_wi13_bin0.dds
+- name: remastered/menu/fm/jm_photo/wi13.bin/IT_wi13_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/fm/jm_photo/wi13.bin/IT_wi13_bin0.dds
+- name: remastered/menu/fm/jm_photo/wi13.bin/SP_wi13_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/fm/jm_photo/wi13.bin/SP_wi13_bin0.dds
+- name: remastered/menu/fm/jm_photo/wi13.bin/UK_wi13_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/fm/jm_photo/wi13.bin/UK_wi13_bin0.dds
+- name: remastered/menu/fm/jm_photo/wi13.bin/US_wi13_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/fm/jm_photo/wi13.bin/US_wi13_bin0.dds
+- name: remastered/menu/fm/jm_photo/wi14.bin/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/fm/jm_photo/wi14.bin/-0.dds
+- name: remastered/menu/fm/jm_photo/wi14.bin/FR_wi14_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/fm/jm_photo/wi14.bin/FR_wi14_bin0.dds
+- name: remastered/menu/fm/jm_photo/wi14.bin/GR_wi14_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/fm/jm_photo/wi14.bin/GR_wi14_bin0.dds
+- name: remastered/menu/fm/jm_photo/wi14.bin/IT_wi14_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/fm/jm_photo/wi14.bin/IT_wi14_bin0.dds
+- name: remastered/menu/fm/jm_photo/wi14.bin/SP_wi14_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/fm/jm_photo/wi14.bin/SP_wi14_bin0.dds
+- name: remastered/menu/fm/jm_photo/wi14.bin/UK_wi14_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/fm/jm_photo/wi14.bin/UK_wi14_bin0.dds
+- name: remastered/menu/fm/jm_photo/wi14.bin/US_wi14_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/fm/jm_photo/wi14.bin/US_wi14_bin0.dds
+
+
+
