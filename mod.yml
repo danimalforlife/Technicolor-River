@@ -5727,10 +5727,10 @@ assets:
   method: copy
   source:
   - name: remastered/menu/us/jm_photo/wi13.bin/US_wi13_bin0.dds
-- name: remastered/menu/us/jm_photo/wi11.bin/US_wi14_bin0.dds
+- name: remastered/menu/us/jm_photo/wi14.bin/US_wi14_bin0.dds
   method: copy
   source:
-  - name: remastered/menu/us/jm_photo/wi11.bin/US_wi14_bin0.dds
+  - name: remastered/menu/us/jm_photo/wi14.bin/US_wi14_bin0.dds
 
 
 ###Other Theater Photos###
