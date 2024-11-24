@@ -19,6 +19,7 @@ assets:
 ###Maps###
 
 ###Conerstone Hill###
+###wi00.map###
 - name: remastered/map/wi00.map/-0.dds
   method: copy
   source:
@@ -171,14 +172,6 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi00.map/-42.dds
-- name: remastered/map/wi00.map/-43.dds
-  method: copy
-  source:
-  - name: remastered/map/wi00.map/-43.dds
-- name: remastered/map/wi00.map/-44.dds
-  method: copy
-  source:
-  - name: remastered/map/wi00.map/-44.dds
 - name: remastered/map/wi00.map/-45.dds
   method: copy
   source:
@@ -187,18 +180,6 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi00.map/-46.dds
-- name: remastered/map/wi00.map/-47.dds
-  method: copy
-  source:
-  - name: remastered/map/wi00.map/-47.dds
-- name: remastered/map/wi00.map/-48.dds
-  method: copy
-  source:
-  - name: remastered/map/wi00.map/-48.dds
-- name: remastered/map/wi00.map/-49.dds
-  method: copy
-  source:
-  - name: remastered/map/wi00.map/-49.dds
 - name: remastered/map/wi00.map/-5.dds
   method: copy
   source:
@@ -215,18 +196,6 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi00.map/-52.dds
-- name: remastered/map/wi00.map/-53.dds
-  method: copy
-  source:
-  - name: remastered/map/wi00.map/-53.dds
-- name: remastered/map/wi00.map/-54.dds
-  method: copy
-  source:
-  - name: remastered/map/wi00.map/-54.dds
-- name: remastered/map/wi00.map/-55.dds
-  method: copy
-  source:
-  - name: remastered/map/wi00.map/-55.dds
 - name: remastered/map/wi00.map/-56.dds
   method: copy
   source:
@@ -239,22 +208,10 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi00.map/-58.dds
-- name: remastered/map/wi00.map/-59.dds
-  method: copy
-  source:
-  - name: remastered/map/wi00.map/-59.dds
 - name: remastered/map/wi00.map/-6.dds
   method: copy
   source:
   - name: remastered/map/wi00.map/-6.dds
-- name: remastered/map/wi00.map/-60.dds
-  method: copy
-  source:
-  - name: remastered/map/wi00.map/-60.dds
-- name: remastered/map/wi00.map/-61.dds
-  method: copy
-  source:
-  - name: remastered/map/wi00.map/-61.dds
 - name: remastered/map/wi00.map/-62.dds
   method: copy
   source:
@@ -267,18 +224,6 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi00.map/-64.dds
-- name: remastered/map/wi00.map/-65.dds
-  method: copy
-  source:
-  - name: remastered/map/wi00.map/-65.dds
-- name: remastered/map/wi00.map/-66.dds
-  method: copy
-  source:
-  - name: remastered/map/wi00.map/-66.dds
-- name: remastered/map/wi00.map/-67.dds
-  method: copy
-  source:
-  - name: remastered/map/wi00.map/-67.dds
 - name: remastered/map/wi00.map/-68.dds
   method: copy
   source:
@@ -291,30 +236,6 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi00.map/-7.dds
-- name: remastered/map/wi00.map/-70.dds
-  method: copy
-  source:
-  - name: remastered/map/wi00.map/-70.dds
-- name: remastered/map/wi00.map/-71.dds
-  method: copy
-  source:
-  - name: remastered/map/wi00.map/-71.dds
-- name: remastered/map/wi00.map/-72.dds
-  method: copy
-  source:
-  - name: remastered/map/wi00.map/-72.dds
-- name: remastered/map/wi00.map/-73.dds
-  method: copy
-  source:
-  - name: remastered/map/wi00.map/-73.dds
-- name: remastered/map/wi00.map/-74.dds
-  method: copy
-  source:
-  - name: remastered/map/wi00.map/-74.dds
-- name: remastered/map/wi00.map/-75.dds
-  method: copy
-  source:
-  - name: remastered/map/wi00.map/-75.dds
 - name: remastered/map/wi00.map/-8.dds
   method: copy
   source:
@@ -325,6 +246,7 @@ assets:
   - name: remastered/map/wi00.map/-9.dds
 
 ###Pier###
+###wi01.map###
 - name: remastered/map/wi01.map/-0.dds
   method: copy
   source:
@@ -525,14 +447,6 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi01.map/-53.dds
-- name: remastered/map/wi01.map/-54.dds
-  method: copy
-  source:
-  - name: remastered/map/wi01.map/-54.dds
-- name: remastered/map/wi01.map/-55.dds
-  method: copy
-  source:
-  - name: remastered/map/wi01.map/-55.dds
 - name: remastered/map/wi01.map/-56.dds
   method: copy
   source:
@@ -541,14 +455,6 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi01.map/-57.dds
-- name: remastered/map/wi01.map/-58.dds
-  method: copy
-  source:
-  - name: remastered/map/wi01.map/-58.dds
-- name: remastered/map/wi01.map/-59.dds
-  method: copy
-  source:
-  - name: remastered/map/wi01.map/-59.dds
 - name: remastered/map/wi01.map/-6.dds
   method: copy
   source:
@@ -557,34 +463,6 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi01.map/-60.dds
-- name: remastered/map/wi01.map/-61.dds
-  method: copy
-  source:
-  - name: remastered/map/wi01.map/-61.dds
-- name: remastered/map/wi01.map/-62.dds
-  method: copy
-  source:
-  - name: remastered/map/wi01.map/-62.dds
-- name: remastered/map/wi01.map/-63.dds
-  method: copy
-  source:
-  - name: remastered/map/wi01.map/-63.dds
-- name: remastered/map/wi01.map/-64.dds
-  method: copy
-  source:
-  - name: remastered/map/wi01.map/-64.dds
-- name: remastered/map/wi01.map/-65.dds
-  method: copy
-  source:
-  - name: remastered/map/wi01.map/-65.dds
-- name: remastered/map/wi01.map/-66.dds
-  method: copy
-  source:
-  - name: remastered/map/wi01.map/-66.dds
-- name: remastered/map/wi01.map/-67.dds
-  method: copy
-  source:
-  - name: remastered/map/wi01.map/-67.dds
 - name: remastered/map/wi01.map/-7.dds
   method: copy
   source:
@@ -600,6 +478,7 @@ assets:
 
 
 ###Waterway###
+###wi02.map###
 - name: remastered/map/wi02.map/-0.dds
   method: copy
   source:
@@ -788,30 +667,14 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi02.map/-50.dds
-- name: remastered/map/wi02.map/-51.dds
-  method: copy
-  source:
-  - name: remastered/map/wi02.map/-51.dds
 - name: remastered/map/wi02.map/-52.dds
   method: copy
   source:
   - name: remastered/map/wi02.map/-52.dds
-- name: remastered/map/wi02.map/-53.dds
-  method: copy
-  source:
-  - name: remastered/map/wi02.map/-53.dds
 - name: remastered/map/wi02.map/-54.dds
   method: copy
   source:
   - name: remastered/map/wi02.map/-54.dds
-- name: remastered/map/wi02.map/-55.dds
-  method: copy
-  source:
-  - name: remastered/map/wi02.map/-55.dds
-- name: remastered/map/wi02.map/-56.dds
-  method: copy
-  source:
-  - name: remastered/map/wi02.map/-56.dds
 - name: remastered/map/wi02.map/-57.dds
   method: copy
   source:
@@ -832,30 +695,6 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi02.map/-60.dds
-- name: remastered/map/wi02.map/-61.dds
-  method: copy
-  source:
-  - name: remastered/map/wi02.map/-61.dds
-- name: remastered/map/wi02.map/-62.dds
-  method: copy
-  source:
-  - name: remastered/map/wi02.map/-62.dds
-- name: remastered/map/wi02.map/-63.dds
-  method: copy
-  source:
-  - name: remastered/map/wi02.map/-63.dds
-- name: remastered/map/wi02.map/-64.dds
-  method: copy
-  source:
-  - name: remastered/map/wi02.map/-64.dds
-- name: remastered/map/wi02.map/-65.dds
-  method: copy
-  source:
-  - name: remastered/map/wi02.map/-65.dds
-- name: remastered/map/wi02.map/-66.dds
-  method: copy
-  source:
-  - name: remastered/map/wi02.map/-66.dds
 - name: remastered/map/wi02.map/-7.dds
   method: copy
   source:
@@ -870,6 +709,7 @@ assets:
   - name: remastered/map/wi02.map/-9.dds
 
 ###Wharf###
+###wi03.map###
 - name: remastered/map/wi03.map/-0.dds
   method: copy
   source:
@@ -882,18 +722,10 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi03.map/-10.dds
-- name: remastered/map/wi03.map/-100.dds
-  method: copy
-  source:
-  - name: remastered/map/wi03.map/-100.dds
 - name: remastered/map/wi03.map/-101.dds
   method: copy
   source:
   - name: remastered/map/wi03.map/-101.dds
-- name: remastered/map/wi03.map/-102.dds
-  method: copy
-  source:
-  - name: remastered/map/wi03.map/-102.dds
 - name: remastered/map/wi03.map/-103.dds
   method: copy
   source:
@@ -910,34 +742,14 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi03.map/-106.dds
-- name: remastered/map/wi03.map/-107.dds
-  method: copy
-  source:
-  - name: remastered/map/wi03.map/-107.dds
 - name: remastered/map/wi03.map/-108.dds
   method: copy
   source:
   - name: remastered/map/wi03.map/-108.dds
-- name: remastered/map/wi03.map/-109.dds
-  method: copy
-  source:
-  - name: remastered/map/wi03.map/-109.dds
 - name: remastered/map/wi03.map/-11.dds
   method: copy
   source:
   - name: remastered/map/wi03.map/-11.dds
-- name: remastered/map/wi03.map/-110.dds
-  method: copy
-  source:
-  - name: remastered/map/wi03.map/-110.dds
-- name: remastered/map/wi03.map/-111.dds
-  method: copy
-  source:
-  - name: remastered/map/wi03.map/-111.dds
-- name: remastered/map/wi03.map/-112.dds
-  method: copy
-  source:
-  - name: remastered/map/wi03.map/-112.dds
 - name: remastered/map/wi03.map/-12.dds
   method: copy
   source:
@@ -1014,10 +826,6 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi03.map/-29.dds
-- name: remastered/map/wi03.map/-3.dds
-  method: copy
-  source:
-  - name: remastered/map/wi03.map/-3.dds
 - name: remastered/map/wi03.map/-30.dds
   method: copy
   source:
@@ -1286,10 +1094,6 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi03.map/-90.dds
-- name: remastered/map/wi03.map/-91.dds
-  method: copy
-  source:
-  - name: remastered/map/wi03.map/-91.dds
 - name: remastered/map/wi03.map/-92.dds
   method: copy
   source:
@@ -1325,6 +1129,7 @@ assets:
 
 
 ###Lilliput###
+###wi04.map###
 - name: remastered/map/wi04.map/-0.dds
   method: copy
   source:
@@ -1333,14 +1138,6 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi04.map/-1.dds
-- name: remastered/map/wi04.map/-10.dds
-  method: copy
-  source:
-  - name: remastered/map/wi04.map/-10.dds
-- name: remastered/map/wi04.map/-11.dds
-  method: copy
-  source:
-  - name: remastered/map/wi04.map/-11.dds
 - name: remastered/map/wi04.map/-12.dds
   method: copy
   source:
@@ -1461,10 +1258,6 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi04.map/-39.dds
-- name: remastered/map/wi04.map/-4.dds
-  method: copy
-  source:
-  - name: remastered/map/wi04.map/-4.dds
 - name: remastered/map/wi04.map/-40.dds
   method: copy
   source:
@@ -1485,14 +1278,6 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi04.map/-44.dds
-- name: remastered/map/wi04.map/-45.dds
-  method: copy
-  source:
-  - name: remastered/map/wi04.map/-45.dds
-- name: remastered/map/wi04.map/-46.dds
-  method: copy
-  source:
-  - name: remastered/map/wi04.map/-46.dds
 - name: remastered/map/wi04.map/-47.dds
   method: copy
   source:
@@ -1505,10 +1290,6 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi04.map/-49.dds
-- name: remastered/map/wi04.map/-5.dds
-  method: copy
-  source:
-  - name: remastered/map/wi04.map/-5.dds
 - name: remastered/map/wi04.map/-50.dds
   method: copy
   source:
@@ -1521,18 +1302,6 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi04.map/-52.dds
-- name: remastered/map/wi04.map/-53.dds
-  method: copy
-  source:
-  - name: remastered/map/wi04.map/-53.dds
-- name: remastered/map/wi04.map/-54.dds
-  method: copy
-  source:
-  - name: remastered/map/wi04.map/-54.dds
-- name: remastered/map/wi04.map/-55.dds
-  method: copy
-  source:
-  - name: remastered/map/wi04.map/-55.dds
 - name: remastered/map/wi04.map/-56.dds
   method: copy
   source:
@@ -1545,22 +1314,6 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi04.map/-58.dds
-- name: remastered/map/wi04.map/-59.dds
-  method: copy
-  source:
-  - name: remastered/map/wi04.map/-59.dds
-- name: remastered/map/wi04.map/-6.dds
-  method: copy
-  source:
-  - name: remastered/map/wi04.map/-6.dds
-- name: remastered/map/wi04.map/-60.dds
-  method: copy
-  source:
-  - name: remastered/map/wi04.map/-60.dds
-- name: remastered/map/wi04.map/-61.dds
-  method: copy
-  source:
-  - name: remastered/map/wi04.map/-61.dds
 - name: remastered/map/wi04.map/-62.dds
   method: copy
   source:
@@ -1573,46 +1326,14 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi04.map/-64.dds
-- name: remastered/map/wi04.map/-65.dds
-  method: copy
-  source:
-  - name: remastered/map/wi04.map/-65.dds
-- name: remastered/map/wi04.map/-66.dds
-  method: copy
-  source:
-  - name: remastered/map/wi04.map/-66.dds
-- name: remastered/map/wi04.map/-67.dds
-  method: copy
-  source:
-  - name: remastered/map/wi04.map/-67.dds
 - name: remastered/map/wi04.map/-68.dds
   method: copy
   source:
   - name: remastered/map/wi04.map/-68.dds
-- name: remastered/map/wi04.map/-69.dds
-  method: copy
-  source:
-  - name: remastered/map/wi04.map/-69.dds
 - name: remastered/map/wi04.map/-7.dds
   method: copy
   source:
   - name: remastered/map/wi04.map/-7.dds
-- name: remastered/map/wi04.map/-70.dds
-  method: copy
-  source:
-  - name: remastered/map/wi04.map/-70.dds
-- name: remastered/map/wi04.map/-71.dds
-  method: copy
-  source:
-  - name: remastered/map/wi04.map/-71.dds
-- name: remastered/map/wi04.map/-72.dds
-  method: copy
-  source:
-  - name: remastered/map/wi04.map/-72.dds
-- name: remastered/map/wi04.map/-8.dds
-  method: copy
-  source:
-  - name: remastered/map/wi04.map/-8.dds
 - name: remastered/map/wi04.map/-9.dds
   method: copy
   source:
@@ -1620,6 +1341,7 @@ assets:
 
 
 ###Building Site###
+###wi05.map###
 - name: remastered/map/wi05.map/-0.dds
   method: copy
   source:
@@ -1756,10 +1478,6 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi05.map/-39.dds
-- name: remastered/map/wi05.map/-4.dds
-  method: copy
-  source:
-  - name: remastered/map/wi05.map/-4.dds
 - name: remastered/map/wi05.map/-40.dds
   method: copy
   source:
@@ -1840,22 +1558,10 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi05.map/-58.dds
-- name: remastered/map/wi05.map/-59.dds
-  method: copy
-  source:
-  - name: remastered/map/wi05.map/-59.dds
 - name: remastered/map/wi05.map/-6.dds
   method: copy
   source:
   - name: remastered/map/wi05.map/-6.dds
-- name: remastered/map/wi05.map/-60.dds
-  method: copy
-  source:
-  - name: remastered/map/wi05.map/-60.dds
-- name: remastered/map/wi05.map/-61.dds
-  method: copy
-  source:
-  - name: remastered/map/wi05.map/-61.dds
 - name: remastered/map/wi05.map/-62.dds
   method: copy
   source:
@@ -1868,38 +1574,14 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi05.map/-64.dds
-- name: remastered/map/wi05.map/-65.dds
-  method: copy
-  source:
-  - name: remastered/map/wi05.map/-65.dds
-- name: remastered/map/wi05.map/-66.dds
-  method: copy
-  source:
-  - name: remastered/map/wi05.map/-66.dds
-- name: remastered/map/wi05.map/-67.dds
-  method: copy
-  source:
-  - name: remastered/map/wi05.map/-67.dds
 - name: remastered/map/wi05.map/-68.dds
   method: copy
   source:
   - name: remastered/map/wi05.map/-68.dds
-- name: remastered/map/wi05.map/-69.dds
-  method: copy
-  source:
-  - name: remastered/map/wi05.map/-69.dds
 - name: remastered/map/wi05.map/-7.dds
   method: copy
   source:
   - name: remastered/map/wi05.map/-7.dds
-- name: remastered/map/wi05.map/-70.dds
-  method: copy
-  source:
-  - name: remastered/map/wi05.map/-70.dds
-- name: remastered/map/wi05.map/-71.dds
-  method: copy
-  source:
-  - name: remastered/map/wi05.map/-71.dds
 - name: remastered/map/wi05.map/-8.dds
   method: copy
   source:
@@ -1910,7 +1592,8 @@ assets:
   - name: remastered/map/wi05.map/-9.dds
 
 
-###Scene of Fire###
+###Scene of the Fire###
+###wi06.map###
 - name: remastered/map/wi06.map/-0.dds
   method: copy
   source:
@@ -1923,22 +1606,6 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi06.map/-10.dds
-- name: remastered/map/wi06.map/-100.dds
-  method: copy
-  source:
-  - name: remastered/map/wi06.map/-100.dds
-- name: remastered/map/wi06.map/-101.dds
-  method: copy
-  source:
-  - name: remastered/map/wi06.map/-101.dds
-- name: remastered/map/wi06.map/-102.dds
-  method: copy
-  source:
-  - name: remastered/map/wi06.map/-102.dds
-- name: remastered/map/wi06.map/-103.dds
-  method: copy
-  source:
-  - name: remastered/map/wi06.map/-103.dds
 - name: remastered/map/wi06.map/-11.dds
   method: copy
   source:
@@ -2243,10 +1910,6 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi06.map/-8.dds
-- name: remastered/map/wi06.map/-80.dds
-  method: copy
-  source:
-  - name: remastered/map/wi06.map/-80.dds
 - name: remastered/map/wi06.map/-81.dds
   method: copy
   source:
@@ -2255,18 +1918,6 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi06.map/-82.dds
-- name: remastered/map/wi06.map/-83.dds
-  method: copy
-  source:
-  - name: remastered/map/wi06.map/-83.dds
-- name: remastered/map/wi06.map/-84.dds
-  method: copy
-  source:
-  - name: remastered/map/wi06.map/-84.dds
-- name: remastered/map/wi06.map/-85.dds
-  method: copy
-  source:
-  - name: remastered/map/wi06.map/-85.dds
 - name: remastered/map/wi06.map/-86.dds
   method: copy
   source:
@@ -2279,22 +1930,10 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi06.map/-88.dds
-- name: remastered/map/wi06.map/-89.dds
-  method: copy
-  source:
-  - name: remastered/map/wi06.map/-89.dds
 - name: remastered/map/wi06.map/-9.dds
   method: copy
   source:
   - name: remastered/map/wi06.map/-9.dds
-- name: remastered/map/wi06.map/-90.dds
-  method: copy
-  source:
-  - name: remastered/map/wi06.map/-90.dds
-- name: remastered/map/wi06.map/-91.dds
-  method: copy
-  source:
-  - name: remastered/map/wi06.map/-91.dds
 - name: remastered/map/wi06.map/-92.dds
   method: copy
   source:
@@ -2307,29 +1946,14 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi06.map/-94.dds
-- name: remastered/map/wi06.map/-95.dds
-  method: copy
-  source:
-  - name: remastered/map/wi06.map/-95.dds
-- name: remastered/map/wi06.map/-96.dds
-  method: copy
-  source:
-  - name: remastered/map/wi06.map/-96.dds
-- name: remastered/map/wi06.map/-97.dds
-  method: copy
-  source:
-  - name: remastered/map/wi06.map/-97.dds
 - name: remastered/map/wi06.map/-98.dds
   method: copy
   source:
   - name: remastered/map/wi06.map/-98.dds
-- name: remastered/map/wi06.map/-99.dds
-  method: copy
-  source:
-  - name: remastered/map/wi06.map/-99.dds
 
 
 ###Mickey's House###
+###wi07.map###
 - name: remastered/map/wi07.map/-0.dds
   method: copy
   source:
@@ -2430,10 +2054,6 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi07.map/-30.dds
-- name: remastered/map/wi07.map/-31.dds
-  method: copy
-  source:
-  - name: remastered/map/wi07.map/-31.dds
 - name: remastered/map/wi07.map/-32.dds
   method: copy
   source:
@@ -2578,10 +2198,6 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi07.map/-64.dds
-- name: remastered/map/wi07.map/-65.dds
-  method: copy
-  source:
-  - name: remastered/map/wi07.map/-65.dds
 - name: remastered/map/wi07.map/-66.dds
   method: copy
   source:
@@ -2590,22 +2206,10 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi07.map/-67.dds
-- name: remastered/map/wi07.map/-68.dds
-  method: copy
-  source:
-  - name: remastered/map/wi07.map/-68.dds
-- name: remastered/map/wi07.map/-69.dds
-  method: copy
-  source:
-  - name: remastered/map/wi07.map/-69.dds
 - name: remastered/map/wi07.map/-7.dds
   method: copy
   source:
   - name: remastered/map/wi07.map/-7.dds
-- name: remastered/map/wi07.map/-70.dds
-  method: copy
-  source:
-  - name: remastered/map/wi07.map/-70.dds
 - name: remastered/map/wi07.map/-71.dds
   method: copy
   source:
@@ -2618,18 +2222,6 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi07.map/-73.dds
-- name: remastered/map/wi07.map/-74.dds
-  method: copy
-  source:
-  - name: remastered/map/wi07.map/-74.dds
-- name: remastered/map/wi07.map/-75.dds
-  method: copy
-  source:
-  - name: remastered/map/wi07.map/-75.dds
-- name: remastered/map/wi07.map/-76.dds
-  method: copy
-  source:
-  - name: remastered/map/wi07.map/-76.dds
 - name: remastered/map/wi07.map/-77.dds
   method: copy
   source:
@@ -2646,173 +2238,17 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi07.map/-8.dds
-- name: remastered/map/wi07.map/-80.dds
-  method: copy
-  source:
-  - name: remastered/map/wi07.map/-80.dds
-- name: remastered/map/wi07.map/-81.dds
-  method: copy
-  source:
-  - name: remastered/map/wi07.map/-81.dds
-- name: remastered/map/wi07.map/-82.dds
-  method: copy
-  source:
-  - name: remastered/map/wi07.map/-82.dds
 - name: remastered/map/wi07.map/-9.dds
   method: copy
   source:
   - name: remastered/map/wi07.map/-9.dds
 
 
-###Villain's Vale###
-- name: remastered/map/wi08.map/-0.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-0.dds
-- name: remastered/map/wi08.map/-1.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-1.dds
-- name: remastered/map/wi08.map/-10.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-10.dds
-- name: remastered/map/wi08.map/-11.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-11.dds
-- name: remastered/map/wi08.map/-12.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-12.dds
-- name: remastered/map/wi08.map/-13.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-13.dds
-- name: remastered/map/wi08.map/-14.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-14.dds
-- name: remastered/map/wi08.map/-15.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-15.dds
-- name: remastered/map/wi08.map/-16.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-16.dds
-- name: remastered/map/wi08.map/-17.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-17.dds
-- name: remastered/map/wi08.map/-18.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-18.dds
-- name: remastered/map/wi08.map/-19.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-19.dds
-- name: remastered/map/wi08.map/-2.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-2.dds
-- name: remastered/map/wi08.map/-20.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-20.dds
-- name: remastered/map/wi08.map/-21.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-21.dds
-- name: remastered/map/wi08.map/-22.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-22.dds
-- name: remastered/map/wi08.map/-23.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-23.dds
-- name: remastered/map/wi08.map/-24.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-24.dds
-- name: remastered/map/wi08.map/-25.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-25.dds
-- name: remastered/map/wi08.map/-26.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-26.dds
-- name: remastered/map/wi08.map/-27.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-27.dds
-- name: remastered/map/wi08.map/-28.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-28.dds
-- name: remastered/map/wi08.map/-29.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-29.dds
-- name: remastered/map/wi08.map/-3.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-3.dds
-- name: remastered/map/wi08.map/-30.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-30.dds
-- name: remastered/map/wi08.map/-31.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-31.dds
-- name: remastered/map/wi08.map/-32.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-32.dds
-- name: remastered/map/wi08.map/-33.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-33.dds
-- name: remastered/map/wi08.map/-34.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-34.dds
-- name: remastered/map/wi08.map/-35.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-35.dds
-- name: remastered/map/wi08.map/-4.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-4.dds
-- name: remastered/map/wi08.map/-5.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-5.dds
-- name: remastered/map/wi08.map/-6.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-6.dds
-- name: remastered/map/wi08.map/-7.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-7.dds
-- name: remastered/map/wi08.map/-8.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-8.dds
-- name: remastered/map/wi08.map/-9.dds
-  method: copy
-  source:
-  - name: remastered/map/wi08.map/-9.dds
 
 
 ###Objects###
 
+###Chest###
 - name: remastered/obj/F_EX030_WI.mdlx/-0.dds
   method: copy
   source:
@@ -2821,86 +2257,38 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_EX040_WI.mdlx/-0.dds
-- name: remastered/obj/F_TT010_WI.a.fr/-0.png
-  method: copy
-  source:
-  - name: remastered/obj/F_TT010_WI.a.fr/-0.png
-- name: remastered/obj/F_TT010_WI.a.fr/-1.png
-  method: copy
-  source:
-  - name: remastered/obj/F_TT010_WI.a.fr/-1.png
-- name: remastered/obj/F_TT010_WI.a.fr/-2.png
-  method: copy
-  source:
-  - name: remastered/obj/F_TT010_WI.a.fr/-2.png
-- name: remastered/obj/F_TT010_WI.a.gr/-0.png
-  method: copy
-  source:
-  - name: remastered/obj/F_TT010_WI.a.gr/-0.png
-- name: remastered/obj/F_TT010_WI.a.gr/-1.png
-  method: copy
-  source:
-  - name: remastered/obj/F_TT010_WI.a.gr/-1.png
-- name: remastered/obj/F_TT010_WI.a.gr/-2.png
-  method: copy
-  source:
-  - name: remastered/obj/F_TT010_WI.a.gr/-2.png
-- name: remastered/obj/F_TT010_WI.a.it/-0.png
-  method: copy
-  source:
-  - name: remastered/obj/F_TT010_WI.a.it/-0.png
-- name: remastered/obj/F_TT010_WI.a.it/-1.png
-  method: copy
-  source:
-  - name: remastered/obj/F_TT010_WI.a.it/-1.png
-- name: remastered/obj/F_TT010_WI.a.it/-2.png
-  method: copy
-  source:
-  - name: remastered/obj/F_TT010_WI.a.it/-2.png
-- name: remastered/obj/F_TT010_WI.a.sp/-0.png
-  method: copy
-  source:
-  - name: remastered/obj/F_TT010_WI.a.sp/-0.png
-- name: remastered/obj/F_TT010_WI.a.sp/-1.png
-  method: copy
-  source:
-  - name: remastered/obj/F_TT010_WI.a.sp/-1.png
-- name: remastered/obj/F_TT010_WI.a.sp/-2.png
-  method: copy
-  source:
-  - name: remastered/obj/F_TT010_WI.a.sp/-2.png
-- name: remastered/obj/F_TT010_WI.a.us/-0.png
-  method: copy
-  source:
-  - name: remastered/obj/F_TT010_WI.a.us/-0.png
-- name: remastered/obj/F_TT010_WI.a.us/-1.png
-  method: copy
-  source:
-  - name: remastered/obj/F_TT010_WI.a.us/-1.png
-- name: remastered/obj/F_TT010_WI.a.us/-2.png
-  method: copy
-  source:
-  - name: remastered/obj/F_TT010_WI.a.us/-2.png
+
+###Skateboard###
 - name: remastered/obj/F_TT010_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/F_TT010_WI.mdlx/-0.dds
+
+###Fire? Smoke? Sparkle?###
 - name: remastered/obj/F_WI000.a.us/-0.dds
   method: copy
   source:
   - name: remastered/obj/F_WI000.a.us/-0.dds
+
+###Fire? Smoke? Sparkle?###
 - name: remastered/obj/F_WI010.a.us/-0.dds
   method: copy
   source:
   - name: remastered/obj/F_WI010.a.us/-0.dds
+
+###Fire? Smoke? Sparkle?###
 - name: remastered/obj/F_WI010_BOSS.a.us/-0.dds
   method: copy
   source:
   - name: remastered/obj/F_WI010_BOSS.a.us/-0.dds
+
+###Fire? Smoke? Sparkle?###
 - name: remastered/obj/F_WI020.a.us/-0.dds
   method: copy
   source:
   - name: remastered/obj/F_WI020.a.us/-0.dds
+
+###Building###
 - name: remastered/obj/F_WI020.mdlx/-0.dds
   method: copy
   source:
@@ -2957,10 +2345,16 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_WI020.mdlx/-9.dds
+
+
+###Fire? Smoke? Sparkle?###
 - name: remastered/obj/F_WI020_BOSS.a.us/-0.dds
   method: copy
   source:
   - name: remastered/obj/F_WI020_BOSS.a.us/-0.dds
+
+
+###Building###
 - name: remastered/obj/F_WI020_BOSS.mdlx/-0.dds
   method: copy
   source:
@@ -3017,6 +2411,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_WI020_BOSS.mdlx/-9.dds
+
+
+###Building###
 - name: remastered/obj/F_WI020_BTL.mdlx/-0.dds
   method: copy
   source:
@@ -3073,18 +2470,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_WI020_BTL.mdlx/-9.dds
-- name: remastered/obj/F_WI060.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI060.a.us/-0.dds
-- name: remastered/obj/F_WI060.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI060.a.us/-1.dds
-- name: remastered/obj/F_WI060.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI060.a.us/-2.dds
+
+
+###Cannon Tower###
 - name: remastered/obj/F_WI060.mdlx/-0.dds
   method: copy
   source:
@@ -3093,18 +2481,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_WI060.mdlx/-1.dds
-- name: remastered/obj/F_WI060_PETE.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI060_PETE.a.us/-0.dds
-- name: remastered/obj/F_WI060_PETE.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI060_PETE.a.us/-1.dds
-- name: remastered/obj/F_WI060_PETE.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI060_PETE.a.us/-2.dds
+
+
+
+###Cannon Tower###
 - name: remastered/obj/F_WI060_PETE.mdlx/-0.dds
   method: copy
   source:
@@ -3113,14 +2493,22 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_WI060_PETE.mdlx/-1.dds
+
+
+###Toys###
 - name: remastered/obj/F_WI070.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/F_WI070.mdlx/-0.dds
+
+###Toys###
 - name: remastered/obj/F_WI080.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/F_WI080.mdlx/-0.dds
+
+
+###Couch###
 - name: remastered/obj/F_WI090.mdlx/-0.dds
   method: copy
   source:
@@ -3129,18 +2517,30 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_WI090.mdlx/-1.dds
+
+
+###Wood Furniture###
 - name: remastered/obj/F_WI100.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/F_WI100.mdlx/-0.dds
+
+
+###Wood Furniture###
 - name: remastered/obj/F_WI110.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/F_WI110.mdlx/-0.dds
+
+
+###Piano###
 - name: remastered/obj/F_WI120.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/F_WI120.mdlx/-0.dds
+
+
+###Wood Dresser###
 - name: remastered/obj/F_WI130.mdlx/-0.dds
   method: copy
   source:
@@ -3149,6 +2549,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_WI130.mdlx/-1.dds
+
+
+###Wood Furniture (With books)###
 - name: remastered/obj/F_WI140.mdlx/-0.dds
   method: copy
   source:
@@ -3157,14 +2560,23 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_WI140.mdlx/-1.dds
+
+
+###Wood Furniture###
 - name: remastered/obj/F_WI150.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/F_WI150.mdlx/-0.dds
+
+
+###Light Fixtures###
 - name: remastered/obj/F_WI160.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/F_WI160.mdlx/-0.dds
+
+
+###Fireplace###
 - name: remastered/obj/F_WI170.mdlx/-0.dds
   method: copy
   source:
@@ -3173,6 +2585,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_WI170.mdlx/-1.dds
+
+
+###Fireplace###
 - name: remastered/obj/F_WI180.mdlx/-0.dds
   method: copy
   source:
@@ -3181,18 +2596,30 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_WI180.mdlx/-1.dds
+
+
+###Train###
 - name: remastered/obj/F_WI190.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/F_WI190.mdlx/-0.dds
+
+
+###Wood Furniture###
 - name: remastered/obj/F_WI200.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/F_WI200.mdlx/-0.dds
+
+
+###Clothes###
 - name: remastered/obj/F_WI210.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/F_WI210.mdlx/-0.dds
+
+
+###Furniture###
 - name: remastered/obj/F_WI210.mdlx/-1.dds
   method: copy
   source:
@@ -3213,6 +2640,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_WI220.mdlx/-2.dds
+
+
+###Moose Head Trophy###
 - name: remastered/obj/F_WI230.mdlx/-0.dds
   method: copy
   source:
@@ -3221,10 +2651,16 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_WI230.mdlx/-1.dds
+
+
+###Wall Lamp###
 - name: remastered/obj/F_WI240.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/F_WI240.mdlx/-0.dds
+
+
+###Christmas Tree###
 - name: remastered/obj/F_WI250.mdlx/-0.dds
   method: copy
   source:
@@ -3233,6 +2669,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_WI250.mdlx/-1.dds
+
+
+###Wood Furniture###
 - name: remastered/obj/F_WI260.mdlx/-0.dds
   method: copy
   source:
@@ -3241,6 +2680,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_WI260.mdlx/-1.dds
+
+
+###Wood Furniture with Books###
 - name: remastered/obj/F_WI270.mdlx/-0.dds
   method: copy
   source:
@@ -3249,110 +2691,59 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_WI270.mdlx/-1.dds
+
+
+###Wood Furniture###
 - name: remastered/obj/F_WI280.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/F_WI280.mdlx/-0.dds
+
+
+###Painting###
 - name: remastered/obj/F_WI290.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/F_WI290.mdlx/-0.dds
+
+
+###Wood Furniture###
 - name: remastered/obj/F_WI300.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/F_WI300.mdlx/-0.dds
-- name: remastered/obj/F_WI310.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI310.a.us/-0.dds
-- name: remastered/obj/F_WI310.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI310.a.us/-1.dds
-- name: remastered/obj/F_WI310.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI310.a.us/-2.dds
-- name: remastered/obj/F_WI310.a.us/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI310.a.us/-3.dds
-- name: remastered/obj/F_WI310.a.us/-4.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI310.a.us/-4.dds
-- name: remastered/obj/F_WI320.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI320.a.us/-0.dds
-- name: remastered/obj/F_WI320.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI320.a.us/-1.dds
-- name: remastered/obj/F_WI320.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI320.a.us/-2.dds
+
+
+###Houses###
 - name: remastered/obj/F_WI320.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/F_WI320.mdlx/-0.dds
-- name: remastered/obj/F_WI330.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI330.a.us/-0.dds
-- name: remastered/obj/F_WI330.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI330.a.us/-1.dds
-- name: remastered/obj/F_WI330.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI330.a.us/-2.dds
+
+
+###Houses###
 - name: remastered/obj/F_WI330.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/F_WI330.mdlx/-0.dds
-- name: remastered/obj/F_WI340.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI340.a.us/-0.dds
-- name: remastered/obj/F_WI340.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI340.a.us/-1.dds
-- name: remastered/obj/F_WI340.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI340.a.us/-2.dds
+
+
+###Houses###
 - name: remastered/obj/F_WI340.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/F_WI340.mdlx/-0.dds
-- name: remastered/obj/F_WI350.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI350.a.us/-0.dds
-- name: remastered/obj/F_WI350.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI350.a.us/-1.dds
-- name: remastered/obj/F_WI350.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI350.a.us/-2.dds
+
+
+###Houses###
 - name: remastered/obj/F_WI350.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/F_WI350.mdlx/-0.dds
-- name: remastered/obj/F_WI360.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI360.a.us/-0.dds
-- name: remastered/obj/F_WI360.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI360.a.us/-1.dds
+
+
+
+###Building Site Platform###
 - name: remastered/obj/F_WI360.mdlx/-0.dds
   method: copy
   source:
@@ -3373,14 +2764,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_WI360.mdlx/-4.dds
-- name: remastered/obj/F_WI360_PETE.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI360_PETE.a.us/-0.dds
-- name: remastered/obj/F_WI360_PETE.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI360_PETE.a.us/-1.dds
+
+
+###Building Site Platform###
 - name: remastered/obj/F_WI360_PETE.mdlx/-0.dds
   method: copy
   source:
@@ -3401,34 +2787,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_WI360_PETE.mdlx/-4.dds
-- name: remastered/obj/F_WI380.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI380.a.us/-0.dds
-- name: remastered/obj/F_WI380.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI380.a.us/-1.dds
-- name: remastered/obj/F_WI380.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI380.a.us/-2.dds
-- name: remastered/obj/F_WI380.a.us/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI380.a.us/-3.dds
-- name: remastered/obj/F_WI380.a.us/-4.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI380.a.us/-4.dds
-- name: remastered/obj/F_WI380.a.us/-5.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI380.a.us/-5.dds
-- name: remastered/obj/F_WI380.a.us/-6.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI380.a.us/-6.dds
+
+
+###Steamboat
 - name: remastered/obj/F_WI380.mdlx/-0.dds
   method: copy
   source:
@@ -3477,34 +2838,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_WI380.mdlx/-9.dds
-- name: remastered/obj/F_WI380_RTN.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI380_RTN.a.us/-0.dds
-- name: remastered/obj/F_WI380_RTN.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI380_RTN.a.us/-1.dds
-- name: remastered/obj/F_WI380_RTN.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI380_RTN.a.us/-2.dds
-- name: remastered/obj/F_WI380_RTN.a.us/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI380_RTN.a.us/-3.dds
-- name: remastered/obj/F_WI380_RTN.a.us/-4.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI380_RTN.a.us/-4.dds
-- name: remastered/obj/F_WI380_RTN.a.us/-5.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI380_RTN.a.us/-5.dds
-- name: remastered/obj/F_WI380_RTN.a.us/-6.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI380_RTN.a.us/-6.dds
+
+
+###Steamboat###
 - name: remastered/obj/F_WI380_RTN.mdlx/-0.dds
   method: copy
   source:
@@ -3553,6 +2889,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_WI380_RTN.mdlx/-9.dds
+
+
+###Steamboat Hook###
 - name: remastered/obj/F_WI390.mdlx/-0.dds
   method: copy
   source:
@@ -3569,66 +2908,30 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_WI390_RTN.mdlx/-1.dds
-- name: remastered/obj/F_WI400.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI400.a.us/-0.dds
-- name: remastered/obj/F_WI400.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI400.a.us/-1.dds
-- name: remastered/obj/F_WI400.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI400.a.us/-2.dds
-- name: remastered/obj/F_WI400.a.us/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI400.a.us/-3.dds
+
+
+
+###Box###
 - name: remastered/obj/F_WI400.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/F_WI400.mdlx/-0.dds
-- name: remastered/obj/F_WI410.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI410.a.us/-0.dds
-- name: remastered/obj/F_WI410.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI410.a.us/-1.dds
-- name: remastered/obj/F_WI410.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI410.a.us/-2.dds
-- name: remastered/obj/F_WI410.a.us/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI410.a.us/-3.dds
+
+
+###Barrell###
 - name: remastered/obj/F_WI410.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/F_WI410.mdlx/-0.dds
-- name: remastered/obj/F_WI420.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI420.a.us/-0.dds
-- name: remastered/obj/F_WI420.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI420.a.us/-1.dds
-- name: remastered/obj/F_WI420.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI420.a.us/-2.dds
-- name: remastered/obj/F_WI420.a.us/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI420.a.us/-3.dds
+
+###Pan###
 - name: remastered/obj/F_WI420.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/F_WI420.mdlx/-0.dds
+
+
+###Door###
 - name: remastered/obj/F_WI500.mdlx/-0.dds
   method: copy
   source:
@@ -3637,6 +2940,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_WI500.mdlx/-1.dds
+
+
+###Theater Window###
 - name: remastered/obj/F_WI510.mdlx/-0.dds
   method: copy
   source:
@@ -3649,22 +2955,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_WI510.mdlx/-2.dds
-- name: remastered/obj/F_WI510.mdlx/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI510.mdlx/-3.dds
-- name: remastered/obj/F_WI510.mdlx/-4.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI510.mdlx/-4.dds
-- name: remastered/obj/F_WI510.mdlx/-5.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI510.mdlx/-5.dds
-- name: remastered/obj/F_WI510.mdlx/-6.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI510.mdlx/-6.dds
+
+
+
+###Theater Window###
 - name: remastered/obj/F_WI511.mdlx/-0.dds
   method: copy
   source:
@@ -3677,22 +2971,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_WI511.mdlx/-2.dds
-- name: remastered/obj/F_WI511.mdlx/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI511.mdlx/-3.dds
-- name: remastered/obj/F_WI511.mdlx/-4.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI511.mdlx/-4.dds
-- name: remastered/obj/F_WI511.mdlx/-5.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI511.mdlx/-5.dds
-- name: remastered/obj/F_WI511.mdlx/-6.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI511.mdlx/-6.dds
+
+
+
+###Theater Window###
 - name: remastered/obj/F_WI512.mdlx/-0.dds
   method: copy
   source:
@@ -3705,22 +2987,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_WI512.mdlx/-2.dds
-- name: remastered/obj/F_WI512.mdlx/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI512.mdlx/-3.dds
-- name: remastered/obj/F_WI512.mdlx/-4.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI512.mdlx/-4.dds
-- name: remastered/obj/F_WI512.mdlx/-5.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI512.mdlx/-5.dds
-- name: remastered/obj/F_WI512.mdlx/-6.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI512.mdlx/-6.dds
+
+
+###Theater Window###
 - name: remastered/obj/F_WI513.mdlx/-0.dds
   method: copy
   source:
@@ -3733,22 +3002,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_WI513.mdlx/-2.dds
-- name: remastered/obj/F_WI513.mdlx/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI513.mdlx/-3.dds
-- name: remastered/obj/F_WI513.mdlx/-4.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI513.mdlx/-4.dds
-- name: remastered/obj/F_WI513.mdlx/-5.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI513.mdlx/-5.dds
-- name: remastered/obj/F_WI513.mdlx/-6.dds
-  method: copy
-  source:
-  - name: remastered/obj/F_WI513.mdlx/-6.dds
+
+
+###Large Theater Window###
 - name: remastered/obj/F_WI520.mdlx/-0.dds
   method: copy
   source:
@@ -3761,6 +3017,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_WI520.mdlx/-2.dds
+
+
+###Steamboat###
 - name: remastered/obj/F_WI530.mdlx/-0.dds
   method: copy
   source:
@@ -3781,6 +3040,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_WI530.mdlx/-4.dds
+
+
+###Pete's Door###
 - name: remastered/obj/F_WI550.mdlx/-0.dds
   method: copy
   source:
@@ -3793,6 +3055,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_WI550.mdlx/-2.dds
+
+
+###Cannon Tower###
 - name: remastered/obj/F_WI560.mdlx/-0.dds
   method: copy
   source:
@@ -3841,10 +3106,16 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_WI560.mdlx/-9.dds
+
+
+###Rope###
 - name: remastered/obj/F_WI570.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/F_WI570.mdlx/-0.dds
+
+
+###Platform###
 - name: remastered/obj/F_WI580.mdlx/-0.dds
   method: copy
   source:
@@ -3861,10 +3132,13 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_WI580.mdlx/-3.dds
-- name: remastered/obj/M_EX010_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX010_WI.a.us/-0.dds
+
+
+
+###Heartless###
+
+
+###Soldier###
 - name: remastered/obj/M_EX010_WI.mdlx/-0.dds
   method: copy
   source:
@@ -3881,62 +3155,23 @@ assets:
   method: copy
   source:
   - name: remastered/obj/M_EX010_WI.mdlx/-3.dds
-- name: remastered/obj/M_EX020_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX020_WI.a.us/-0.dds
+
+
+###Shadow###
 - name: remastered/obj/M_EX020_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/M_EX020_WI.mdlx/-0.dds
-- name: remastered/obj/M_EX020_WI_RAW.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX020_WI_RAW.a.us/-0.dds
+
+
+###Shadow###
 - name: remastered/obj/M_EX020_WI_RAW.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/M_EX020_WI_RAW.mdlx/-0.dds
-- name: remastered/obj/M_EX050_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX050_WI.a.us/-0.dds
-- name: remastered/obj/M_EX050_WI.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX050_WI.a.us/-1.dds
-- name: remastered/obj/M_EX050_WI.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX050_WI.a.us/-2.dds
-- name: remastered/obj/M_EX050_WI.a.us/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX050_WI.a.us/-3.dds
-- name: remastered/obj/M_EX050_WI.a.us/-4.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX050_WI.a.us/-4.dds
-- name: remastered/obj/M_EX050_WI.a.us/-5.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX050_WI.a.us/-5.dds
-- name: remastered/obj/M_EX050_WI.a.us/-6.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX050_WI.a.us/-6.dds
-- name: remastered/obj/M_EX050_WI.a.us/-7.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX050_WI.a.us/-7.dds
-- name: remastered/obj/M_EX050_WI.a.us/-8.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX050_WI.a.us/-8.dds
-- name: remastered/obj/M_EX050_WI.a.us/-9.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX050_WI.a.us/-9.dds
+
+
+###Large Body###
 - name: remastered/obj/M_EX050_WI.mdlx/-0.dds
   method: copy
   source:
@@ -3949,22 +3184,9 @@ assets:
   method: copy
   source:
   - name: remastered/obj/M_EX050_WI.mdlx/-2.dds
-- name: remastered/obj/M_EX540_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX540_WI.a.us/-0.dds
-- name: remastered/obj/M_EX540_WI.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX540_WI.a.us/-1.dds
-- name: remastered/obj/M_EX540_WI.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX540_WI.a.us/-2.dds
-- name: remastered/obj/M_EX540_WI.a.us/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX540_WI.a.us/-3.dds
+
+
+###Aeroplane###
 - name: remastered/obj/M_EX540_WI.mdlx/-0.dds
   method: copy
   source:
@@ -3981,46 +3203,15 @@ assets:
   method: copy
   source:
   - name: remastered/obj/M_EX540_WI.mdlx/-3.dds
-- name: remastered/obj/M_EX550_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX550_WI.a.us/-0.dds
-- name: remastered/obj/M_EX550_WI.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX550_WI.a.us/-1.dds
-- name: remastered/obj/M_EX550_WI.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX550_WI.a.us/-2.dds
-- name: remastered/obj/M_EX550_WI.a.us/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX550_WI.a.us/-3.dds
-- name: remastered/obj/M_EX550_WI.a.us/-4.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX550_WI.a.us/-4.dds
-- name: remastered/obj/M_EX550_WI.a.us/-5.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX550_WI.a.us/-5.dds
-- name: remastered/obj/M_EX550_WI.a.us/-6.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX550_WI.a.us/-6.dds
-- name: remastered/obj/M_EX550_WI.a.us/-7.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX550_WI.a.us/-7.dds
+
+
+###Aeroplane###
 - name: remastered/obj/M_EX550_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/M_EX550_WI.mdlx/-0.dds
-- name: remastered/obj/M_EX560_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX560_WI.a.us/-0.dds
+
+###Hammer Frame###
 - name: remastered/obj/M_EX560_WI.mdlx/-0.dds
   method: copy
   source:
@@ -4037,34 +3228,8 @@ assets:
   method: copy
   source:
   - name: remastered/obj/M_EX560_WI.mdlx/-3.dds
-- name: remastered/obj/M_EX640_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX640_WI.a.us/-0.dds
-- name: remastered/obj/M_EX640_WI.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX640_WI.a.us/-1.dds
-- name: remastered/obj/M_EX640_WI.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX640_WI.a.us/-2.dds
-- name: remastered/obj/M_EX640_WI.a.us/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX640_WI.a.us/-3.dds
-- name: remastered/obj/M_EX640_WI.a.us/-4.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX640_WI.a.us/-4.dds
-- name: remastered/obj/M_EX640_WI.a.us/-5.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX640_WI.a.us/-5.dds
-- name: remastered/obj/M_EX640_WI.a.us/-6.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX640_WI.a.us/-6.dds
+
+###Hot Rod###
 - name: remastered/obj/M_EX640_WI.mdlx/-0.dds
   method: copy
   source:
@@ -4077,14 +3242,8 @@ assets:
   method: copy
   source:
   - name: remastered/obj/M_EX640_WI.mdlx/-2.dds
-- name: remastered/obj/M_EX660_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX660_WI.a.us/-0.dds
-- name: remastered/obj/M_EX660_WI.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/M_EX660_WI.a.us/-1.dds
+
+###Rapid Thruster###
 - name: remastered/obj/M_EX660_WI.mdlx/-0.dds
   method: copy
   source:
@@ -4103,146 +3262,12 @@ assets:
   - name: remastered/obj/M_EX660_WI_RAW.mdlx/-1.dds
 
 
-###Pete (Present Day)###
-- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-0.dds
-- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-1.dds
-- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-10.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-10.dds
-- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-11.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-11.dds
-- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-12.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-12.dds
-- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-13.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-13.dds
-- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-14.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-14.dds
-- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-15.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-15.dds
-- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-16.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-16.dds
-- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-2.dds
-- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-3.dds
-- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-4.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-4.dds
-- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-5.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-5.dds
-- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-6.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-6.dds
-- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-7.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-7.dds
-- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-8.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-8.dds
-- name: remastered/obj/N_EX760_BTL_WILLY.a.us/-9.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_EX760_BTL_WILLY.a.us/-9.dds
-- name: remastered/obj/N_EX760_BTL_WILLY.mdlx/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_EX760_BTL_WILLY.mdlx/-0.dds
-- name: remastered/obj/N_EX760_BTL_WILLY.mdlx/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_EX760_BTL_WILLY.mdlx/-1.dds
-- name: remastered/obj/N_EX760_BTL_WILLY.mdlx/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_EX760_BTL_WILLY.mdlx/-2.dds
-- name: remastered/obj/N_EX760_BTL_WILLY.mdlx/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_EX760_BTL_WILLY.mdlx/-3.dds
-- name: remastered/obj/N_EX760_BTL_WILLY.mdlx/-4.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_EX760_BTL_WILLY.mdlx/-4.dds
+
+###Character Models###
+
 
 
 ###Captain Pete###
-- name: remastered/obj/N_WI010_BTL.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_WI010_BTL.a.us/-0.dds
-- name: remastered/obj/N_WI010_BTL.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_WI010_BTL.a.us/-1.dds
-- name: remastered/obj/N_WI010_BTL.a.us/-10.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_WI010_BTL.a.us/-10.dds
-- name: remastered/obj/N_WI010_BTL.a.us/-11.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_WI010_BTL.a.us/-11.dds
-- name: remastered/obj/N_WI010_BTL.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_WI010_BTL.a.us/-2.dds
-- name: remastered/obj/N_WI010_BTL.a.us/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_WI010_BTL.a.us/-3.dds
-- name: remastered/obj/N_WI010_BTL.a.us/-4.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_WI010_BTL.a.us/-4.dds
-- name: remastered/obj/N_WI010_BTL.a.us/-5.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_WI010_BTL.a.us/-5.dds
-- name: remastered/obj/N_WI010_BTL.a.us/-6.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_WI010_BTL.a.us/-6.dds
-- name: remastered/obj/N_WI010_BTL.a.us/-7.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_WI010_BTL.a.us/-7.dds
-- name: remastered/obj/N_WI010_BTL.a.us/-8.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_WI010_BTL.a.us/-8.dds
-- name: remastered/obj/N_WI010_BTL.a.us/-9.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_WI010_BTL.a.us/-9.dds
 - name: remastered/obj/N_WI010_BTL.mdlx/-0.dds
   method: copy
   source:
@@ -4255,54 +3280,7 @@ assets:
   method: copy
   source:
   - name: remastered/obj/N_WI010_BTL.mdlx/-2.dds
-- name: remastered/obj/N_WI010_BTL_VS.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_WI010_BTL_VS.a.us/-0.dds
-- name: remastered/obj/N_WI010_BTL_VS.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_WI010_BTL_VS.a.us/-1.dds
-- name: remastered/obj/N_WI010_BTL_VS.a.us/-10.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_WI010_BTL_VS.a.us/-10.dds
-- name: remastered/obj/N_WI010_BTL_VS.a.us/-11.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_WI010_BTL_VS.a.us/-11.dds
-- name: remastered/obj/N_WI010_BTL_VS.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_WI010_BTL_VS.a.us/-2.dds
-- name: remastered/obj/N_WI010_BTL_VS.a.us/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_WI010_BTL_VS.a.us/-3.dds
-- name: remastered/obj/N_WI010_BTL_VS.a.us/-4.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_WI010_BTL_VS.a.us/-4.dds
-- name: remastered/obj/N_WI010_BTL_VS.a.us/-5.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_WI010_BTL_VS.a.us/-5.dds
-- name: remastered/obj/N_WI010_BTL_VS.a.us/-6.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_WI010_BTL_VS.a.us/-6.dds
-- name: remastered/obj/N_WI010_BTL_VS.a.us/-7.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_WI010_BTL_VS.a.us/-7.dds
-- name: remastered/obj/N_WI010_BTL_VS.a.us/-8.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_WI010_BTL_VS.a.us/-8.dds
-- name: remastered/obj/N_WI010_BTL_VS.a.us/-9.dds
-  method: copy
-  source:
-  - name: remastered/obj/N_WI010_BTL_VS.a.us/-9.dds
+
 - name: remastered/obj/N_WI010_BTL_VS.mdlx/-0.dds
   method: copy
   source:
@@ -4382,38 +3360,8 @@ assets:
 
 
 ###Sora###
-- name: remastered/obj/P_EX100_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI.a.us/-0.dds
-- name: remastered/obj/P_EX100_WI.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI.a.us/-1.dds
-- name: remastered/obj/P_EX100_WI.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI.a.us/-2.dds
-- name: remastered/obj/P_EX100_WI.a.us/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI.a.us/-3.dds
-- name: remastered/obj/P_EX100_WI.a.us/-4.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI.a.us/-4.dds
-- name: remastered/obj/P_EX100_WI.a.us/-5.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI.a.us/-5.dds
-- name: remastered/obj/P_EX100_WI.a.us/-6.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI.a.us/-6.dds
-- name: remastered/obj/P_EX100_WI.a.us/-7.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI.a.us/-7.dds
+###"Color TR Sora" mod by JacobV4260###
+###https://github.com/JacobV4260/ColorTRSoraOnly###
 - name: remastered/obj/P_EX100_WI.a.us/-8.dds
   method: copy
   source:
@@ -4433,22 +3381,6 @@ assets:
 
 
 ###Sora (Valor Form)###
-- name: remastered/obj/P_EX100_WI_BTLF.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_BTLF.a.us/-0.dds
-- name: remastered/obj/P_EX100_WI_BTLF.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_BTLF.a.us/-1.dds
-- name: remastered/obj/P_EX100_WI_BTLF.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_BTLF.a.us/-2.dds
-- name: remastered/obj/P_EX100_WI_BTLF.a.us/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_BTLF.a.us/-3.dds
 - name: remastered/obj/P_EX100_WI_BTLF.a.us/-4.dds
   method: copy
   source:
@@ -4468,18 +3400,6 @@ assets:
 
 
 ###Sora (Anti Form)###
-- name: remastered/obj/P_EX100_WI_HTLF.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_HTLF.a.us/-0.dds
-- name: remastered/obj/P_EX100_WI_HTLF.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_HTLF.a.us/-1.dds
-- name: remastered/obj/P_EX100_WI_HTLF.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_HTLF.a.us/-2.dds
 - name: remastered/obj/P_EX100_WI_HTLF.a.us/-3.dds
   method: copy
   source:
@@ -4491,42 +3411,6 @@ assets:
 
 
 ###Sora Limit Form)###
-- name: remastered/obj/P_EX100_WI_KH1F.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_KH1F.a.us/-0.dds
-- name: remastered/obj/P_EX100_WI_KH1F.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_KH1F.a.us/-1.dds
-- name: remastered/obj/P_EX100_WI_KH1F.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_KH1F.a.us/-2.dds
-- name: remastered/obj/P_EX100_WI_KH1F.a.us/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_KH1F.a.us/-3.dds
-- name: remastered/obj/P_EX100_WI_KH1F.a.us/-4.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_KH1F.a.us/-4.dds
-- name: remastered/obj/P_EX100_WI_KH1F.a.us/-5.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_KH1F.a.us/-5.dds
-- name: remastered/obj/P_EX100_WI_KH1F.a.us/-6.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_KH1F.a.us/-6.dds
-- name: remastered/obj/P_EX100_WI_KH1F.a.us/-7.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_KH1F.a.us/-7.dds
-- name: remastered/obj/P_EX100_WI_KH1F.a.us/-8.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_KH1F.a.us/-8.dds
 - name: remastered/obj/P_EX100_WI_KH1F.a.us/-9.dds
   method: copy
   source:
@@ -4546,14 +3430,6 @@ assets:
 
 
 ###Sora (Wisdom Form)###
-- name: remastered/obj/P_EX100_WI_MAGF.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_MAGF.a.us/-0.dds
-- name: remastered/obj/P_EX100_WI_MAGF.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_MAGF.a.us/-1.dds
 - name: remastered/obj/P_EX100_WI_MAGF.a.us/-2.dds
   method: copy
   source:
@@ -4573,26 +3449,6 @@ assets:
 
 
 ###Sora (Master Form)###
-- name: remastered/obj/P_EX100_WI_TRIF.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_TRIF.a.us/-0.dds
-- name: remastered/obj/P_EX100_WI_TRIF.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_TRIF.a.us/-1.dds
-- name: remastered/obj/P_EX100_WI_TRIF.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_TRIF.a.us/-2.dds
-- name: remastered/obj/P_EX100_WI_TRIF.a.us/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_TRIF.a.us/-3.dds
-- name: remastered/obj/P_EX100_WI_TRIF.a.us/-4.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_TRIF.a.us/-4.dds
 - name: remastered/obj/P_EX100_WI_TRIF.a.us/-5.dds
   method: copy
   source:
@@ -4612,50 +3468,10 @@ assets:
 
 
 ###Sora Final Form)###
-- name: remastered/obj/P_EX100_WI_ULTF.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_ULTF.a.us/-0.dds
-- name: remastered/obj/P_EX100_WI_ULTF.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_ULTF.a.us/-1.dds
 - name: remastered/obj/P_EX100_WI_ULTF.a.us/-10.dds
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_ULTF.a.us/-10.dds
-- name: remastered/obj/P_EX100_WI_ULTF.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_ULTF.a.us/-2.dds
-- name: remastered/obj/P_EX100_WI_ULTF.a.us/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_ULTF.a.us/-3.dds
-- name: remastered/obj/P_EX100_WI_ULTF.a.us/-4.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_ULTF.a.us/-4.dds
-- name: remastered/obj/P_EX100_WI_ULTF.a.us/-5.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_ULTF.a.us/-5.dds
-- name: remastered/obj/P_EX100_WI_ULTF.a.us/-6.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_ULTF.a.us/-6.dds
-- name: remastered/obj/P_EX100_WI_ULTF.a.us/-7.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_ULTF.a.us/-7.dds
-- name: remastered/obj/P_EX100_WI_ULTF.a.us/-8.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_ULTF.a.us/-8.dds
-- name: remastered/obj/P_EX100_WI_ULTF.a.us/-9.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_WI_ULTF.a.us/-9.dds
 - name: remastered/obj/P_EX100_WI_ULTF.mdlx/-0.dds
   method: copy
   source:
@@ -4671,30 +3487,6 @@ assets:
 
 
 ###Donald Duck###
-- name: remastered/obj/P_WI020.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_WI020.a.us/-0.dds
-- name: remastered/obj/P_WI020.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_WI020.a.us/-1.dds
-- name: remastered/obj/P_WI020.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_WI020.a.us/-2.dds
-- name: remastered/obj/P_WI020.a.us/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_WI020.a.us/-3.dds
-- name: remastered/obj/P_WI020.a.us/-4.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_WI020.a.us/-4.dds
-- name: remastered/obj/P_WI020.a.us/-5.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_WI020.a.us/-5.dds
 - name: remastered/obj/P_WI020.a.us/-6.dds
   method: copy
   source:
@@ -4718,14 +3510,6 @@ assets:
 
 
 ###Goofy###
-- name: remastered/obj/P_WI030.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_WI030.a.us/-0.dds
-- name: remastered/obj/P_WI030.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_WI030.a.us/-1.dds
 - name: remastered/obj/P_WI030.a.us/-2.dds
   method: copy
   source:
@@ -4773,426 +3557,146 @@ assets:
 
 
 ###Sora's Weapons###
-- name: remastered/obj/W_EX010_10_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_10_WI.a.us/-0.dds
-- name: remastered/obj/W_EX010_10_WI.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_10_WI.a.us/-1.dds
+
+###Oath Keeper###
 - name: remastered/obj/W_EX010_10_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX010_10_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX010_20_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_20_WI.a.us/-0.dds
-- name: remastered/obj/W_EX010_20_WI.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_20_WI.a.us/-1.dds
+
+###Oblivion###
 - name: remastered/obj/W_EX010_20_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX010_20_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX010_30_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_30_WI.a.us/-0.dds
-- name: remastered/obj/W_EX010_30_WI.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_30_WI.a.us/-1.dds
+
+###Star Seeker###
 - name: remastered/obj/W_EX010_30_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX010_30_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX010_40_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_40_WI.a.us/-0.dds
-- name: remastered/obj/W_EX010_40_WI.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_40_WI.a.us/-1.dds
+
+###Hidden Dragon###
 - name: remastered/obj/W_EX010_40_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX010_40_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX010_50_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_50_WI.a.us/-0.dds
-- name: remastered/obj/W_EX010_50_WI.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_50_WI.a.us/-1.dds
+
+###Hero's Crest###
 - name: remastered/obj/W_EX010_50_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX010_50_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX010_60_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_60_WI.a.us/-0.dds
-- name: remastered/obj/W_EX010_60_WI.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_60_WI.a.us/-1.dds
-- name: remastered/obj/W_EX010_60_WI.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_60_WI.a.us/-2.dds
-- name: remastered/obj/W_EX010_60_WI.a.us/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_60_WI.a.us/-3.dds
+
+###Monochrome###
 - name: remastered/obj/W_EX010_60_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX010_60_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX010_70_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_70_WI.a.us/-0.dds
-- name: remastered/obj/W_EX010_70_WI.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_70_WI.a.us/-1.dds
+
+###Follow the Wind###
 - name: remastered/obj/W_EX010_70_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX010_70_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX010_80_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_80_WI.a.us/-0.dds
-- name: remastered/obj/W_EX010_80_WI.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_80_WI.a.us/-1.dds
-- name: remastered/obj/W_EX010_80_WI.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_80_WI.a.us/-2.dds
-- name: remastered/obj/W_EX010_80_WI.a.us/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_80_WI.a.us/-3.dds
+
+###Circle of Life###
 - name: remastered/obj/W_EX010_80_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX010_80_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX010_90_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_90_WI.a.us/-0.dds
-- name: remastered/obj/W_EX010_90_WI.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_90_WI.a.us/-1.dds
-- name: remastered/obj/W_EX010_90_WI.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_90_WI.a.us/-2.dds
-- name: remastered/obj/W_EX010_90_WI.a.us/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_90_WI.a.us/-3.dds
-- name: remastered/obj/W_EX010_90_WI.a.us/-4.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_90_WI.a.us/-4.dds
-- name: remastered/obj/W_EX010_90_WI.a.us/-5.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_90_WI.a.us/-5.dds
+
+###Photon Debugger###
 - name: remastered/obj/W_EX010_90_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX010_90_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX010_A0_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_A0_WI.a.us/-0.dds
-- name: remastered/obj/W_EX010_A0_WI.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_A0_WI.a.us/-1.dds
-- name: remastered/obj/W_EX010_A0_WI.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_A0_WI.a.us/-2.dds
-- name: remastered/obj/W_EX010_A0_WI.a.us/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_A0_WI.a.us/-3.dds
+
+###Gull Wing###
 - name: remastered/obj/W_EX010_A0_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX010_A0_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX010_B0_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_B0_WI.a.us/-0.dds
-- name: remastered/obj/W_EX010_B0_WI.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_B0_WI.a.us/-1.dds
-- name: remastered/obj/W_EX010_B0_WI.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_B0_WI.a.us/-2.dds
+
+###Rumbling Rose###
 - name: remastered/obj/W_EX010_B0_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX010_B0_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX010_C0_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_C0_WI.a.us/-0.dds
-- name: remastered/obj/W_EX010_C0_WI.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_C0_WI.a.us/-1.dds
-- name: remastered/obj/W_EX010_C0_WI.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_C0_WI.a.us/-2.dds
+
+###Guardian Soul###
 - name: remastered/obj/W_EX010_C0_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX010_C0_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX010_D0_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_D0_WI.a.us/-0.dds
-- name: remastered/obj/W_EX010_D0_WI.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_D0_WI.a.us/-1.dds
-- name: remastered/obj/W_EX010_D0_WI.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_D0_WI.a.us/-2.dds
-- name: remastered/obj/W_EX010_D0_WI.a.us/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_D0_WI.a.us/-3.dds
+
+###Wishing Lamp###
 - name: remastered/obj/W_EX010_D0_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX010_D0_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX010_E0_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_E0_WI.a.us/-0.dds
-- name: remastered/obj/W_EX010_E0_WI.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_E0_WI.a.us/-1.dds
+
+###Decisive Pumpkin###
 - name: remastered/obj/W_EX010_E0_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX010_E0_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX010_F0_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_F0_WI.a.us/-0.dds
-- name: remastered/obj/W_EX010_F0_WI.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_F0_WI.a.us/-1.dds
-- name: remastered/obj/W_EX010_F0_WI.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_F0_WI.a.us/-2.dds
+
+###Sleeping Lion###
 - name: remastered/obj/W_EX010_F0_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX010_F0_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX010_G0_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_G0_WI.a.us/-0.dds
-- name: remastered/obj/W_EX010_G0_WI.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_G0_WI.a.us/-1.dds
-- name: remastered/obj/W_EX010_G0_WI.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_G0_WI.a.us/-2.dds
-- name: remastered/obj/W_EX010_G0_WI.a.us/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_G0_WI.a.us/-3.dds
-- name: remastered/obj/W_EX010_G0_WI.a.us/-4.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_G0_WI.a.us/-4.dds
+
+###Sweet Memories###
 - name: remastered/obj/W_EX010_G0_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX010_G0_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX010_H0_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_H0_WI.a.us/-0.dds
-- name: remastered/obj/W_EX010_H0_WI.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_H0_WI.a.us/-1.dds
-- name: remastered/obj/W_EX010_H0_WI.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_H0_WI.a.us/-2.dds
+
+###Mysterious Abyss###
 - name: remastered/obj/W_EX010_H0_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX010_H0_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX010_J0_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_J0_WI.a.us/-0.dds
-- name: remastered/obj/W_EX010_J0_WI.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_J0_WI.a.us/-1.dds
-- name: remastered/obj/W_EX010_J0_WI.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_J0_WI.a.us/-2.dds
+
+###Fatal Crest###
 - name: remastered/obj/W_EX010_J0_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX010_J0_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX010_K0_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_K0_WI.a.us/-0.dds
-- name: remastered/obj/W_EX010_K0_WI.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_K0_WI.a.us/-1.dds
-- name: remastered/obj/W_EX010_K0_WI.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_K0_WI.a.us/-2.dds
-- name: remastered/obj/W_EX010_K0_WI.a.us/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_K0_WI.a.us/-3.dds
+
+###Bond of Flame###
 - name: remastered/obj/W_EX010_K0_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX010_K0_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX010_M0_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_M0_WI.a.us/-0.dds
-- name: remastered/obj/W_EX010_M0_WI.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_M0_WI.a.us/-1.dds
-- name: remastered/obj/W_EX010_M0_WI.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_M0_WI.a.us/-2.dds
-- name: remastered/obj/W_EX010_M0_WI.a.us/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_M0_WI.a.us/-3.dds
-- name: remastered/obj/W_EX010_M0_WI.a.us/-4.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_M0_WI.a.us/-4.dds
+
+###Fenrir###
 - name: remastered/obj/W_EX010_M0_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX010_M0_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX010_N0_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_N0_WI.a.us/-0.dds
-- name: remastered/obj/W_EX010_N0_WI.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_N0_WI.a.us/-1.dds
-- name: remastered/obj/W_EX010_N0_WI.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_N0_WI.a.us/-2.dds
-- name: remastered/obj/W_EX010_N0_WI.a.us/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_N0_WI.a.us/-3.dds
-- name: remastered/obj/W_EX010_N0_WI.a.us/-4.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_N0_WI.a.us/-4.dds
+
+###Ultima Weapon###
 - name: remastered/obj/W_EX010_N0_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX010_N0_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX010_P0_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_P0_WI.a.us/-0.dds
-- name: remastered/obj/W_EX010_P0_WI.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_P0_WI.a.us/-1.dds
-- name: remastered/obj/W_EX010_P0_WI.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_P0_WI.a.us/-2.dds
-- name: remastered/obj/W_EX010_P0_WI.a.us/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_P0_WI.a.us/-3.dds
-- name: remastered/obj/W_EX010_P0_WI.a.us/-4.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_P0_WI.a.us/-4.dds
-- name: remastered/obj/W_EX010_P0_WI.a.us/-5.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_P0_WI.a.us/-5.dds
-- name: remastered/obj/W_EX010_P0_WI.a.us/-6.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_P0_WI.a.us/-6.dds
+
+###Two Become One###
 - name: remastered/obj/W_EX010_P0_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX010_P0_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX010_R0_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_R0_WI.a.us/-0.dds
-- name: remastered/obj/W_EX010_R0_WI.a.us/-1.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_R0_WI.a.us/-1.dds
-- name: remastered/obj/W_EX010_R0_WI.a.us/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_R0_WI.a.us/-2.dds
-- name: remastered/obj/W_EX010_R0_WI.a.us/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_R0_WI.a.us/-3.dds
+
+###Winner's Proof###
 - name: remastered/obj/W_EX010_R0_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX010_R0_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX010_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_WI.a.us/-0.dds
+
+###Kingdom Key###
 - name: remastered/obj/W_EX010_WI.mdlx/-0.dds
   method: copy
   source:
@@ -5200,114 +3704,122 @@ assets:
 
 
 ###Donald's Weapons###
+
+###Hammer Staff###
 - name: remastered/obj/W_EX020_10_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX020_10_WI.mdlx/-0.dds
+
+###Victory Bell###
 - name: remastered/obj/W_EX020_20_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX020_20_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX020_30_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX020_30_WI.a.us/-0.dds
+
+###Meteor Staff###
 - name: remastered/obj/W_EX020_30_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX020_30_WI.mdlx/-0.dds
+
+###Comet Staff###
 - name: remastered/obj/W_EX020_40_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX020_40_WI.mdlx/-0.dds
+
+###Lord's Brom###
 - name: remastered/obj/W_EX020_50_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX020_50_WI.mdlx/-0.dds
+
+###Wisdom Wand###
 - name: remastered/obj/W_EX020_60_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX020_60_WI.mdlx/-0.dds
+
+###Rising Dragon###
 - name: remastered/obj/W_EX020_70_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX020_70_WI.mdlx/-0.dds
+
+###Nobody Lance###
 - name: remastered/obj/W_EX020_80_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX020_80_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX020_90_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX020_90_WI.a.us/-0.dds
+
+###Shaman's Relic###
 - name: remastered/obj/W_EX020_90_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX020_90_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX020_94_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX020_94_WI.a.us/-0.dds
+
+###Shaman's Relic+###
 - name: remastered/obj/W_EX020_94_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX020_94_WI.mdlx/-0.dds
+
+###Save the Queen###
 - name: remastered/obj/W_EX020_A0_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX020_A0_WI.mdlx/-0.dds
+
+###Save the Queen+###
 - name: remastered/obj/W_EX020_A4_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX020_A4_WI.mdlx/-0.dds
+
+###Centurion###
 - name: remastered/obj/W_EX020_B0_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX020_B0_WI.mdlx/-0.dds
+
+###Centurion+###
 - name: remastered/obj/W_EX020_B4_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX020_B4_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX020_C0_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX020_C0_WI.a.us/-0.dds
+
+###Plain Mushroom###
 - name: remastered/obj/W_EX020_C0_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX020_C0_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX020_C4_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX020_C4_WI.a.us/-0.dds
+
+###Plain Mushroom+###
 - name: remastered/obj/W_EX020_C4_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX020_C4_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX020_C8_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX020_C8_WI.a.us/-0.dds
+
+###Precious Mushroom###
 - name: remastered/obj/W_EX020_C8_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX020_C8_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX020_CC_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX020_CC_WI.a.us/-0.dds
+
+###Precious Mushroom+###
 - name: remastered/obj/W_EX020_CC_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX020_CC_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX020_CG_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX020_CG_WI.a.us/-0.dds
+
+###Premium Mushroom###
 - name: remastered/obj/W_EX020_CG_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX020_CG_WI.mdlx/-0.dds
+
+###Mage's Staff###
 - name: remastered/obj/W_EX020_WI.mdlx/-0.dds
   method: copy
   source:
@@ -5315,30 +3827,44 @@ assets:
 
 
 ###Goofy's Weapons###
+
+###Adamant Shield###
 - name: remastered/obj/W_EX030_10_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX030_10_WI.mdlx/-0.dds
+
+###Chain Gear###
 - name: remastered/obj/W_EX030_20_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX030_20_WI.mdlx/-0.dds
+
+###Ogre Shield###
 - name: remastered/obj/W_EX030_30_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX030_30_WI.mdlx/-0.dds
+
+###Falling Star###
 - name: remastered/obj/W_EX030_40_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX030_40_WI.mdlx/-0.dds
+
+###Dreamcloud###
 - name: remastered/obj/W_EX030_50_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX030_50_WI.mdlx/-0.dds
+
+###Knight Defender###
 - name: remastered/obj/W_EX030_60_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX030_60_WI.mdlx/-0.dds
+
+###Genji Shield###
 - name: remastered/obj/W_EX030_70_WI.mdlx/-0.dds
   method: copy
   source:
@@ -5347,54 +3873,80 @@ assets:
   method: copy
   source:
   - name: remastered/obj/W_EX030_70_WI.mdlx/-1.dds
+
+###Akashic Record###
 - name: remastered/obj/W_EX030_80_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX030_80_WI.mdlx/-0.dds
+
+###Akashic Record+###
 - name: remastered/obj/W_EX030_84_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX030_84_WI.mdlx/-0.dds
+
+###Nobody Guard###
 - name: remastered/obj/W_EX030_90_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX030_90_WI.mdlx/-0.dds
+
+###Save the King###
 - name: remastered/obj/W_EX030_A0_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX030_A0_WI.mdlx/-0.dds
+
+###Save the King+###
 - name: remastered/obj/W_EX030_A4_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX030_A4_WI.mdlx/-0.dds
+
+###Frozen Pride###
 - name: remastered/obj/W_EX030_B0_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX030_B0_WI.mdlx/-0.dds
+
+###Frozen Pride+###
 - name: remastered/obj/W_EX030_B4_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX030_B4_WI.mdlx/-0.dds
+
+###Joyous Mushroom###
 - name: remastered/obj/W_EX030_C0_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX030_C0_WI.mdlx/-0.dds
+
+###Joyous Mushroom+###
 - name: remastered/obj/W_EX030_C4_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX030_C4_WI.mdlx/-0.dds
+
+###Majestic Mushroom###
 - name: remastered/obj/W_EX030_C8_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX030_C8_WI.mdlx/-0.dds
+
+###Majestic Mushroom+###
 - name: remastered/obj/W_EX030_CC_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX030_CC_WI.mdlx/-0.dds
+
+###Ultimate Mushroom###
 - name: remastered/obj/W_EX030_CG_WI.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/W_EX030_CG_WI.mdlx/-0.dds
+
+###Knight's Shield###
 - name: remastered/obj/W_EX030_WI.mdlx/-0.dds
   method: copy
   source:
@@ -5402,69 +3954,99 @@ assets:
 
 
 
-###Menu Pictures###
+###Journal Pictures###
 
+###Sora###
 - name: remastered/menu/jmface_wi.2ld/-0.dds
   method: copy
   source:
   - name: remastered/menu/jmface_wi.2ld/-0.dds
+
+###Donald###
 - name: remastered/menu/jmface_wi.2ld/-1.dds
   method: copy
   source:
   - name: remastered/menu/jmface_wi.2ld/-1.dds
+
+###Goofy###
 - name: remastered/menu/jmface_wi.2ld/-2.dds
   method: copy
   source:
   - name: remastered/menu/jmface_wi.2ld/-2.dds
+
+###Captain Pete###
 - name: remastered/menu/jmface_wi.2ld/-3.dds
   method: copy
   source:
   - name: remastered/menu/jmface_wi.2ld/-3.dds
+
+###Horace Horsecollar###
 - name: remastered/menu/jmface_wi.2ld/-4.dds
   method: copy
   source:
   - name: remastered/menu/jmface_wi.2ld/-4.dds
+
+###Clarabell Cow###
 - name: remastered/menu/jmface_wi.2ld/-5.dds
   method: copy
   source:
   - name: remastered/menu/jmface_wi.2ld/-5.dds
+
+###Clara Cluck###
 - name: remastered/menu/jmface_wi.2ld/-6.dds
   method: copy
   source:
   - name: remastered/menu/jmface_wi.2ld/-6.dds
+
+###Mickey###
 - name: remastered/menu/jmface_wi.2ld/-7.dds
   method: copy
   source:
   - name: remastered/menu/jmface_wi.2ld/-7.dds
 
+###Sora###
 - name: remastered/menu/jmface_wi0.imd/-0.dds
   method: copy
   source:
   - name: remastered/menu/jmface_wi0.imd/-0.dds
+
+###Donald###
 - name: remastered/menu/jmface_wi1.imd/-0.dds
   method: copy
   source:
   - name: remastered/menu/jmface_wi1.imd/-0.dds
+
+###Goofy###
 - name: remastered/menu/jmface_wi2.imd/-0.dds
   method: copy
   source:
   - name: remastered/menu/jmface_wi2.imd/-0.dds
+
+###Captain Pete###
 - name: remastered/menu/jmface_wi3.imd/-0.dds
   method: copy
   source:
   - name: remastered/menu/jmface_wi3.imd/-0.dds
+
+###Horace Horsecollar###
 - name: remastered/menu/jmface_wi4.imd/-0.dds
   method: copy
   source:
   - name: remastered/menu/jmface_wi4.imd/-0.dds
+
+###Clarabell Cow###
 - name: remastered/menu/jmface_wi5.imd/-0.dds
   method: copy
   source:
   - name: remastered/menu/jmface_wi5.imd/-0.dds
+
+###Clara Cluck###
 - name: remastered/menu/jmface_wi6.imd/-0.dds
   method: copy
   source:
   - name: remastered/menu/jmface_wi6.imd/-0.dds
+
+###Mickey###
 - name: remastered/menu/jmface_wi7.imd/-0.dds
   method: copy
   source:
@@ -5472,16 +4054,21 @@ assets:
 
 
 
-###Title and World Icon###
+###Journal Title and World Icon###
+
+###Journal World Title###
 - name: remastered/menu/jm_top_wi.2ld/-0.dds
   method: copy
   source:
   - name: remastered/menu/jm_top_wi.2ld/-0.dds
+
+###Journal World Logo###
 - name: remastered/menu/jm_top_wi.2ld/-1.dds
   method: copy
   source:
   - name: remastered/menu/jm_top_wi.2ld/-1.dds
 
+###Journal World Logo###
 - name: remastered/menu/jm_world.2ld/-10.dds
   method: copy
   source:
@@ -5514,7 +4101,7 @@ assets:
 
 
 
-###End or Theater Picture(?)###
+###Theater Picture###
 ###Main folder###
 - name: remastered/menu/eventviewer.2ld/-11.png
   method: copy
@@ -5567,7 +4154,7 @@ assets:
 
 
 
-###Title Popup(?)###
+###Title Popup During Cutscene###
 - name: remastered/event/effect/wi_event_103.pax/-2.dds
   method: copy
   source:
@@ -5599,8 +4186,10 @@ assets:
 
 
 
-###Photos###
+###Journal Photos###
 ###fm folder###
+
+###Captain Pete sitting on the ground with Sora and Goofy looking###
 - name: remastered/menu/fm/jm_photo/wi11.bin/-0.dds
   method: copy
   source:
@@ -5629,6 +4218,8 @@ assets:
   method: copy
   source:
   - name: remastered/menu/fm/jm_photo/wi11.bin/US_wi11_bin0.dds
+
+###Mickey shaking Sora's hand in the house###
 - name: remastered/menu/fm/jm_photo/wi12.bin/-0.dds
   method: copy
   source:
@@ -5657,6 +4248,8 @@ assets:
   method: copy
   source:
   - name: remastered/menu/fm/jm_photo/wi12.bin/US_wi12_bin0.dds
+
+###Future Pete about to hit Captain Pete###
 - name: remastered/menu/fm/jm_photo/wi13.bin/-0.dds
   method: copy
   source:
@@ -5685,6 +4278,8 @@ assets:
   method: copy
   source:
   - name: remastered/menu/fm/jm_photo/wi13.bin/US_wi13_bin0.dds
+
+###Sora, Donald, and Goofy on Captain Pete's Boat###
 - name: remastered/menu/fm/jm_photo/wi14.bin/-0.dds
   method: copy
   source:
@@ -5715,18 +4310,25 @@ assets:
   - name: remastered/menu/fm/jm_photo/wi14.bin/US_wi14_bin0.dds
 
 ###US Only Photos###
+###Captain Pete sitting on the ground with Sora and Goofy looking###
 - name: remastered/menu/us/jm_photo/wi11.bin/US_wi11_bin0.dds
   method: copy
   source:
   - name: remastered/menu/us/jm_photo/wi11.bin/US_wi11_bin0.dds
+
+###Mickey shaking Sora's hand in the house###
 - name: remastered/menu/us/jm_photo/wi12.bin/US_wi12_bin0.dds
   method: copy
   source:
   - name: remastered/menu/us/jm_photo/wi12.bin/US_wi12_bin0.dds
+
+###Future Pete about to hit Captain Pete###
 - name: remastered/menu/us/jm_photo/wi13.bin/US_wi13_bin0.dds
   method: copy
   source:
   - name: remastered/menu/us/jm_photo/wi13.bin/US_wi13_bin0.dds
+
+###Sora, Donald, and Goofy on Captain Pete's Boat###
 - name: remastered/menu/us/jm_photo/wi14.bin/US_wi14_bin0.dds
   method: copy
   source:
@@ -5734,6 +4336,8 @@ assets:
 
 
 ###Other Theater Photos###
+
+###Sora and Goofy looking at Window###
 - name: remastered/event/layout/wi_104s_1.2ld/-0.dds
   method: copy
   source:
@@ -5743,6 +4347,7 @@ assets:
   source:
   - name: remastered/event/layout/wi_104s_1.2ld/JP_wi_104s_1_2ld0.dds
 
+###Sora, Donald, and Goofy talking at Cornerstone Hill###
 - name: remastered/event/layout/wi_104s_2.2ld/-0.dds
   method: copy
   source:
@@ -5752,6 +4357,7 @@ assets:
   source:
   - name: remastered/event/layout/wi_104s_2.2ld/JP_wi_104s_2_2ld0.dds
 
+###Sora, Donald, and Goofy talking in front of Windows at Cornerstone Hill###
 - name: remastered/event/layout/wi_113s_1.2ld/-0.dds
   method: copy
   source:
