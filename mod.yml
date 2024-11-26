@@ -228,10 +228,6 @@ assets:
   method: copy
   source:
   - name: remastered/map/wi00.map/-68.dds
-- name: remastered/map/wi00.map/-69.dds
-  method: copy
-  source:
-  - name: remastered/map/wi00.map/-69.dds
 - name: remastered/map/wi00.map/-7.dds
   method: copy
   source:
