@@ -4362,3 +4362,44 @@ assets:
   method: copy
   source:
   - name: remastered/event/layout/wi_113s_1.2ld/JP_wi_113s_1_2ld0.dds
+
+
+###Music and sound replacement###
+
+###Monochrome Dreams###
+- name: bgm/music189.win32.scd
+  method: copy
+  source:
+   - name: bgm/music189.win32.scd
+
+
+###Old Frineds, Old Rivals###
+- name: bgm/music190.win32.scd
+  method: copy
+  source:
+   - name: bgm/music190.win32.scd
+
+
+###Rowdy Rumble###
+###Changes Rowdy Rumble from the Timeless River Version###
+- name: bgm/music517.win32.scd
+  method: copy
+  source:
+   - name: bgm/music117.win32.scd
+
+
+###Desire for All That Is Lost###
+###Changes Desire for All That Is Lost from the Timeless River Version###
+- name: bgm/music521.win32.scd
+  method: copy
+  source:
+   - name: bgm/music121.win32.scd
+
+
+###Background Sound###
+###Replaces the old-timey projector and scratch sounds##
+###Sounds are removed, but new sounds don't seem to replace it? As long as the music is ran, you can't really tell###
+- name: se/se014.win32.scd
+  method: copy
+  source:
+   - name: se/se014.win32.scd
