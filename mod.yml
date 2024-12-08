@@ -5,6 +5,15 @@ dependencies:
 assets:
 
 
+
+###Re:Fined Test###
+- name: Technicolor.bin
+  mode: copy
+  source:
+  - name: Technicolor.bin
+
+
+  
 ###Lifts B&W Filter from Timeless River###
 - name: 03system.bin
   method: binarc
