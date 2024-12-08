@@ -8,7 +8,7 @@ assets:
 
 ###Re:Fined Test###
 - name: Technicolor.bin
-  mode: copy
+  method: copy
   source:
   - name: Technicolor.bin
 
