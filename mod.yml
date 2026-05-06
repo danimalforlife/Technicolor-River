@@ -5,17 +5,9 @@ dependencies:
 assets:
 
 
-
-###Re:Fined Test###
-- name: Technicolor.bin
-  method: copy
-  source:
-  - name: Technicolor.bin
-
-
-  
 ###Lifts B&W Filter from Timeless River###
 - name: 03system.bin
+  package: kh2_first
   method: binarc
   source:
   - name: arif
@@ -30,222 +22,277 @@ assets:
 ###Conerstone Hill###
 ###wi00.map###
 - name: remastered/map/wi00.map/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-0.dds
 - name: remastered/map/wi00.map/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-1.dds
 - name: remastered/map/wi00.map/-10.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-10.dds
 - name: remastered/map/wi00.map/-11.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-11.dds
 - name: remastered/map/wi00.map/-12.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-12.dds
 - name: remastered/map/wi00.map/-13.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-13.dds
 - name: remastered/map/wi00.map/-14.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-14.dds
 - name: remastered/map/wi00.map/-15.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-15.dds
 - name: remastered/map/wi00.map/-16.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-16.dds
 - name: remastered/map/wi00.map/-17.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-17.dds
 - name: remastered/map/wi00.map/-18.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-18.dds
 - name: remastered/map/wi00.map/-19.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-19.dds
 - name: remastered/map/wi00.map/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-2.dds
 - name: remastered/map/wi00.map/-20.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-20.dds
 - name: remastered/map/wi00.map/-21.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-21.dds
 - name: remastered/map/wi00.map/-22.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-22.dds
 - name: remastered/map/wi00.map/-23.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-23.dds
 - name: remastered/map/wi00.map/-24.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-24.dds
 - name: remastered/map/wi00.map/-25.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-25.dds
 - name: remastered/map/wi00.map/-26.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-26.dds
 - name: remastered/map/wi00.map/-27.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-27.dds
 - name: remastered/map/wi00.map/-28.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-28.dds
 - name: remastered/map/wi00.map/-29.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-29.dds
 - name: remastered/map/wi00.map/-3.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-3.dds
 - name: remastered/map/wi00.map/-30.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-30.dds
 - name: remastered/map/wi00.map/-31.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-31.dds
 - name: remastered/map/wi00.map/-32.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-32.dds
 - name: remastered/map/wi00.map/-33.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-33.dds
 - name: remastered/map/wi00.map/-34.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-34.dds
 - name: remastered/map/wi00.map/-35.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-35.dds
 - name: remastered/map/wi00.map/-36.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-36.dds
 - name: remastered/map/wi00.map/-37.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-37.dds
 - name: remastered/map/wi00.map/-38.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-38.dds
 - name: remastered/map/wi00.map/-39.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-39.dds
 - name: remastered/map/wi00.map/-4.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-4.dds
 - name: remastered/map/wi00.map/-40.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-40.dds
 - name: remastered/map/wi00.map/-41.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-41.dds
 - name: remastered/map/wi00.map/-42.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-42.dds
 - name: remastered/map/wi00.map/-45.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-45.dds
 - name: remastered/map/wi00.map/-46.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-46.dds
 - name: remastered/map/wi00.map/-5.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-5.dds
 - name: remastered/map/wi00.map/-50.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-50.dds
 - name: remastered/map/wi00.map/-51.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-51.dds
 - name: remastered/map/wi00.map/-52.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-52.dds
 - name: remastered/map/wi00.map/-56.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-56.dds
 - name: remastered/map/wi00.map/-57.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-57.dds
 - name: remastered/map/wi00.map/-58.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-58.dds
 - name: remastered/map/wi00.map/-6.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-6.dds
 - name: remastered/map/wi00.map/-62.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-62.dds
 - name: remastered/map/wi00.map/-63.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-63.dds
 - name: remastered/map/wi00.map/-64.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-64.dds
 - name: remastered/map/wi00.map/-68.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-68.dds
 - name: remastered/map/wi00.map/-7.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-7.dds
 - name: remastered/map/wi00.map/-8.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-8.dds
 - name: remastered/map/wi00.map/-9.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi00.map/-9.dds
@@ -253,230 +300,287 @@ assets:
 ###Pier###
 ###wi01.map###
 - name: remastered/map/wi01.map/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-0.dds
 - name: remastered/map/wi01.map/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-1.dds
 - name: remastered/map/wi01.map/-10.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-10.dds
 - name: remastered/map/wi01.map/-11.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-11.dds
 - name: remastered/map/wi01.map/-12.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-12.dds
 - name: remastered/map/wi01.map/-13.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-13.dds
 - name: remastered/map/wi01.map/-14.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-14.dds
 - name: remastered/map/wi01.map/-15.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-15.dds
 - name: remastered/map/wi01.map/-16.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-16.dds
 - name: remastered/map/wi01.map/-17.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-17.dds
 - name: remastered/map/wi01.map/-18.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-18.dds
 - name: remastered/map/wi01.map/-19.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-19.dds
 - name: remastered/map/wi01.map/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-2.dds
 - name: remastered/map/wi01.map/-20.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-20.dds
 - name: remastered/map/wi01.map/-21.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-21.dds
 - name: remastered/map/wi01.map/-22.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-22.dds
 - name: remastered/map/wi01.map/-23.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-23.dds
 - name: remastered/map/wi01.map/-24.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-24.dds
 - name: remastered/map/wi01.map/-25.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-25.dds
 - name: remastered/map/wi01.map/-26.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-26.dds
 - name: remastered/map/wi01.map/-27.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-27.dds
 - name: remastered/map/wi01.map/-28.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-28.dds
 - name: remastered/map/wi01.map/-29.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-29.dds
 - name: remastered/map/wi01.map/-3.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-3.dds
 - name: remastered/map/wi01.map/-30.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-30.dds
 - name: remastered/map/wi01.map/-31.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-31.dds
 - name: remastered/map/wi01.map/-32.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-32.dds
 - name: remastered/map/wi01.map/-33.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-33.dds
 - name: remastered/map/wi01.map/-34.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-34.dds
 - name: remastered/map/wi01.map/-35.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-35.dds
 - name: remastered/map/wi01.map/-36.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-36.dds
 - name: remastered/map/wi01.map/-37.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-37.dds
 - name: remastered/map/wi01.map/-38.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-38.dds
 - name: remastered/map/wi01.map/-39.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-39.dds
 - name: remastered/map/wi01.map/-4.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-4.dds
 - name: remastered/map/wi01.map/-40.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-40.dds
 - name: remastered/map/wi01.map/-41.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-41.dds
 - name: remastered/map/wi01.map/-42.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-42.dds
 - name: remastered/map/wi01.map/-43.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-43.dds
 - name: remastered/map/wi01.map/-44.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-44.dds
 - name: remastered/map/wi01.map/-45.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-45.dds
 - name: remastered/map/wi01.map/-46.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-46.dds
 - name: remastered/map/wi01.map/-47.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-47.dds
 - name: remastered/map/wi01.map/-48.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-48.dds
 - name: remastered/map/wi01.map/-49.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-49.dds
 - name: remastered/map/wi01.map/-5.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-5.dds
 - name: remastered/map/wi01.map/-50.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-50.dds
 - name: remastered/map/wi01.map/-51.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-51.dds
 - name: remastered/map/wi01.map/-52.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-52.dds
 - name: remastered/map/wi01.map/-53.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-53.dds
 - name: remastered/map/wi01.map/-56.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-56.dds
 - name: remastered/map/wi01.map/-57.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-57.dds
 - name: remastered/map/wi01.map/-6.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-6.dds
 - name: remastered/map/wi01.map/-60.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-60.dds
 - name: remastered/map/wi01.map/-7.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-7.dds
 - name: remastered/map/wi01.map/-8.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-8.dds
 - name: remastered/map/wi01.map/-9.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi01.map/-9.dds
@@ -485,230 +589,287 @@ assets:
 ###Waterway###
 ###wi02.map###
 - name: remastered/map/wi02.map/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-0.dds
 - name: remastered/map/wi02.map/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-1.dds
 - name: remastered/map/wi02.map/-10.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-10.dds
 - name: remastered/map/wi02.map/-11.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-11.dds
 - name: remastered/map/wi02.map/-12.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-12.dds
 - name: remastered/map/wi02.map/-13.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-13.dds
 - name: remastered/map/wi02.map/-14.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-14.dds
 - name: remastered/map/wi02.map/-15.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-15.dds
 - name: remastered/map/wi02.map/-16.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-16.dds
 - name: remastered/map/wi02.map/-17.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-17.dds
 - name: remastered/map/wi02.map/-18.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-18.dds
 - name: remastered/map/wi02.map/-19.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-19.dds
 - name: remastered/map/wi02.map/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-2.dds
 - name: remastered/map/wi02.map/-20.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-20.dds
 - name: remastered/map/wi02.map/-21.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-21.dds
 - name: remastered/map/wi02.map/-22.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-22.dds
 - name: remastered/map/wi02.map/-23.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-23.dds
 - name: remastered/map/wi02.map/-24.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-24.dds
 - name: remastered/map/wi02.map/-25.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-25.dds
 - name: remastered/map/wi02.map/-26.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-26.dds
 - name: remastered/map/wi02.map/-27.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-27.dds
 - name: remastered/map/wi02.map/-28.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-28.dds
 - name: remastered/map/wi02.map/-29.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-29.dds
 - name: remastered/map/wi02.map/-3.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-3.dds
 - name: remastered/map/wi02.map/-30.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-30.dds
 - name: remastered/map/wi02.map/-31.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-31.dds
 - name: remastered/map/wi02.map/-32.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-32.dds
 - name: remastered/map/wi02.map/-33.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-33.dds
 - name: remastered/map/wi02.map/-34.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-34.dds
 - name: remastered/map/wi02.map/-35.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-35.dds
 - name: remastered/map/wi02.map/-36.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-36.dds
 - name: remastered/map/wi02.map/-37.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-37.dds
 - name: remastered/map/wi02.map/-38.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-38.dds
 - name: remastered/map/wi02.map/-39.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-39.dds
 - name: remastered/map/wi02.map/-4.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-4.dds
 - name: remastered/map/wi02.map/-40.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-40.dds
 - name: remastered/map/wi02.map/-41.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-41.dds
 - name: remastered/map/wi02.map/-42.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-42.dds
 - name: remastered/map/wi02.map/-43.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-43.dds
 - name: remastered/map/wi02.map/-44.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-44.dds
 - name: remastered/map/wi02.map/-45.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-45.dds
 - name: remastered/map/wi02.map/-46.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-46.dds
 - name: remastered/map/wi02.map/-47.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-47.dds
 - name: remastered/map/wi02.map/-48.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-48.dds
 - name: remastered/map/wi02.map/-49.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-49.dds
 - name: remastered/map/wi02.map/-5.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-5.dds
 - name: remastered/map/wi02.map/-50.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-50.dds
 - name: remastered/map/wi02.map/-52.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-52.dds
 - name: remastered/map/wi02.map/-54.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-54.dds
 - name: remastered/map/wi02.map/-57.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-57.dds
 - name: remastered/map/wi02.map/-58.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-58.dds
 - name: remastered/map/wi02.map/-59.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-59.dds
 - name: remastered/map/wi02.map/-6.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-6.dds
 - name: remastered/map/wi02.map/-60.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-60.dds
 - name: remastered/map/wi02.map/-7.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-7.dds
 - name: remastered/map/wi02.map/-8.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-8.dds
 - name: remastered/map/wi02.map/-9.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi02.map/-9.dds
@@ -716,418 +877,522 @@ assets:
 ###Wharf###
 ###wi03.map###
 - name: remastered/map/wi03.map/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-0.dds
 - name: remastered/map/wi03.map/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-1.dds
 - name: remastered/map/wi03.map/-10.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-10.dds
 - name: remastered/map/wi03.map/-101.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-101.dds
 - name: remastered/map/wi03.map/-103.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-103.dds
 - name: remastered/map/wi03.map/-104.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-104.dds
 - name: remastered/map/wi03.map/-105.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-105.dds
 - name: remastered/map/wi03.map/-106.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-106.dds
 - name: remastered/map/wi03.map/-108.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-108.dds
 - name: remastered/map/wi03.map/-11.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-11.dds
 - name: remastered/map/wi03.map/-12.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-12.dds
 - name: remastered/map/wi03.map/-13.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-13.dds
 - name: remastered/map/wi03.map/-14.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-14.dds
 - name: remastered/map/wi03.map/-15.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-15.dds
 - name: remastered/map/wi03.map/-16.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-16.dds
 - name: remastered/map/wi03.map/-17.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-17.dds
 - name: remastered/map/wi03.map/-18.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-18.dds
 - name: remastered/map/wi03.map/-19.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-19.dds
 - name: remastered/map/wi03.map/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-2.dds
 - name: remastered/map/wi03.map/-20.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-20.dds
 - name: remastered/map/wi03.map/-21.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-21.dds
 - name: remastered/map/wi03.map/-22.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-22.dds
 - name: remastered/map/wi03.map/-23.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-23.dds
 - name: remastered/map/wi03.map/-24.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-24.dds
 - name: remastered/map/wi03.map/-25.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-25.dds
 - name: remastered/map/wi03.map/-26.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-26.dds
 - name: remastered/map/wi03.map/-27.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-27.dds
 - name: remastered/map/wi03.map/-28.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-28.dds
 - name: remastered/map/wi03.map/-29.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-29.dds
 - name: remastered/map/wi03.map/-30.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-30.dds
 - name: remastered/map/wi03.map/-31.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-31.dds
 - name: remastered/map/wi03.map/-32.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-32.dds
 - name: remastered/map/wi03.map/-33.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-33.dds
 - name: remastered/map/wi03.map/-34.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-34.dds
 - name: remastered/map/wi03.map/-35.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-35.dds
 - name: remastered/map/wi03.map/-36.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-36.dds
 - name: remastered/map/wi03.map/-37.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-37.dds
 - name: remastered/map/wi03.map/-38.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-38.dds
 - name: remastered/map/wi03.map/-39.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-39.dds
 - name: remastered/map/wi03.map/-4.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-4.dds
 - name: remastered/map/wi03.map/-40.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-40.dds
 - name: remastered/map/wi03.map/-41.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-41.dds
 - name: remastered/map/wi03.map/-42.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-42.dds
 - name: remastered/map/wi03.map/-43.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-43.dds
 - name: remastered/map/wi03.map/-44.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-44.dds
 - name: remastered/map/wi03.map/-45.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-45.dds
 - name: remastered/map/wi03.map/-46.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-46.dds
 - name: remastered/map/wi03.map/-47.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-47.dds
 - name: remastered/map/wi03.map/-48.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-48.dds
 - name: remastered/map/wi03.map/-49.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-49.dds
 - name: remastered/map/wi03.map/-5.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-5.dds
 - name: remastered/map/wi03.map/-50.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-50.dds
 - name: remastered/map/wi03.map/-51.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-51.dds
 - name: remastered/map/wi03.map/-52.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-52.dds
 - name: remastered/map/wi03.map/-53.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-53.dds
 - name: remastered/map/wi03.map/-54.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-54.dds
 - name: remastered/map/wi03.map/-55.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-55.dds
 - name: remastered/map/wi03.map/-56.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-56.dds
 - name: remastered/map/wi03.map/-57.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-57.dds
 - name: remastered/map/wi03.map/-58.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-58.dds
 - name: remastered/map/wi03.map/-59.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-59.dds
 - name: remastered/map/wi03.map/-6.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-6.dds
 - name: remastered/map/wi03.map/-60.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-60.dds
 - name: remastered/map/wi03.map/-61.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-61.dds
 - name: remastered/map/wi03.map/-62.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-62.dds
 - name: remastered/map/wi03.map/-63.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-63.dds
 - name: remastered/map/wi03.map/-64.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-64.dds
 - name: remastered/map/wi03.map/-65.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-65.dds
 - name: remastered/map/wi03.map/-66.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-66.dds
 - name: remastered/map/wi03.map/-67.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-67.dds
 - name: remastered/map/wi03.map/-68.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-68.dds
 - name: remastered/map/wi03.map/-69.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-69.dds
 - name: remastered/map/wi03.map/-7.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-7.dds
 - name: remastered/map/wi03.map/-70.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-70.dds
 - name: remastered/map/wi03.map/-71.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-71.dds
 - name: remastered/map/wi03.map/-72.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-72.dds
 - name: remastered/map/wi03.map/-73.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-73.dds
 - name: remastered/map/wi03.map/-74.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-74.dds
 - name: remastered/map/wi03.map/-75.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-75.dds
 - name: remastered/map/wi03.map/-76.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-76.dds
 - name: remastered/map/wi03.map/-77.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-77.dds
 - name: remastered/map/wi03.map/-78.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-78.dds
 - name: remastered/map/wi03.map/-79.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-79.dds
 - name: remastered/map/wi03.map/-8.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-8.dds
 - name: remastered/map/wi03.map/-80.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-80.dds
 - name: remastered/map/wi03.map/-81.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-81.dds
 - name: remastered/map/wi03.map/-82.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-82.dds
 - name: remastered/map/wi03.map/-83.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-83.dds
 - name: remastered/map/wi03.map/-84.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-84.dds
 - name: remastered/map/wi03.map/-85.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-85.dds
 - name: remastered/map/wi03.map/-86.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-86.dds
 - name: remastered/map/wi03.map/-87.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-87.dds
 - name: remastered/map/wi03.map/-88.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-88.dds
 - name: remastered/map/wi03.map/-89.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-89.dds
 - name: remastered/map/wi03.map/-9.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-9.dds
 - name: remastered/map/wi03.map/-90.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-90.dds
 - name: remastered/map/wi03.map/-92.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-92.dds
 - name: remastered/map/wi03.map/-93.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-93.dds
 - name: remastered/map/wi03.map/-94.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-94.dds
 - name: remastered/map/wi03.map/-95.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-95.dds
 - name: remastered/map/wi03.map/-96.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-96.dds
 - name: remastered/map/wi03.map/-97.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-97.dds
 - name: remastered/map/wi03.map/-98.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-98.dds
 - name: remastered/map/wi03.map/-99.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi03.map/-99.dds
@@ -1136,210 +1401,262 @@ assets:
 ###Lilliput###
 ###wi04.map###
 - name: remastered/map/wi04.map/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-0.dds
 - name: remastered/map/wi04.map/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-1.dds
 - name: remastered/map/wi04.map/-12.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-12.dds
 - name: remastered/map/wi04.map/-13.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-13.dds
 - name: remastered/map/wi04.map/-14.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-14.dds
 - name: remastered/map/wi04.map/-15.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-15.dds
 - name: remastered/map/wi04.map/-16.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-16.dds
 - name: remastered/map/wi04.map/-17.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-17.dds
 - name: remastered/map/wi04.map/-18.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-18.dds
 - name: remastered/map/wi04.map/-19.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-19.dds
 - name: remastered/map/wi04.map/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-2.dds
 - name: remastered/map/wi04.map/-20.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-20.dds
 - name: remastered/map/wi04.map/-21.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-21.dds
 - name: remastered/map/wi04.map/-22.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-22.dds
 - name: remastered/map/wi04.map/-23.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-23.dds
 - name: remastered/map/wi04.map/-24.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-24.dds
 - name: remastered/map/wi04.map/-25.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-25.dds
 - name: remastered/map/wi04.map/-26.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-26.dds
 - name: remastered/map/wi04.map/-27.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-27.dds
 - name: remastered/map/wi04.map/-28.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-28.dds
 - name: remastered/map/wi04.map/-29.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-29.dds
 - name: remastered/map/wi04.map/-3.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-3.dds
 - name: remastered/map/wi04.map/-30.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-30.dds
 - name: remastered/map/wi04.map/-31.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-31.dds
 - name: remastered/map/wi04.map/-32.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-32.dds
 - name: remastered/map/wi04.map/-33.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-33.dds
 - name: remastered/map/wi04.map/-34.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-34.dds
 - name: remastered/map/wi04.map/-35.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-35.dds
 - name: remastered/map/wi04.map/-36.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-36.dds
 - name: remastered/map/wi04.map/-37.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-37.dds
 - name: remastered/map/wi04.map/-38.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-38.dds
 - name: remastered/map/wi04.map/-39.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-39.dds
 - name: remastered/map/wi04.map/-40.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-40.dds
 - name: remastered/map/wi04.map/-41.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-41.dds
 - name: remastered/map/wi04.map/-42.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-42.dds
 - name: remastered/map/wi04.map/-43.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-43.dds
 - name: remastered/map/wi04.map/-44.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-44.dds
 - name: remastered/map/wi04.map/-47.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-47.dds
 - name: remastered/map/wi04.map/-48.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-48.dds
 - name: remastered/map/wi04.map/-49.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-49.dds
 - name: remastered/map/wi04.map/-50.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-50.dds
 - name: remastered/map/wi04.map/-51.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-51.dds
 - name: remastered/map/wi04.map/-52.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-52.dds
 - name: remastered/map/wi04.map/-56.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-56.dds
 - name: remastered/map/wi04.map/-57.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-57.dds
 - name: remastered/map/wi04.map/-58.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-58.dds
 - name: remastered/map/wi04.map/-62.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-62.dds
 - name: remastered/map/wi04.map/-63.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-63.dds
 - name: remastered/map/wi04.map/-64.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-64.dds
 - name: remastered/map/wi04.map/-68.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-68.dds
 - name: remastered/map/wi04.map/-7.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-7.dds
 - name: remastered/map/wi04.map/-9.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi04.map/-9.dds
@@ -1348,250 +1665,312 @@ assets:
 ###Building Site###
 ###wi05.map###
 - name: remastered/map/wi05.map/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-0.dds
 - name: remastered/map/wi05.map/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-1.dds
 - name: remastered/map/wi05.map/-10.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-10.dds
 - name: remastered/map/wi05.map/-11.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-11.dds
 - name: remastered/map/wi05.map/-12.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-12.dds
 - name: remastered/map/wi05.map/-13.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-13.dds
 - name: remastered/map/wi05.map/-14.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-14.dds
 - name: remastered/map/wi05.map/-15.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-15.dds
 - name: remastered/map/wi05.map/-16.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-16.dds
 - name: remastered/map/wi05.map/-17.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-17.dds
 - name: remastered/map/wi05.map/-18.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-18.dds
 - name: remastered/map/wi05.map/-19.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-19.dds
 - name: remastered/map/wi05.map/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-2.dds
 - name: remastered/map/wi05.map/-20.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-20.dds
 - name: remastered/map/wi05.map/-21.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-21.dds
 - name: remastered/map/wi05.map/-22.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-22.dds
 - name: remastered/map/wi05.map/-23.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-23.dds
 - name: remastered/map/wi05.map/-24.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-24.dds
 - name: remastered/map/wi05.map/-25.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-25.dds
 - name: remastered/map/wi05.map/-26.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-26.dds
 - name: remastered/map/wi05.map/-27.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-27.dds
 - name: remastered/map/wi05.map/-28.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-28.dds
 - name: remastered/map/wi05.map/-29.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-29.dds
 - name: remastered/map/wi05.map/-3.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-3.dds
 - name: remastered/map/wi05.map/-30.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-30.dds
 - name: remastered/map/wi05.map/-31.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-31.dds
 - name: remastered/map/wi05.map/-32.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-32.dds
 - name: remastered/map/wi05.map/-33.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-33.dds
 - name: remastered/map/wi05.map/-34.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-34.dds
 - name: remastered/map/wi05.map/-35.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-35.dds
 - name: remastered/map/wi05.map/-36.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-36.dds
 - name: remastered/map/wi05.map/-37.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-37.dds
 - name: remastered/map/wi05.map/-38.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-38.dds
 - name: remastered/map/wi05.map/-39.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-39.dds
 - name: remastered/map/wi05.map/-40.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-40.dds
 - name: remastered/map/wi05.map/-41.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-41.dds
 - name: remastered/map/wi05.map/-42.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-42.dds
 - name: remastered/map/wi05.map/-43.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-43.dds
 - name: remastered/map/wi05.map/-44.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-44.dds
 - name: remastered/map/wi05.map/-45.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-45.dds
 - name: remastered/map/wi05.map/-46.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-46.dds
 - name: remastered/map/wi05.map/-47.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-47.dds
 - name: remastered/map/wi05.map/-48.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-48.dds
 - name: remastered/map/wi05.map/-49.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-49.dds
 - name: remastered/map/wi05.map/-5.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-5.dds
 - name: remastered/map/wi05.map/-50.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-50.dds
 - name: remastered/map/wi05.map/-51.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-51.dds
 - name: remastered/map/wi05.map/-52.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-52.dds
 - name: remastered/map/wi05.map/-53.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-53.dds
 - name: remastered/map/wi05.map/-54.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-54.dds
 - name: remastered/map/wi05.map/-55.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-55.dds
 - name: remastered/map/wi05.map/-56.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-56.dds
 - name: remastered/map/wi05.map/-57.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-57.dds
 - name: remastered/map/wi05.map/-58.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-58.dds
 - name: remastered/map/wi05.map/-6.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-6.dds
 - name: remastered/map/wi05.map/-62.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-62.dds
 - name: remastered/map/wi05.map/-63.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-63.dds
 - name: remastered/map/wi05.map/-64.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-64.dds
 - name: remastered/map/wi05.map/-68.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-68.dds
 - name: remastered/map/wi05.map/-7.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-7.dds
 - name: remastered/map/wi05.map/-8.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-8.dds
 - name: remastered/map/wi05.map/-9.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi05.map/-9.dds
@@ -1600,358 +1979,447 @@ assets:
 ###Scene of the Fire###
 ###wi06.map###
 - name: remastered/map/wi06.map/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-0.dds
 - name: remastered/map/wi06.map/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-1.dds
 - name: remastered/map/wi06.map/-10.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-10.dds
 - name: remastered/map/wi06.map/-11.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-11.dds
 - name: remastered/map/wi06.map/-12.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-12.dds
 - name: remastered/map/wi06.map/-13.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-13.dds
 - name: remastered/map/wi06.map/-14.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-14.dds
 - name: remastered/map/wi06.map/-15.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-15.dds
 - name: remastered/map/wi06.map/-16.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-16.dds
 - name: remastered/map/wi06.map/-17.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-17.dds
 - name: remastered/map/wi06.map/-18.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-18.dds
 - name: remastered/map/wi06.map/-19.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-19.dds
 - name: remastered/map/wi06.map/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-2.dds
 - name: remastered/map/wi06.map/-20.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-20.dds
 - name: remastered/map/wi06.map/-21.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-21.dds
 - name: remastered/map/wi06.map/-22.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-22.dds
 - name: remastered/map/wi06.map/-23.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-23.dds
 - name: remastered/map/wi06.map/-24.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-24.dds
 - name: remastered/map/wi06.map/-25.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-25.dds
 - name: remastered/map/wi06.map/-26.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-26.dds
 - name: remastered/map/wi06.map/-27.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-27.dds
 - name: remastered/map/wi06.map/-28.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-28.dds
 - name: remastered/map/wi06.map/-29.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-29.dds
 - name: remastered/map/wi06.map/-3.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-3.dds
 - name: remastered/map/wi06.map/-30.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-30.dds
 - name: remastered/map/wi06.map/-31.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-31.dds
 - name: remastered/map/wi06.map/-32.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-32.dds
 - name: remastered/map/wi06.map/-33.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-33.dds
 - name: remastered/map/wi06.map/-34.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-34.dds
 - name: remastered/map/wi06.map/-35.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-35.dds
 - name: remastered/map/wi06.map/-36.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-36.dds
 - name: remastered/map/wi06.map/-37.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-37.dds
 - name: remastered/map/wi06.map/-38.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-38.dds
 - name: remastered/map/wi06.map/-39.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-39.dds
 - name: remastered/map/wi06.map/-4.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-4.dds
 - name: remastered/map/wi06.map/-40.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-40.dds
 - name: remastered/map/wi06.map/-41.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-41.dds
 - name: remastered/map/wi06.map/-42.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-42.dds
 - name: remastered/map/wi06.map/-43.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-43.dds
 - name: remastered/map/wi06.map/-44.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-44.dds
 - name: remastered/map/wi06.map/-45.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-45.dds
 - name: remastered/map/wi06.map/-46.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-46.dds
 - name: remastered/map/wi06.map/-47.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-47.dds
 - name: remastered/map/wi06.map/-48.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-48.dds
 - name: remastered/map/wi06.map/-49.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-49.dds
 - name: remastered/map/wi06.map/-5.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-5.dds
 - name: remastered/map/wi06.map/-50.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-50.dds
 - name: remastered/map/wi06.map/-51.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-51.dds
 - name: remastered/map/wi06.map/-52.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-52.dds
 - name: remastered/map/wi06.map/-53.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-53.dds
 - name: remastered/map/wi06.map/-54.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-54.dds
 - name: remastered/map/wi06.map/-55.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-55.dds
 - name: remastered/map/wi06.map/-56.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-56.dds
 - name: remastered/map/wi06.map/-57.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-57.dds
 - name: remastered/map/wi06.map/-58.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-58.dds
 - name: remastered/map/wi06.map/-59.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-59.dds
 - name: remastered/map/wi06.map/-6.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-6.dds
 - name: remastered/map/wi06.map/-60.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-60.dds
 - name: remastered/map/wi06.map/-61.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-61.dds
 - name: remastered/map/wi06.map/-62.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-62.dds
 - name: remastered/map/wi06.map/-63.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-63.dds
 - name: remastered/map/wi06.map/-64.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-64.dds
 - name: remastered/map/wi06.map/-65.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-65.dds
 - name: remastered/map/wi06.map/-66.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-66.dds
 - name: remastered/map/wi06.map/-67.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-67.dds
 - name: remastered/map/wi06.map/-68.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-68.dds
 - name: remastered/map/wi06.map/-69.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-69.dds
 - name: remastered/map/wi06.map/-7.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-7.dds
 - name: remastered/map/wi06.map/-70.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-70.dds
 - name: remastered/map/wi06.map/-71.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-71.dds
 - name: remastered/map/wi06.map/-72.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-72.dds
 - name: remastered/map/wi06.map/-73.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-73.dds
 - name: remastered/map/wi06.map/-74.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-74.dds
 - name: remastered/map/wi06.map/-75.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-75.dds
 - name: remastered/map/wi06.map/-76.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-76.dds
 - name: remastered/map/wi06.map/-77.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-77.dds
 - name: remastered/map/wi06.map/-78.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-78.dds
 - name: remastered/map/wi06.map/-79.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-79.dds
 - name: remastered/map/wi06.map/-8.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-8.dds
 - name: remastered/map/wi06.map/-81.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-81.dds
 - name: remastered/map/wi06.map/-82.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-82.dds
 - name: remastered/map/wi06.map/-86.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-86.dds
 - name: remastered/map/wi06.map/-87.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-87.dds
 - name: remastered/map/wi06.map/-88.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-88.dds
 - name: remastered/map/wi06.map/-9.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-9.dds
 - name: remastered/map/wi06.map/-92.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-92.dds
 - name: remastered/map/wi06.map/-93.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-93.dds
 - name: remastered/map/wi06.map/-94.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-94.dds
 - name: remastered/map/wi06.map/-98.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi06.map/-98.dds
@@ -1960,290 +2428,362 @@ assets:
 ###Mickey's House###
 ###wi07.map###
 - name: remastered/map/wi07.map/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-0.dds
 - name: remastered/map/wi07.map/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-1.dds
 - name: remastered/map/wi07.map/-10.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-10.dds
 - name: remastered/map/wi07.map/-11.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-11.dds
 - name: remastered/map/wi07.map/-12.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-12.dds
 - name: remastered/map/wi07.map/-13.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-13.dds
 - name: remastered/map/wi07.map/-14.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-14.dds
 - name: remastered/map/wi07.map/-15.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-15.dds
 - name: remastered/map/wi07.map/-16.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-16.dds
 - name: remastered/map/wi07.map/-17.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-17.dds
 - name: remastered/map/wi07.map/-18.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-18.dds
 - name: remastered/map/wi07.map/-19.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-19.dds
 - name: remastered/map/wi07.map/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-2.dds
 - name: remastered/map/wi07.map/-20.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-20.dds
 - name: remastered/map/wi07.map/-21.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-21.dds
 - name: remastered/map/wi07.map/-22.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-22.dds
 - name: remastered/map/wi07.map/-23.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-23.dds
 - name: remastered/map/wi07.map/-24.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-24.dds
 - name: remastered/map/wi07.map/-25.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-25.dds
 - name: remastered/map/wi07.map/-26.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-26.dds
 - name: remastered/map/wi07.map/-27.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-27.dds
 - name: remastered/map/wi07.map/-28.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-28.dds
 - name: remastered/map/wi07.map/-29.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-29.dds
 - name: remastered/map/wi07.map/-3.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-3.dds
 - name: remastered/map/wi07.map/-30.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-30.dds
 - name: remastered/map/wi07.map/-32.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-32.dds
 - name: remastered/map/wi07.map/-33.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-33.dds
 - name: remastered/map/wi07.map/-34.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-34.dds
 - name: remastered/map/wi07.map/-35.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-35.dds
 - name: remastered/map/wi07.map/-36.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-36.dds
 - name: remastered/map/wi07.map/-37.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-37.dds
 - name: remastered/map/wi07.map/-38.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-38.dds
 - name: remastered/map/wi07.map/-39.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-39.dds
 - name: remastered/map/wi07.map/-4.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-4.dds
 - name: remastered/map/wi07.map/-40.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-40.dds
 - name: remastered/map/wi07.map/-41.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-41.dds
 - name: remastered/map/wi07.map/-42.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-42.dds
 - name: remastered/map/wi07.map/-43.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-43.dds
 - name: remastered/map/wi07.map/-44.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-44.dds
 - name: remastered/map/wi07.map/-45.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-45.dds
 - name: remastered/map/wi07.map/-46.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-46.dds
 - name: remastered/map/wi07.map/-47.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-47.dds
 - name: remastered/map/wi07.map/-48.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-48.dds
 - name: remastered/map/wi07.map/-49.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-49.dds
 - name: remastered/map/wi07.map/-5.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-5.dds
 - name: remastered/map/wi07.map/-50.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-50.dds
 - name: remastered/map/wi07.map/-51.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-51.dds
 - name: remastered/map/wi07.map/-52.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-52.dds
 - name: remastered/map/wi07.map/-53.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-53.dds
 - name: remastered/map/wi07.map/-54.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-54.dds
 - name: remastered/map/wi07.map/-55.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-55.dds
 - name: remastered/map/wi07.map/-56.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-56.dds
 - name: remastered/map/wi07.map/-57.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-57.dds
 - name: remastered/map/wi07.map/-58.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-58.dds
 - name: remastered/map/wi07.map/-59.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-59.dds
 - name: remastered/map/wi07.map/-6.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-6.dds
 - name: remastered/map/wi07.map/-60.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-60.dds
 - name: remastered/map/wi07.map/-61.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-61.dds
 - name: remastered/map/wi07.map/-62.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-62.dds
 - name: remastered/map/wi07.map/-63.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-63.dds
 - name: remastered/map/wi07.map/-64.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-64.dds
 - name: remastered/map/wi07.map/-66.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-66.dds
 - name: remastered/map/wi07.map/-67.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-67.dds
 - name: remastered/map/wi07.map/-7.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-7.dds
 - name: remastered/map/wi07.map/-71.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-71.dds
 - name: remastered/map/wi07.map/-72.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-72.dds
 - name: remastered/map/wi07.map/-73.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-73.dds
 - name: remastered/map/wi07.map/-77.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-77.dds
 - name: remastered/map/wi07.map/-78.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-78.dds
 - name: remastered/map/wi07.map/-79.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-79.dds
 - name: remastered/map/wi07.map/-8.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-8.dds
 - name: remastered/map/wi07.map/-9.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/map/wi07.map/-9.dds
@@ -2255,98 +2795,119 @@ assets:
 
 ###Chest###
 - name: remastered/obj/F_EX030_WI.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_EX030_WI.mdlx/-0.dds
 - name: remastered/obj/F_EX040_WI.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_EX040_WI.mdlx/-0.dds
 
 ###Skateboard###
 - name: remastered/obj/F_TT010_WI.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_TT010_WI.mdlx/-0.dds
 
 ###Fire? Smoke? Sparkle?###
 - name: remastered/obj/F_WI000.a.us/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI000.a.us/-0.dds
 
 ###Fire? Smoke? Sparkle?###
 - name: remastered/obj/F_WI010.a.us/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI010.a.us/-0.dds
 
 ###Fire? Smoke? Sparkle?###
 - name: remastered/obj/F_WI010_BOSS.a.us/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI010_BOSS.a.us/-0.dds
 
 ###Fire? Smoke? Sparkle?###
 - name: remastered/obj/F_WI020.a.us/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020.a.us/-0.dds
 
 ###Building###
 - name: remastered/obj/F_WI020.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020.mdlx/-0.dds
 - name: remastered/obj/F_WI020.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020.mdlx/-1.dds
 - name: remastered/obj/F_WI020.mdlx/-10.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020.mdlx/-10.dds
 - name: remastered/obj/F_WI020.mdlx/-11.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020.mdlx/-11.dds
 - name: remastered/obj/F_WI020.mdlx/-12.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020.mdlx/-12.dds
 - name: remastered/obj/F_WI020.mdlx/-13.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020.mdlx/-13.dds
 - name: remastered/obj/F_WI020.mdlx/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020.mdlx/-2.dds
 - name: remastered/obj/F_WI020.mdlx/-3.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020.mdlx/-3.dds
 - name: remastered/obj/F_WI020.mdlx/-4.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020.mdlx/-4.dds
 - name: remastered/obj/F_WI020.mdlx/-5.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020.mdlx/-5.dds
 - name: remastered/obj/F_WI020.mdlx/-6.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020.mdlx/-6.dds
 - name: remastered/obj/F_WI020.mdlx/-7.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020.mdlx/-7.dds
 - name: remastered/obj/F_WI020.mdlx/-8.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020.mdlx/-8.dds
 - name: remastered/obj/F_WI020.mdlx/-9.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020.mdlx/-9.dds
@@ -2354,6 +2915,7 @@ assets:
 
 ###Fire? Smoke? Sparkle?###
 - name: remastered/obj/F_WI020_BOSS.a.us/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020_BOSS.a.us/-0.dds
@@ -2361,58 +2923,72 @@ assets:
 
 ###Building###
 - name: remastered/obj/F_WI020_BOSS.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020_BOSS.mdlx/-0.dds
 - name: remastered/obj/F_WI020_BOSS.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020_BOSS.mdlx/-1.dds
 - name: remastered/obj/F_WI020_BOSS.mdlx/-10.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020_BOSS.mdlx/-10.dds
 - name: remastered/obj/F_WI020_BOSS.mdlx/-11.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020_BOSS.mdlx/-11.dds
 - name: remastered/obj/F_WI020_BOSS.mdlx/-12.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020_BOSS.mdlx/-12.dds
 - name: remastered/obj/F_WI020_BOSS.mdlx/-13.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020_BOSS.mdlx/-13.dds
 - name: remastered/obj/F_WI020_BOSS.mdlx/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020_BOSS.mdlx/-2.dds
 - name: remastered/obj/F_WI020_BOSS.mdlx/-3.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020_BOSS.mdlx/-3.dds
 - name: remastered/obj/F_WI020_BOSS.mdlx/-4.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020_BOSS.mdlx/-4.dds
 - name: remastered/obj/F_WI020_BOSS.mdlx/-5.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020_BOSS.mdlx/-5.dds
 - name: remastered/obj/F_WI020_BOSS.mdlx/-6.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020_BOSS.mdlx/-6.dds
 - name: remastered/obj/F_WI020_BOSS.mdlx/-7.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020_BOSS.mdlx/-7.dds
 - name: remastered/obj/F_WI020_BOSS.mdlx/-8.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020_BOSS.mdlx/-8.dds
 - name: remastered/obj/F_WI020_BOSS.mdlx/-9.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020_BOSS.mdlx/-9.dds
@@ -2420,58 +2996,72 @@ assets:
 
 ###Building###
 - name: remastered/obj/F_WI020_BTL.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020_BTL.mdlx/-0.dds
 - name: remastered/obj/F_WI020_BTL.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020_BTL.mdlx/-1.dds
 - name: remastered/obj/F_WI020_BTL.mdlx/-10.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020_BTL.mdlx/-10.dds
 - name: remastered/obj/F_WI020_BTL.mdlx/-11.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020_BTL.mdlx/-11.dds
 - name: remastered/obj/F_WI020_BTL.mdlx/-12.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020_BTL.mdlx/-12.dds
 - name: remastered/obj/F_WI020_BTL.mdlx/-13.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020_BTL.mdlx/-13.dds
 - name: remastered/obj/F_WI020_BTL.mdlx/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020_BTL.mdlx/-2.dds
 - name: remastered/obj/F_WI020_BTL.mdlx/-3.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020_BTL.mdlx/-3.dds
 - name: remastered/obj/F_WI020_BTL.mdlx/-4.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020_BTL.mdlx/-4.dds
 - name: remastered/obj/F_WI020_BTL.mdlx/-5.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020_BTL.mdlx/-5.dds
 - name: remastered/obj/F_WI020_BTL.mdlx/-6.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020_BTL.mdlx/-6.dds
 - name: remastered/obj/F_WI020_BTL.mdlx/-7.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020_BTL.mdlx/-7.dds
 - name: remastered/obj/F_WI020_BTL.mdlx/-8.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020_BTL.mdlx/-8.dds
 - name: remastered/obj/F_WI020_BTL.mdlx/-9.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI020_BTL.mdlx/-9.dds
@@ -2479,10 +3069,12 @@ assets:
 
 ###Cannon Tower###
 - name: remastered/obj/F_WI060.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI060.mdlx/-0.dds
 - name: remastered/obj/F_WI060.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI060.mdlx/-1.dds
@@ -2491,10 +3083,12 @@ assets:
 
 ###Cannon Tower###
 - name: remastered/obj/F_WI060_PETE.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI060_PETE.mdlx/-0.dds
 - name: remastered/obj/F_WI060_PETE.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI060_PETE.mdlx/-1.dds
@@ -2502,12 +3096,14 @@ assets:
 
 ###Toys###
 - name: remastered/obj/F_WI070.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI070.mdlx/-0.dds
 
 ###Toys###
 - name: remastered/obj/F_WI080.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI080.mdlx/-0.dds
@@ -2515,10 +3111,12 @@ assets:
 
 ###Couch###
 - name: remastered/obj/F_WI090.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI090.mdlx/-0.dds
 - name: remastered/obj/F_WI090.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI090.mdlx/-1.dds
@@ -2526,6 +3124,7 @@ assets:
 
 ###Wood Furniture###
 - name: remastered/obj/F_WI100.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI100.mdlx/-0.dds
@@ -2533,6 +3132,7 @@ assets:
 
 ###Wood Furniture###
 - name: remastered/obj/F_WI110.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI110.mdlx/-0.dds
@@ -2540,6 +3140,7 @@ assets:
 
 ###Piano###
 - name: remastered/obj/F_WI120.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI120.mdlx/-0.dds
@@ -2547,10 +3148,12 @@ assets:
 
 ###Wood Dresser###
 - name: remastered/obj/F_WI130.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI130.mdlx/-0.dds
 - name: remastered/obj/F_WI130.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI130.mdlx/-1.dds
@@ -2558,10 +3161,12 @@ assets:
 
 ###Wood Furniture (With books)###
 - name: remastered/obj/F_WI140.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI140.mdlx/-0.dds
 - name: remastered/obj/F_WI140.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI140.mdlx/-1.dds
@@ -2569,6 +3174,7 @@ assets:
 
 ###Wood Furniture###
 - name: remastered/obj/F_WI150.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI150.mdlx/-0.dds
@@ -2576,6 +3182,7 @@ assets:
 
 ###Light Fixtures###
 - name: remastered/obj/F_WI160.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI160.mdlx/-0.dds
@@ -2583,10 +3190,12 @@ assets:
 
 ###Fireplace###
 - name: remastered/obj/F_WI170.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI170.mdlx/-0.dds
 - name: remastered/obj/F_WI170.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI170.mdlx/-1.dds
@@ -2594,10 +3203,12 @@ assets:
 
 ###Fireplace###
 - name: remastered/obj/F_WI180.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI180.mdlx/-0.dds
 - name: remastered/obj/F_WI180.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI180.mdlx/-1.dds
@@ -2605,6 +3216,7 @@ assets:
 
 ###Train###
 - name: remastered/obj/F_WI190.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI190.mdlx/-0.dds
@@ -2612,6 +3224,7 @@ assets:
 
 ###Wood Furniture###
 - name: remastered/obj/F_WI200.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI200.mdlx/-0.dds
@@ -2619,6 +3232,7 @@ assets:
 
 ###Clothes###
 - name: remastered/obj/F_WI210.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI210.mdlx/-0.dds
@@ -2626,22 +3240,27 @@ assets:
 
 ###Furniture###
 - name: remastered/obj/F_WI210.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI210.mdlx/-1.dds
 - name: remastered/obj/F_WI210.mdlx/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI210.mdlx/-2.dds
 - name: remastered/obj/F_WI220.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI220.mdlx/-0.dds
 - name: remastered/obj/F_WI220.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI220.mdlx/-1.dds
 - name: remastered/obj/F_WI220.mdlx/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI220.mdlx/-2.dds
@@ -2649,10 +3268,12 @@ assets:
 
 ###Moose Head Trophy###
 - name: remastered/obj/F_WI230.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI230.mdlx/-0.dds
 - name: remastered/obj/F_WI230.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI230.mdlx/-1.dds
@@ -2660,6 +3281,7 @@ assets:
 
 ###Wall Lamp###
 - name: remastered/obj/F_WI240.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI240.mdlx/-0.dds
@@ -2667,10 +3289,12 @@ assets:
 
 ###Christmas Tree###
 - name: remastered/obj/F_WI250.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI250.mdlx/-0.dds
 - name: remastered/obj/F_WI250.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI250.mdlx/-1.dds
@@ -2678,10 +3302,12 @@ assets:
 
 ###Wood Furniture###
 - name: remastered/obj/F_WI260.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI260.mdlx/-0.dds
 - name: remastered/obj/F_WI260.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI260.mdlx/-1.dds
@@ -2689,10 +3315,12 @@ assets:
 
 ###Wood Furniture with Books###
 - name: remastered/obj/F_WI270.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI270.mdlx/-0.dds
 - name: remastered/obj/F_WI270.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI270.mdlx/-1.dds
@@ -2700,6 +3328,7 @@ assets:
 
 ###Wood Furniture###
 - name: remastered/obj/F_WI280.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI280.mdlx/-0.dds
@@ -2707,6 +3336,7 @@ assets:
 
 ###Painting###
 - name: remastered/obj/F_WI290.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI290.mdlx/-0.dds
@@ -2714,6 +3344,7 @@ assets:
 
 ###Wood Furniture###
 - name: remastered/obj/F_WI300.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI300.mdlx/-0.dds
@@ -2721,6 +3352,7 @@ assets:
 
 ###Houses###
 - name: remastered/obj/F_WI320.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI320.mdlx/-0.dds
@@ -2728,6 +3360,7 @@ assets:
 
 ###Houses###
 - name: remastered/obj/F_WI330.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI330.mdlx/-0.dds
@@ -2735,6 +3368,7 @@ assets:
 
 ###Houses###
 - name: remastered/obj/F_WI340.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI340.mdlx/-0.dds
@@ -2742,6 +3376,7 @@ assets:
 
 ###Houses###
 - name: remastered/obj/F_WI350.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI350.mdlx/-0.dds
@@ -2750,22 +3385,27 @@ assets:
 
 ###Building Site Platform###
 - name: remastered/obj/F_WI360.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI360.mdlx/-0.dds
 - name: remastered/obj/F_WI360.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI360.mdlx/-1.dds
 - name: remastered/obj/F_WI360.mdlx/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI360.mdlx/-2.dds
 - name: remastered/obj/F_WI360.mdlx/-3.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI360.mdlx/-3.dds
 - name: remastered/obj/F_WI360.mdlx/-4.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI360.mdlx/-4.dds
@@ -2773,22 +3413,27 @@ assets:
 
 ###Building Site Platform###
 - name: remastered/obj/F_WI360_PETE.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI360_PETE.mdlx/-0.dds
 - name: remastered/obj/F_WI360_PETE.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI360_PETE.mdlx/-1.dds
 - name: remastered/obj/F_WI360_PETE.mdlx/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI360_PETE.mdlx/-2.dds
 - name: remastered/obj/F_WI360_PETE.mdlx/-3.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI360_PETE.mdlx/-3.dds
 - name: remastered/obj/F_WI360_PETE.mdlx/-4.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI360_PETE.mdlx/-4.dds
@@ -2796,50 +3441,62 @@ assets:
 
 ###Steamboat
 - name: remastered/obj/F_WI380.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI380.mdlx/-0.dds
 - name: remastered/obj/F_WI380.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI380.mdlx/-1.dds
 - name: remastered/obj/F_WI380.mdlx/-10.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI380.mdlx/-10.dds
 - name: remastered/obj/F_WI380.mdlx/-11.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI380.mdlx/-11.dds
 - name: remastered/obj/F_WI380.mdlx/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI380.mdlx/-2.dds
 - name: remastered/obj/F_WI380.mdlx/-3.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI380.mdlx/-3.dds
 - name: remastered/obj/F_WI380.mdlx/-4.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI380.mdlx/-4.dds
 - name: remastered/obj/F_WI380.mdlx/-5.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI380.mdlx/-5.dds
 - name: remastered/obj/F_WI380.mdlx/-6.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI380.mdlx/-6.dds
 - name: remastered/obj/F_WI380.mdlx/-7.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI380.mdlx/-7.dds
 - name: remastered/obj/F_WI380.mdlx/-8.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI380.mdlx/-8.dds
 - name: remastered/obj/F_WI380.mdlx/-9.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI380.mdlx/-9.dds
@@ -2847,50 +3504,62 @@ assets:
 
 ###Steamboat###
 - name: remastered/obj/F_WI380_RTN.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI380_RTN.mdlx/-0.dds
 - name: remastered/obj/F_WI380_RTN.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI380_RTN.mdlx/-1.dds
 - name: remastered/obj/F_WI380_RTN.mdlx/-10.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI380_RTN.mdlx/-10.dds
 - name: remastered/obj/F_WI380_RTN.mdlx/-11.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI380_RTN.mdlx/-11.dds
 - name: remastered/obj/F_WI380_RTN.mdlx/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI380_RTN.mdlx/-2.dds
 - name: remastered/obj/F_WI380_RTN.mdlx/-3.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI380_RTN.mdlx/-3.dds
 - name: remastered/obj/F_WI380_RTN.mdlx/-4.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI380_RTN.mdlx/-4.dds
 - name: remastered/obj/F_WI380_RTN.mdlx/-5.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI380_RTN.mdlx/-5.dds
 - name: remastered/obj/F_WI380_RTN.mdlx/-6.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI380_RTN.mdlx/-6.dds
 - name: remastered/obj/F_WI380_RTN.mdlx/-7.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI380_RTN.mdlx/-7.dds
 - name: remastered/obj/F_WI380_RTN.mdlx/-8.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI380_RTN.mdlx/-8.dds
 - name: remastered/obj/F_WI380_RTN.mdlx/-9.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI380_RTN.mdlx/-9.dds
@@ -2898,18 +3567,22 @@ assets:
 
 ###Steamboat Hook###
 - name: remastered/obj/F_WI390.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI390.mdlx/-0.dds
 - name: remastered/obj/F_WI390.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI390.mdlx/-1.dds
 - name: remastered/obj/F_WI390_RTN.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI390_RTN.mdlx/-0.dds
 - name: remastered/obj/F_WI390_RTN.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI390_RTN.mdlx/-1.dds
@@ -2918,6 +3591,7 @@ assets:
 
 ###Box###
 - name: remastered/obj/F_WI400.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI400.mdlx/-0.dds
@@ -2925,12 +3599,14 @@ assets:
 
 ###Barrell###
 - name: remastered/obj/F_WI410.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI410.mdlx/-0.dds
 
 ###Pan###
 - name: remastered/obj/F_WI420.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI420.mdlx/-0.dds
@@ -2938,10 +3614,12 @@ assets:
 
 ###Door###
 - name: remastered/obj/F_WI500.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI500.mdlx/-0.dds
 - name: remastered/obj/F_WI500.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI500.mdlx/-1.dds
@@ -2949,14 +3627,17 @@ assets:
 
 ###Theater Window###
 - name: remastered/obj/F_WI510.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI510.mdlx/-0.dds
 - name: remastered/obj/F_WI510.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI510.mdlx/-1.dds
 - name: remastered/obj/F_WI510.mdlx/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI510.mdlx/-2.dds
@@ -2965,14 +3646,17 @@ assets:
 
 ###Theater Window###
 - name: remastered/obj/F_WI511.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI511.mdlx/-0.dds
 - name: remastered/obj/F_WI511.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI511.mdlx/-1.dds
 - name: remastered/obj/F_WI511.mdlx/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI511.mdlx/-2.dds
@@ -2981,14 +3665,17 @@ assets:
 
 ###Theater Window###
 - name: remastered/obj/F_WI512.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI512.mdlx/-0.dds
 - name: remastered/obj/F_WI512.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI512.mdlx/-1.dds
 - name: remastered/obj/F_WI512.mdlx/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI512.mdlx/-2.dds
@@ -2996,14 +3683,17 @@ assets:
 
 ###Theater Window###
 - name: remastered/obj/F_WI513.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI513.mdlx/-0.dds
 - name: remastered/obj/F_WI513.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI513.mdlx/-1.dds
 - name: remastered/obj/F_WI513.mdlx/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI513.mdlx/-2.dds
@@ -3011,14 +3701,17 @@ assets:
 
 ###Large Theater Window###
 - name: remastered/obj/F_WI520.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI520.mdlx/-0.dds
 - name: remastered/obj/F_WI520.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI520.mdlx/-1.dds
 - name: remastered/obj/F_WI520.mdlx/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI520.mdlx/-2.dds
@@ -3026,22 +3719,27 @@ assets:
 
 ###Steamboat###
 - name: remastered/obj/F_WI530.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI530.mdlx/-0.dds
 - name: remastered/obj/F_WI530.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI530.mdlx/-1.dds
 - name: remastered/obj/F_WI530.mdlx/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI530.mdlx/-2.dds
 - name: remastered/obj/F_WI530.mdlx/-3.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI530.mdlx/-3.dds
 - name: remastered/obj/F_WI530.mdlx/-4.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI530.mdlx/-4.dds
@@ -3049,14 +3747,17 @@ assets:
 
 ###Pete's Door###
 - name: remastered/obj/F_WI550.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI550.mdlx/-0.dds
 - name: remastered/obj/F_WI550.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI550.mdlx/-1.dds
 - name: remastered/obj/F_WI550.mdlx/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI550.mdlx/-2.dds
@@ -3064,50 +3765,62 @@ assets:
 
 ###Cannon Tower###
 - name: remastered/obj/F_WI560.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI560.mdlx/-0.dds
 - name: remastered/obj/F_WI560.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI560.mdlx/-1.dds
 - name: remastered/obj/F_WI560.mdlx/-10.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI560.mdlx/-10.dds
 - name: remastered/obj/F_WI560.mdlx/-11.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI560.mdlx/-11.dds
 - name: remastered/obj/F_WI560.mdlx/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI560.mdlx/-2.dds
 - name: remastered/obj/F_WI560.mdlx/-3.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI560.mdlx/-3.dds
 - name: remastered/obj/F_WI560.mdlx/-4.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI560.mdlx/-4.dds
 - name: remastered/obj/F_WI560.mdlx/-5.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI560.mdlx/-5.dds
 - name: remastered/obj/F_WI560.mdlx/-6.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI560.mdlx/-6.dds
 - name: remastered/obj/F_WI560.mdlx/-7.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI560.mdlx/-7.dds
 - name: remastered/obj/F_WI560.mdlx/-8.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI560.mdlx/-8.dds
 - name: remastered/obj/F_WI560.mdlx/-9.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI560.mdlx/-9.dds
@@ -3115,6 +3828,7 @@ assets:
 
 ###Rope###
 - name: remastered/obj/F_WI570.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI570.mdlx/-0.dds
@@ -3122,18 +3836,22 @@ assets:
 
 ###Platform###
 - name: remastered/obj/F_WI580.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI580.mdlx/-0.dds
 - name: remastered/obj/F_WI580.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI580.mdlx/-1.dds
 - name: remastered/obj/F_WI580.mdlx/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI580.mdlx/-2.dds
 - name: remastered/obj/F_WI580.mdlx/-3.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/F_WI580.mdlx/-3.dds
@@ -3145,18 +3863,22 @@ assets:
 
 ###Soldier###
 - name: remastered/obj/M_EX010_WI.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/M_EX010_WI.mdlx/-0.dds
 - name: remastered/obj/M_EX010_WI.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/M_EX010_WI.mdlx/-1.dds
 - name: remastered/obj/M_EX010_WI.mdlx/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/M_EX010_WI.mdlx/-2.dds
 - name: remastered/obj/M_EX010_WI.mdlx/-3.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/M_EX010_WI.mdlx/-3.dds
@@ -3164,6 +3886,7 @@ assets:
 
 ###Shadow###
 - name: remastered/obj/M_EX020_WI.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/M_EX020_WI.mdlx/-0.dds
@@ -3171,6 +3894,7 @@ assets:
 
 ###Shadow###
 - name: remastered/obj/M_EX020_WI_RAW.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/M_EX020_WI_RAW.mdlx/-0.dds
@@ -3178,14 +3902,17 @@ assets:
 
 ###Large Body###
 - name: remastered/obj/M_EX050_WI.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/M_EX050_WI.mdlx/-0.dds
 - name: remastered/obj/M_EX050_WI.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/M_EX050_WI.mdlx/-1.dds
 - name: remastered/obj/M_EX050_WI.mdlx/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/M_EX050_WI.mdlx/-2.dds
@@ -3193,18 +3920,22 @@ assets:
 
 ###Aeroplane###
 - name: remastered/obj/M_EX540_WI.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/M_EX540_WI.mdlx/-0.dds
 - name: remastered/obj/M_EX540_WI.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/M_EX540_WI.mdlx/-1.dds
 - name: remastered/obj/M_EX540_WI.mdlx/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/M_EX540_WI.mdlx/-2.dds
 - name: remastered/obj/M_EX540_WI.mdlx/-3.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/M_EX540_WI.mdlx/-3.dds
@@ -3212,56 +3943,68 @@ assets:
 
 ###Aeroplane###
 - name: remastered/obj/M_EX550_WI.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/M_EX550_WI.mdlx/-0.dds
 
 ###Hammer Frame###
 - name: remastered/obj/M_EX560_WI.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/M_EX560_WI.mdlx/-0.dds
 - name: remastered/obj/M_EX560_WI.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/M_EX560_WI.mdlx/-1.dds
 - name: remastered/obj/M_EX560_WI.mdlx/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/M_EX560_WI.mdlx/-2.dds
 - name: remastered/obj/M_EX560_WI.mdlx/-3.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/M_EX560_WI.mdlx/-3.dds
 
 ###Hot Rod###
 - name: remastered/obj/M_EX640_WI.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/M_EX640_WI.mdlx/-0.dds
 - name: remastered/obj/M_EX640_WI.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/M_EX640_WI.mdlx/-1.dds
 - name: remastered/obj/M_EX640_WI.mdlx/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/M_EX640_WI.mdlx/-2.dds
 
 ###Rapid Thruster###
 - name: remastered/obj/M_EX660_WI.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/M_EX660_WI.mdlx/-0.dds
 - name: remastered/obj/M_EX660_WI.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/M_EX660_WI.mdlx/-1.dds
 - name: remastered/obj/M_EX660_WI_RAW.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/M_EX660_WI_RAW.mdlx/-0.dds
 - name: remastered/obj/M_EX660_WI_RAW.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/M_EX660_WI_RAW.mdlx/-1.dds
@@ -3274,39 +4017,48 @@ assets:
 
 ###Captain Pete###
 - name: remastered/obj/N_WI010_BTL.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/N_WI010_BTL.mdlx/-0.dds
 - name: remastered/obj/N_WI010_BTL.mdlx/-1.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/N_WI010_BTL.mdlx/-1.dds
 - name: remastered/obj/N_WI010_BTL.mdlx/-2.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/N_WI010_BTL.mdlx/-2.dds
 
 - name: remastered/obj/N_WI010_BTL_VS.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/N_WI010_BTL_VS.mdlx/-0.dds
 - name: remastered/obj/N_WI010_BTL_VS.mdlx/-1.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/N_WI010_BTL_VS.mdlx/-1.dds
 - name: remastered/obj/N_WI010_BTL_VS.mdlx/-2.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/N_WI010_BTL_VS.mdlx/-2.dds
 - name: remastered/obj/N_WI010_RTN.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/N_WI010_RTN.mdlx/-0.dds
 - name: remastered/obj/N_WI010_RTN.mdlx/-1.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/N_WI010_RTN.mdlx/-1.dds
 - name: remastered/obj/N_WI010_RTN.mdlx/-2.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/N_WI010_RTN.mdlx/-2.dds
@@ -3314,14 +4066,17 @@ assets:
 
 ###Horace Horsecollar###
 - name: remastered/obj/N_WI020_RTN.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/N_WI020_RTN.mdlx/-0.dds
 - name: remastered/obj/N_WI020_RTN.mdlx/-1.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/N_WI020_RTN.mdlx/-1.dds
 - name: remastered/obj/N_WI020_RTN.mdlx/-2.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/N_WI020_RTN.mdlx/-2.dds
@@ -3329,14 +4084,17 @@ assets:
 
 ###Clarabelle Cow###
 - name: remastered/obj/N_WI030_RTN.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/N_WI030_RTN.mdlx/-0.dds
 - name: remastered/obj/N_WI030_RTN.mdlx/-1.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/N_WI030_RTN.mdlx/-1.dds
 - name: remastered/obj/N_WI030_RTN.mdlx/-2.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/N_WI030_RTN.mdlx/-2.dds
@@ -3344,10 +4102,12 @@ assets:
 
 ###Clara Cluck###
 - name: remastered/obj/N_WI040_RTN.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/N_WI040_RTN.mdlx/-0.dds
 - name: remastered/obj/N_WI040_RTN.mdlx/-1.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/N_WI040_RTN.mdlx/-1.dds
@@ -3355,10 +4115,12 @@ assets:
 
 ###Past Mickey###
 - name: remastered/obj/N_WI050_ISHI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/N_WI050_ISHI.mdlx/-0.dds
 - name: remastered/obj/N_WI050_ISHI.mdlx/-1.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/N_WI050_ISHI.mdlx/-1.dds
@@ -3368,18 +4130,22 @@ assets:
 ###"Color TR Sora" mod by JacobV4260###
 ###https://github.com/JacobV4260/ColorTRSoraOnly###
 - name: remastered/obj/P_EX100_WI.a.us/-8.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI.a.us/-8.dds
 - name: remastered/obj/P_EX100_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI.mdlx/-0.dds
 - name: remastered/obj/P_EX100_WI.mdlx/-1.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI.mdlx/-1.dds
 - name: remastered/obj/P_EX100_WI.mdlx/-2.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI.mdlx/-2.dds
@@ -3387,18 +4153,22 @@ assets:
 
 ###Sora (Valor Form)###
 - name: remastered/obj/P_EX100_WI_BTLF.a.us/-4.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_BTLF.a.us/-4.dds
 - name: remastered/obj/P_EX100_WI_BTLF.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_BTLF.mdlx/-0.dds
 - name: remastered/obj/P_EX100_WI_BTLF.mdlx/-1.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_BTLF.mdlx/-1.dds
 - name: remastered/obj/P_EX100_WI_BTLF.mdlx/-2.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_BTLF.mdlx/-2.dds
@@ -3406,10 +4176,12 @@ assets:
 
 ###Sora (Anti Form)###
 - name: remastered/obj/P_EX100_WI_HTLF.a.us/-3.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_HTLF.a.us/-3.dds
 - name: remastered/obj/P_EX100_WI_HTLF.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_HTLF.mdlx/-0.dds
@@ -3417,18 +4189,22 @@ assets:
 
 ###Sora Limit Form)###
 - name: remastered/obj/P_EX100_WI_KH1F.a.us/-9.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_KH1F.a.us/-9.dds
 - name: remastered/obj/P_EX100_WI_KH1F.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_KH1F.mdlx/-0.dds
 - name: remastered/obj/P_EX100_WI_KH1F.mdlx/-1.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_KH1F.mdlx/-1.dds
 - name: remastered/obj/P_EX100_WI_KH1F.mdlx/-2.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_KH1F.mdlx/-2.dds
@@ -3436,18 +4212,22 @@ assets:
 
 ###Sora (Wisdom Form)###
 - name: remastered/obj/P_EX100_WI_MAGF.a.us/-2.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_MAGF.a.us/-2.dds
 - name: remastered/obj/P_EX100_WI_MAGF.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_MAGF.mdlx/-0.dds
 - name: remastered/obj/P_EX100_WI_MAGF.mdlx/-1.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_MAGF.mdlx/-1.dds
 - name: remastered/obj/P_EX100_WI_MAGF.mdlx/-2.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_MAGF.mdlx/-2.dds
@@ -3455,18 +4235,22 @@ assets:
 
 ###Sora (Master Form)###
 - name: remastered/obj/P_EX100_WI_TRIF.a.us/-5.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_TRIF.a.us/-5.dds
 - name: remastered/obj/P_EX100_WI_TRIF.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_TRIF.mdlx/-0.dds
 - name: remastered/obj/P_EX100_WI_TRIF.mdlx/-1.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_TRIF.mdlx/-1.dds
 - name: remastered/obj/P_EX100_WI_TRIF.mdlx/-2.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_TRIF.mdlx/-2.dds
@@ -3474,18 +4258,22 @@ assets:
 
 ###Sora Final Form)###
 - name: remastered/obj/P_EX100_WI_ULTF.a.us/-10.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_ULTF.a.us/-10.dds
 - name: remastered/obj/P_EX100_WI_ULTF.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_ULTF.mdlx/-0.dds
 - name: remastered/obj/P_EX100_WI_ULTF.mdlx/-1.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_ULTF.mdlx/-1.dds
 - name: remastered/obj/P_EX100_WI_ULTF.mdlx/-2.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_ULTF.mdlx/-2.dds
@@ -3493,22 +4281,27 @@ assets:
 
 ###Donald Duck###
 - name: remastered/obj/P_WI020.a.us/-6.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_WI020.a.us/-6.dds
 - name: remastered/obj/P_WI020.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_WI020.mdlx/-0.dds
 - name: remastered/obj/P_WI020.mdlx/-1.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_WI020.mdlx/-1.dds
 - name: remastered/obj/P_WI020_RTN.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_WI020_RTN.mdlx/-0.dds
 - name: remastered/obj/P_WI020_RTN.mdlx/-1.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_WI020_RTN.mdlx/-1.dds
@@ -3516,22 +4309,27 @@ assets:
 
 ###Goofy###
 - name: remastered/obj/P_WI030.a.us/-2.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_WI030.a.us/-2.dds
 - name: remastered/obj/P_WI030.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_WI030.mdlx/-0.dds
 - name: remastered/obj/P_WI030.mdlx/-1.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_WI030.mdlx/-1.dds
 - name: remastered/obj/P_WI030_RTN.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_WI030_RTN.mdlx/-0.dds
 - name: remastered/obj/P_WI030_RTN.mdlx/-1.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/P_WI030_RTN.mdlx/-1.dds
@@ -3540,14 +4338,17 @@ assets:
 
 ###Mushroom 11###
 - name: remastered/obj/M_EX350_11.mdlx/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/M_EX350_11.mdlx/-0.dds
 - name: remastered/obj/M_EX350_11.mdlx/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/M_EX350_11.mdlx/-1.dds
 - name: remastered/obj/M_EX350_11.mdlx/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/M_EX350_11.mdlx/-2.dds
@@ -3556,6 +4357,7 @@ assets:
 
 ###Pete's Window Transition###
 - name: remastered/obj/N_EX760_BTL.a.us/-17.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/N_EX760_BTL.a.us/-17.dds
@@ -3565,144 +4367,168 @@ assets:
 
 ###Oath Keeper###
 - name: remastered/obj/W_EX010_10_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX010_10_WI.mdlx/-0.dds
 
 ###Oblivion###
 - name: remastered/obj/W_EX010_20_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX010_20_WI.mdlx/-0.dds
 
 ###Star Seeker###
 - name: remastered/obj/W_EX010_30_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX010_30_WI.mdlx/-0.dds
 
 ###Hidden Dragon###
 - name: remastered/obj/W_EX010_40_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX010_40_WI.mdlx/-0.dds
 
 ###Hero's Crest###
 - name: remastered/obj/W_EX010_50_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX010_50_WI.mdlx/-0.dds
 
 ###Monochrome###
 - name: remastered/obj/W_EX010_60_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX010_60_WI.mdlx/-0.dds
 
 ###Follow the Wind###
 - name: remastered/obj/W_EX010_70_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX010_70_WI.mdlx/-0.dds
 
 ###Circle of Life###
 - name: remastered/obj/W_EX010_80_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX010_80_WI.mdlx/-0.dds
 
 ###Photon Debugger###
 - name: remastered/obj/W_EX010_90_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX010_90_WI.mdlx/-0.dds
 
 ###Gull Wing###
 - name: remastered/obj/W_EX010_A0_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX010_A0_WI.mdlx/-0.dds
 
 ###Rumbling Rose###
 - name: remastered/obj/W_EX010_B0_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX010_B0_WI.mdlx/-0.dds
 
 ###Guardian Soul###
 - name: remastered/obj/W_EX010_C0_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX010_C0_WI.mdlx/-0.dds
 
 ###Wishing Lamp###
 - name: remastered/obj/W_EX010_D0_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX010_D0_WI.mdlx/-0.dds
 
 ###Decisive Pumpkin###
 - name: remastered/obj/W_EX010_E0_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX010_E0_WI.mdlx/-0.dds
 
 ###Sleeping Lion###
 - name: remastered/obj/W_EX010_F0_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX010_F0_WI.mdlx/-0.dds
 
 ###Sweet Memories###
 - name: remastered/obj/W_EX010_G0_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX010_G0_WI.mdlx/-0.dds
 
 ###Mysterious Abyss###
 - name: remastered/obj/W_EX010_H0_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX010_H0_WI.mdlx/-0.dds
 
 ###Fatal Crest###
 - name: remastered/obj/W_EX010_J0_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX010_J0_WI.mdlx/-0.dds
 
 ###Bond of Flame###
 - name: remastered/obj/W_EX010_K0_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX010_K0_WI.mdlx/-0.dds
 
 ###Fenrir###
 - name: remastered/obj/W_EX010_M0_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX010_M0_WI.mdlx/-0.dds
 
 ###Ultima Weapon###
 - name: remastered/obj/W_EX010_N0_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX010_N0_WI.mdlx/-0.dds
 
 ###Two Become One###
 - name: remastered/obj/W_EX010_P0_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX010_P0_WI.mdlx/-0.dds
 
 ###Winner's Proof###
 - name: remastered/obj/W_EX010_R0_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX010_R0_WI.mdlx/-0.dds
 
 ###Kingdom Key###
 - name: remastered/obj/W_EX010_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX010_WI.mdlx/-0.dds
@@ -3712,120 +4538,140 @@ assets:
 
 ###Hammer Staff###
 - name: remastered/obj/W_EX020_10_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX020_10_WI.mdlx/-0.dds
 
 ###Victory Bell###
 - name: remastered/obj/W_EX020_20_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX020_20_WI.mdlx/-0.dds
 
 ###Meteor Staff###
 - name: remastered/obj/W_EX020_30_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX020_30_WI.mdlx/-0.dds
 
 ###Comet Staff###
 - name: remastered/obj/W_EX020_40_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX020_40_WI.mdlx/-0.dds
 
 ###Lord's Brom###
 - name: remastered/obj/W_EX020_50_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX020_50_WI.mdlx/-0.dds
 
 ###Wisdom Wand###
 - name: remastered/obj/W_EX020_60_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX020_60_WI.mdlx/-0.dds
 
 ###Rising Dragon###
 - name: remastered/obj/W_EX020_70_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX020_70_WI.mdlx/-0.dds
 
 ###Nobody Lance###
 - name: remastered/obj/W_EX020_80_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX020_80_WI.mdlx/-0.dds
 
 ###Shaman's Relic###
 - name: remastered/obj/W_EX020_90_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX020_90_WI.mdlx/-0.dds
 
 ###Shaman's Relic+###
 - name: remastered/obj/W_EX020_94_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX020_94_WI.mdlx/-0.dds
 
 ###Save the Queen###
 - name: remastered/obj/W_EX020_A0_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX020_A0_WI.mdlx/-0.dds
 
 ###Save the Queen+###
 - name: remastered/obj/W_EX020_A4_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX020_A4_WI.mdlx/-0.dds
 
 ###Centurion###
 - name: remastered/obj/W_EX020_B0_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX020_B0_WI.mdlx/-0.dds
 
 ###Centurion+###
 - name: remastered/obj/W_EX020_B4_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX020_B4_WI.mdlx/-0.dds
 
 ###Plain Mushroom###
 - name: remastered/obj/W_EX020_C0_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX020_C0_WI.mdlx/-0.dds
 
 ###Plain Mushroom+###
 - name: remastered/obj/W_EX020_C4_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX020_C4_WI.mdlx/-0.dds
 
 ###Precious Mushroom###
 - name: remastered/obj/W_EX020_C8_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX020_C8_WI.mdlx/-0.dds
 
 ###Precious Mushroom+###
 - name: remastered/obj/W_EX020_CC_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX020_CC_WI.mdlx/-0.dds
 
 ###Premium Mushroom###
 - name: remastered/obj/W_EX020_CG_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX020_CG_WI.mdlx/-0.dds
 
 ###Mage's Staff###
 - name: remastered/obj/W_EX020_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX020_WI.mdlx/-0.dds
@@ -3835,124 +4681,145 @@ assets:
 
 ###Adamant Shield###
 - name: remastered/obj/W_EX030_10_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX030_10_WI.mdlx/-0.dds
 
 ###Chain Gear###
 - name: remastered/obj/W_EX030_20_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX030_20_WI.mdlx/-0.dds
 
 ###Ogre Shield###
 - name: remastered/obj/W_EX030_30_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX030_30_WI.mdlx/-0.dds
 
 ###Falling Star###
 - name: remastered/obj/W_EX030_40_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX030_40_WI.mdlx/-0.dds
 
 ###Dreamcloud###
 - name: remastered/obj/W_EX030_50_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX030_50_WI.mdlx/-0.dds
 
 ###Knight Defender###
 - name: remastered/obj/W_EX030_60_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX030_60_WI.mdlx/-0.dds
 
 ###Genji Shield###
 - name: remastered/obj/W_EX030_70_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX030_70_WI.mdlx/-0.dds
 - name: remastered/obj/W_EX030_70_WI.mdlx/-1.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX030_70_WI.mdlx/-1.dds
 
 ###Akashic Record###
 - name: remastered/obj/W_EX030_80_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX030_80_WI.mdlx/-0.dds
 
 ###Akashic Record+###
 - name: remastered/obj/W_EX030_84_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX030_84_WI.mdlx/-0.dds
 
 ###Nobody Guard###
 - name: remastered/obj/W_EX030_90_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX030_90_WI.mdlx/-0.dds
 
 ###Save the King###
 - name: remastered/obj/W_EX030_A0_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX030_A0_WI.mdlx/-0.dds
 
 ###Save the King+###
 - name: remastered/obj/W_EX030_A4_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX030_A4_WI.mdlx/-0.dds
 
 ###Frozen Pride###
 - name: remastered/obj/W_EX030_B0_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX030_B0_WI.mdlx/-0.dds
 
 ###Frozen Pride+###
 - name: remastered/obj/W_EX030_B4_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX030_B4_WI.mdlx/-0.dds
 
 ###Joyous Mushroom###
 - name: remastered/obj/W_EX030_C0_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX030_C0_WI.mdlx/-0.dds
 
 ###Joyous Mushroom+###
 - name: remastered/obj/W_EX030_C4_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX030_C4_WI.mdlx/-0.dds
 
 ###Majestic Mushroom###
 - name: remastered/obj/W_EX030_C8_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX030_C8_WI.mdlx/-0.dds
 
 ###Majestic Mushroom+###
 - name: remastered/obj/W_EX030_CC_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX030_CC_WI.mdlx/-0.dds
 
 ###Ultimate Mushroom###
 - name: remastered/obj/W_EX030_CG_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX030_CG_WI.mdlx/-0.dds
 
 ###Knight's Shield###
 - name: remastered/obj/W_EX030_WI.mdlx/-0.dds
+  package: kh2_sixth
   method: copy
   source:
   - name: remastered/obj/W_EX030_WI.mdlx/-0.dds
@@ -3963,96 +4830,112 @@ assets:
 
 ###Sora###
 - name: remastered/menu/jmface_wi.2ld/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/jmface_wi.2ld/-0.dds
 
 ###Donald###
 - name: remastered/menu/jmface_wi.2ld/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/jmface_wi.2ld/-1.dds
 
 ###Goofy###
 - name: remastered/menu/jmface_wi.2ld/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/jmface_wi.2ld/-2.dds
 
 ###Captain Pete###
 - name: remastered/menu/jmface_wi.2ld/-3.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/jmface_wi.2ld/-3.dds
 
 ###Horace Horsecollar###
 - name: remastered/menu/jmface_wi.2ld/-4.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/jmface_wi.2ld/-4.dds
 
 ###Clarabell Cow###
 - name: remastered/menu/jmface_wi.2ld/-5.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/jmface_wi.2ld/-5.dds
 
 ###Clara Cluck###
 - name: remastered/menu/jmface_wi.2ld/-6.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/jmface_wi.2ld/-6.dds
 
 ###Mickey###
 - name: remastered/menu/jmface_wi.2ld/-7.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/jmface_wi.2ld/-7.dds
 
 ###Sora###
 - name: remastered/menu/jmface_wi0.imd/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/jmface_wi0.imd/-0.dds
 
 ###Donald###
 - name: remastered/menu/jmface_wi1.imd/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/jmface_wi1.imd/-0.dds
 
 ###Goofy###
 - name: remastered/menu/jmface_wi2.imd/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/jmface_wi2.imd/-0.dds
 
 ###Captain Pete###
 - name: remastered/menu/jmface_wi3.imd/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/jmface_wi3.imd/-0.dds
 
 ###Horace Horsecollar###
 - name: remastered/menu/jmface_wi4.imd/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/jmface_wi4.imd/-0.dds
 
 ###Clarabell Cow###
 - name: remastered/menu/jmface_wi5.imd/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/jmface_wi5.imd/-0.dds
 
 ###Clara Cluck###
 - name: remastered/menu/jmface_wi6.imd/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/jmface_wi6.imd/-0.dds
 
 ###Mickey###
 - name: remastered/menu/jmface_wi7.imd/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/jmface_wi7.imd/-0.dds
@@ -4063,18 +4946,21 @@ assets:
 
 ###Journal World Title###
 - name: remastered/menu/jm_top_wi.2ld/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/jm_top_wi.2ld/-0.dds
 
 ###Journal World Logo###
 - name: remastered/menu/jm_top_wi.2ld/-1.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/jm_top_wi.2ld/-1.dds
 
 ###Journal World Logo###
 - name: remastered/menu/jm_world.2ld/-10.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/jm_world.2ld/-10.dds
@@ -4086,18 +4972,21 @@ assets:
 ###Shop Huds###
 ###Sora Shop Hud###
 - name: remastered/menu/shopface/p_ex100_30.bin/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/shopface/p_ex100_30.bin/-0.dds
 
 ###Donald Shop Hud###
 - name: remastered/menu/shopface/p_wi020.bin/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/shopface/p_wi020.bin/-0.dds
 
 ###Goofy Shop Hud###
 - name: remastered/menu/shopface/p_wi030.bin/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/shopface/p_wi030.bin/-0.dds
@@ -4109,12 +4998,14 @@ assets:
 ###Theater Picture###
 ###Main folder###
 - name: remastered/menu/eventviewer.2ld/-11.png
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/eventviewer.2ld/-11.png
 
 ###US-only folder###
 - name: remastered/menu/us/titlejf.2ld/US_titlejf_2ld21.png
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/us/titlejf.2ld/US_titlejf_2ld21.png
@@ -4126,32 +5017,39 @@ assets:
 ###Save Icon###
 ###US sub-folder###
 - name: remastered/menu/us/save.2ld/US_save_2ld2.png
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/us/save.2ld/US_save_2ld2.png
 
 ###fm sub-folder###
 - name: remastered/menu/fm/save.2ld/-2.png
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/save.2ld/-2.png
 - name: remastered/menu/fm/save.2ld/US_save_2ld2.png
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/save.2ld/US_save_2ld2.png
 - name: remastered/menu/fm/save.2ld/FR_save_2ld2.png
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/save.2ld/FR_save_2ld2.png
 - name: remastered/menu/fm/save.2ld/GR_save_2ld2.png
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/save.2ld/GR_save_2ld2.png
 - name: remastered/menu/fm/save.2ld/IT_save_2ld2.png
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/save.2ld/IT_save_2ld2.png
 - name: remastered/menu/fm/save.2ld/SP_save_2ld2.png
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/save.2ld/SP_save_2ld2.png
@@ -4161,18 +5059,22 @@ assets:
 
 ###Title Popup During Cutscene###
 - name: remastered/event/effect/wi_event_103.pax/-2.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/event/effect/wi_event_103.pax/-2.dds
 - name: remastered/event/effect/wi_event_103.pax/-3.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/event/effect/wi_event_103.pax/-3.dds
 - name: remastered/event/effect/wi_event_103.pax/-4.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/event/effect/wi_event_103.pax/-4.dds
 - name: remastered/event/effect/wi_event_103.pax/-5.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/event/effect/wi_event_103.pax/-5.dds
@@ -4183,6 +5085,7 @@ assets:
 
 ###Command Menu###
 - name: remastered/field2d/us/wi0command.2dd/US_wi0command_2dd0.png
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/field2d/us/wi0command.2dd/US_wi0command_2dd0.png
@@ -4196,120 +5099,148 @@ assets:
 
 ###Captain Pete sitting on the ground with Sora and Goofy looking###
 - name: remastered/menu/fm/jm_photo/wi11.bin/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/jm_photo/wi11.bin/-0.dds
 - name: remastered/menu/fm/jm_photo/wi11.bin/FR_wi11_bin0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/jm_photo/wi11.bin/FR_wi11_bin0.dds
 - name: remastered/menu/fm/jm_photo/wi11.bin/GR_wi11_bin0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/jm_photo/wi11.bin/GR_wi11_bin0.dds
 - name: remastered/menu/fm/jm_photo/wi11.bin/IT_wi11_bin0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/jm_photo/wi11.bin/IT_wi11_bin0.dds
 - name: remastered/menu/fm/jm_photo/wi11.bin/SP_wi11_bin0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/jm_photo/wi11.bin/SP_wi11_bin0.dds
 - name: remastered/menu/fm/jm_photo/wi11.bin/UK_wi11_bin0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/jm_photo/wi11.bin/UK_wi11_bin0.dds
 - name: remastered/menu/fm/jm_photo/wi11.bin/US_wi11_bin0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/jm_photo/wi11.bin/US_wi11_bin0.dds
 
 ###Mickey shaking Sora's hand in the house###
 - name: remastered/menu/fm/jm_photo/wi12.bin/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/jm_photo/wi12.bin/-0.dds
 - name: remastered/menu/fm/jm_photo/wi12.bin/FR_wi12_bin0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/jm_photo/wi12.bin/FR_wi12_bin0.dds
 - name: remastered/menu/fm/jm_photo/wi12.bin/GR_wi12_bin0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/jm_photo/wi12.bin/GR_wi12_bin0.dds
 - name: remastered/menu/fm/jm_photo/wi12.bin/IT_wi12_bin0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/jm_photo/wi12.bin/IT_wi12_bin0.dds
 - name: remastered/menu/fm/jm_photo/wi12.bin/SP_wi12_bin0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/jm_photo/wi12.bin/SP_wi12_bin0.dds
 - name: remastered/menu/fm/jm_photo/wi12.bin/UK_wi12_bin0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/jm_photo/wi12.bin/UK_wi12_bin0.dds
 - name: remastered/menu/fm/jm_photo/wi12.bin/US_wi12_bin0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/jm_photo/wi12.bin/US_wi12_bin0.dds
 
 ###Future Pete about to hit Captain Pete###
 - name: remastered/menu/fm/jm_photo/wi13.bin/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/jm_photo/wi13.bin/-0.dds
 - name: remastered/menu/fm/jm_photo/wi13.bin/FR_wi13_bin0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/jm_photo/wi13.bin/FR_wi13_bin0.dds
 - name: remastered/menu/fm/jm_photo/wi13.bin/GR_wi13_bin0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/jm_photo/wi13.bin/GR_wi13_bin0.dds
 - name: remastered/menu/fm/jm_photo/wi13.bin/IT_wi13_bin0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/jm_photo/wi13.bin/IT_wi13_bin0.dds
 - name: remastered/menu/fm/jm_photo/wi13.bin/SP_wi13_bin0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/jm_photo/wi13.bin/SP_wi13_bin0.dds
 - name: remastered/menu/fm/jm_photo/wi13.bin/UK_wi13_bin0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/jm_photo/wi13.bin/UK_wi13_bin0.dds
 - name: remastered/menu/fm/jm_photo/wi13.bin/US_wi13_bin0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/jm_photo/wi13.bin/US_wi13_bin0.dds
 
 ###Sora, Donald, and Goofy on Captain Pete's Boat###
 - name: remastered/menu/fm/jm_photo/wi14.bin/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/jm_photo/wi14.bin/-0.dds
 - name: remastered/menu/fm/jm_photo/wi14.bin/FR_wi14_bin0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/jm_photo/wi14.bin/FR_wi14_bin0.dds
 - name: remastered/menu/fm/jm_photo/wi14.bin/GR_wi14_bin0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/jm_photo/wi14.bin/GR_wi14_bin0.dds
 - name: remastered/menu/fm/jm_photo/wi14.bin/IT_wi14_bin0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/jm_photo/wi14.bin/IT_wi14_bin0.dds
 - name: remastered/menu/fm/jm_photo/wi14.bin/SP_wi14_bin0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/jm_photo/wi14.bin/SP_wi14_bin0.dds
 - name: remastered/menu/fm/jm_photo/wi14.bin/UK_wi14_bin0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/jm_photo/wi14.bin/UK_wi14_bin0.dds
 - name: remastered/menu/fm/jm_photo/wi14.bin/US_wi14_bin0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/fm/jm_photo/wi14.bin/US_wi14_bin0.dds
@@ -4317,24 +5248,28 @@ assets:
 ###US Only Photos###
 ###Captain Pete sitting on the ground with Sora and Goofy looking###
 - name: remastered/menu/us/jm_photo/wi11.bin/US_wi11_bin0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/us/jm_photo/wi11.bin/US_wi11_bin0.dds
 
 ###Mickey shaking Sora's hand in the house###
 - name: remastered/menu/us/jm_photo/wi12.bin/US_wi12_bin0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/us/jm_photo/wi12.bin/US_wi12_bin0.dds
 
 ###Future Pete about to hit Captain Pete###
 - name: remastered/menu/us/jm_photo/wi13.bin/US_wi13_bin0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/us/jm_photo/wi13.bin/US_wi13_bin0.dds
 
 ###Sora, Donald, and Goofy on Captain Pete's Boat###
 - name: remastered/menu/us/jm_photo/wi14.bin/US_wi14_bin0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/menu/us/jm_photo/wi14.bin/US_wi14_bin0.dds
@@ -4344,30 +5279,36 @@ assets:
 
 ###Sora and Goofy looking at Window###
 - name: remastered/event/layout/wi_104s_1.2ld/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/event/layout/wi_104s_1.2ld/-0.dds
 - name: remastered/event/layout/wi_104s_1.2ld/JP_wi_104s_1_2ld0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/event/layout/wi_104s_1.2ld/JP_wi_104s_1_2ld0.dds
 
 ###Sora, Donald, and Goofy talking at Cornerstone Hill###
 - name: remastered/event/layout/wi_104s_2.2ld/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/event/layout/wi_104s_2.2ld/-0.dds
 - name: remastered/event/layout/wi_104s_2.2ld/JP_wi_104s_2_2ld0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/event/layout/wi_104s_2.2ld/JP_wi_104s_2_2ld0.dds
 
 ###Sora, Donald, and Goofy talking in front of Windows at Cornerstone Hill###
 - name: remastered/event/layout/wi_113s_1.2ld/-0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/event/layout/wi_113s_1.2ld/-0.dds
 - name: remastered/event/layout/wi_113s_1.2ld/JP_wi_113s_1_2ld0.dds
+  package: kh2_fifth
   method: copy
   source:
   - name: remastered/event/layout/wi_113s_1.2ld/JP_wi_113s_1_2ld0.dds
@@ -4377,6 +5318,7 @@ assets:
 
 ###Monochrome Dreams###
 - name: bgm/music189.win32.scd
+  package: kh2_fifth
   method: copy
   source:
    - name: bgm/music189.win32.scd
@@ -4384,6 +5326,7 @@ assets:
 
 ###Old Frineds, Old Rivals###
 - name: bgm/music190.win32.scd
+  package: kh2_fifth
   method: copy
   source:
    - name: bgm/music190.win32.scd
@@ -4392,6 +5335,7 @@ assets:
 ###Rowdy Rumble###
 ###Changes Rowdy Rumble from the Timeless River Version###
 - name: bgm/music517.win32.scd
+  package: kh2_fifth
   method: copy
   source:
    - name: bgm/music117.win32.scd
@@ -4400,6 +5344,7 @@ assets:
 ###Desire for All That Is Lost###
 ###Changes Desire for All That Is Lost from the Timeless River Version###
 - name: bgm/music521.win32.scd
+  package: kh2_fifth
   method: copy
   source:
    - name: bgm/music121.win32.scd
@@ -4409,6 +5354,7 @@ assets:
 ###Replaces the old-timey projector and scratch sounds##
 ###Sounds are removed, but new sounds don't seem to replace it? As long as the music is ran, you can't really tell###
 - name: se/se014.win32.scd
+  package: kh2_sixth
   method: copy
   source:
    - name: se/se014.win32.scd
